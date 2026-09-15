@@ -1,0 +1,81 @@
+
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+
+# dbt Build Artifacts, Dependencies & Logs
+
+# dbt compilation & run manifests
+**/target/
+dbt_project/target/
+
+# Third-party dbt packages installed via `dbt deps`
+**/dbt_packages/
+dbt_project/dbt_packages/
+
+# dbt execution logs
+**/logs/
+dbt_project/logs/
+*.log
+
+# Local dbt profile if containing credentials
+**/dbt_project/.dbt/profiles.yml
+dbt_project/.dbt/
+
+
+# Python Artifacts & Virtual Environments
+# 
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Testing & Type Checking
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+
+# ===================================================
+# Database & Docker Local Data
+# ===================================================
+pgdata/
+postgres_data/
+
+# ===================================================
+# IDE & Operating System Files
+# ===================================================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+desktop.ini

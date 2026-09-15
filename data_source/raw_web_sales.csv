@@ -1,0 +1,1201 @@
+order_id,order_date,customer_id,customer_name,country,product_id,category,quantity,unit_price,payment_method,order_status,platform
+WEB-10001,2026-05-31,CUST-348,Michael Harding,CA,PROD-017,Clothing,2,76.24,Debit Card,Completed,Mobile Web
+WEB-10002,2025-10-19,CUST-239,Anna Johnson,DE,PROD-067,Clothing,1,27.39,PayPal,Completed,Mobile Web
+WEB-10003,2026-01-12,CUST-143,James Carroll,US,PROD-096,Electronics,1,308.09,Credit Card,Completed,Mobile Web
+WEB-10004,2026-01-03,CUST-282,Theresa Pugh,DE,PROD-093,Home,5,74.83,PayPal,Returned,Desktop Web
+WEB-10005,2026-06-24,CUST-316,Jane Moreno,FR,PROD-056,Electronics,2,556.49,Debit Card,Cancelled,Desktop Web
+WEB-10006,2026-06-11,CUST-140,James Stephenson,US,PROD-041,Electronics,5,445.27,Credit Card,Cancelled,Mobile Web
+WEB-10007,2026-08-20,CUST-162,Tyler Sampson,FR,PROD-052,Clothing,1,41.55,PayPal,Returned,Mobile Web
+WEB-10008,2025-12-09,CUST-268,Catherine Navarro,CA,PROD-001,Electronics,3,722.81,Debit Card,Cancelled,Desktop Web
+WEB-10009,2026-02-27,CUST-325,Andrea Copeland,US,PROD-061,Electronics,2,390.1,UPI,Completed,Mobile Web
+WEB-10010,2026-05-23,CUST-235,John Hood,IN,PROD-094,Books,1,41.66,Debit Card,Returned,Mobile Web
+WEB-10011,2026-07-25,CUST-216,John Schmidt,DE,PROD-062,Clothing,4,41.24,Debit Card,Returned,Mobile App
+WEB-10012,2025-11-12,CUST-177,Audrey Hart,DE,PROD-085,Sports,2,47.53,UPI,Cancelled,Mobile Web
+WEB-10013,2026-05-26,,Amy Cole,FR,PROD-042,Clothing,2,50.39,UPI,Returned,Desktop Web
+WEB-10014,2026-08-11,CUST-297,Sarah Johnson,CA,PROD-037,Clothing,2,33.36,PayPal,Completed,Mobile App
+WEB-10015,2026-04-04,CUST-107,Tonya Owen,US,PROD-087,Clothing,3,37.09,Credit Card,Completed,Mobile App
+WEB-10016,2025-11-09,CUST-236,James Chambers,UK,PROD-047,Clothing,3,19.94,Debit Card,Cancelled,Mobile Web
+WEB-10017,2026-06-19,CUST-396,Mr. Tristan Ward,FR,PROD-050,Sports,5,54.44,Debit Card,Cancelled,Mobile Web
+WEB-10018,2026-08-14,CUST-196,Marvin Berry,IN,PROD-023,Home,2,147.45,Credit Card,Returned,Mobile App
+WEB-10019,2026-08-16,CUST-165,Kim Henderson,DE,PROD-021,Electronics,2,752.77,UPI,Returned,Mobile App
+WEB-10020,2026-06-21,CUST-272,Tiffany Reeves,FR,PROD-078,Home,3,248.99,UPI,Returned,Mobile App
+WEB-10021,2025-12-21,CUST-331,Steven Walsh,UK,PROD-025,Sports,3,120.1,Credit Card,Completed,Mobile Web
+WEB-10022,2026-06-13,CUST-159,Rachel Dean,UK,PROD-025,Sports,3,78.15,Debit Card,Completed,Mobile Web
+WEB-10023,2026-07-23,CUST-258,Nicole Ortiz,FR,PROD-011,Electronics,3,54.57,Credit Card,Completed,Desktop Web
+WEB-10024,2025-10-15,CUST-178,Gary Harris,US,PROD-045,Sports,3,293.91,PayPal,Returned,Mobile App
+WEB-10025,2025-10-06,CUST-124,John Hughes,CA,PROD-048,Home,3,75.27,PayPal,Returned,Mobile App
+WEB-10026,2025-11-05,CUST-233,Steve Rosales,DE,PROD-094,Books,5,15.77,UPI,Completed,Mobile Web
+WEB-10027,2026-01-20,CUST-162,David Jackson,FR,PROD-048,Home,5,243.46,UPI,Cancelled,Desktop Web
+WEB-10028,2026-02-05,CUST-154,Diane Willis,IN,PROD-009,Books,4,22.33,UPI,Completed,Mobile Web
+WEB-10029,2025-11-23,CUST-153,Austin Levy,CA,PROD-017,Clothing,5,16.72,PayPal,Completed,Desktop Web
+WEB-10030,2026-08-23,CUST-270,Courtney Smith,FR,PROD-056,Electronics,1,631.19,Credit Card,Returned,Mobile Web
+WEB-10031,2026-05-12,CUST-123,Theresa Clarke,US,PROD-041,Electronics,1,282.04,Debit Card,Returned,Desktop Web
+WEB-10032,2026-09-09,CUST-400,John Andrade,US,PROD-007,Clothing,1,108.95,UPI,Completed,Mobile Web
+WEB-10033,2025-12-02,CUST-186,Timothy Hamilton,CA,PROD-021,Electronics,3,613.93,Credit Card,Cancelled,Mobile App
+WEB-10034,2026-08-21,CUST-119,Todd Smith,DE,PROD-097,Clothing,4,102.23,Debit Card,Returned,Mobile Web
+WEB-10035,2026-04-18,CUST-297,Susan Brown,US,PROD-033,Home,3,204.35,Debit Card,Cancelled,Mobile App
+WEB-10036,2026-02-15,CUST-319,Mr. Keith Norton MD,IN,PROD-058,Home,1,137.84,Credit Card,Returned,Desktop Web
+WEB-10037,2026-02-07,CUST-291,Sarah Gray,IN,PROD-083,Home,1,170.0,PayPal,Cancelled,Mobile Web
+WEB-10038,2026-05-20,CUST-268,Amy Hopkins,UK,PROD-076,Electronics,1,543.36,Debit Card,Cancelled,Mobile App
+WEB-10039,2026-03-05,CUST-157,Margaret Rivera,US,PROD-057,Clothing,3,101.21,UPI,Completed,Mobile App
+WEB-10040,2025-12-03,CUST-222,Terri Quinn,US,PROD-075,Sports,3,203.86,Debit Card,Completed,Mobile App
+WEB-10041,2025-09-29,CUST-142,Regina Richardson,CA,PROD-099,Books,1,34.73,Credit Card,Cancelled,Desktop Web
+WEB-10042,2026-04-17,CUST-117,Nathan Wallace,FR,PROD-080,Sports,1,283.02,Credit Card,Cancelled,Mobile App
+WEB-10043,2026-01-08,CUST-275,Nicholas Jones,UK,PROD-039,Books,2,18.67,Debit Card,Cancelled,Mobile Web
+WEB-10044,2026-05-11,CUST-195,Michael Stokes,FR,PROD-003,Home,2,154.1,Credit Card,Returned,Desktop Web
+WEB-10045,2026-01-05,CUST-233,Jordan Lambert,IN,PROD-069,Books,1,23.07,Debit Card,Returned,Mobile App
+WEB-10046,2026-07-01,CUST-131,Dr. Courtney Wilson,AU,PROD-098,Home,5,211.77,Credit Card,Completed,Mobile App
+WEB-10047,2025-11-07,CUST-199,Greg Potter,AU,PROD-040,Sports,5,105.94,Debit Card,Cancelled,Mobile Web
+WEB-10048,2026-04-23,CUST-285,Cody Miller,DE,PROD-078,Home,3,220.33,PayPal,Completed,Mobile App
+WEB-10049,2026-08-24,CUST-342,Brenda Hunter,FR,PROD-080,Sports,1,223.93,Credit Card,Cancelled,Mobile Web
+WEB-10050,2026-05-21,CUST-109,Sarah Bradshaw,FR,PROD-001,Electronics,3,582.69,Debit Card,Completed,Mobile Web
+WEB-10051,2026-09-04,CUST-172,Timothy Lewis,FR,PROD-055,Sports,3,244.9,PayPal,Cancelled,Mobile App
+WEB-10052,2026-02-15,CUST-187,Victor Camacho,AU,PROD-015,Sports,2,73.85,UPI,Returned,Mobile Web
+WEB-10053,2026-10-03,CUST-242,Eddie Valdez,CA,PROD-026,Electronics,5,248.46,Credit Card,Cancelled,Mobile App
+WEB-10054,2025-11-22,CUST-113,Sean Young,UK,PROD-028,Home,1,133.64,PayPal,Returned,Mobile Web
+WEB-10055,2026-04-22,CUST-384,Sherry Harris,FR,PROD-002,Clothing,5,23.14,PayPal,Cancelled,Mobile App
+WEB-10056,2026-01-10,CUST-217,Amanda Morrison,DE,PROD-093,Home,4,61.5,Credit Card,Returned,Mobile App
+WEB-10057,2026-04-19,CUST-281,Heather Turner,CA,PROD-050,Sports,3,245.36,Credit Card,Cancelled,Mobile App
+WEB-10058,2026-01-16,CUST-268,Scott King,DE,PROD-078,Home,4,206.93,Credit Card,Cancelled,Mobile Web
+WEB-10059,2026-01-24,CUST-310,Elizabeth Rowe,AU,PROD-087,Clothing,2,16.43,UPI,Returned,Desktop Web
+WEB-10060,2025-10-21,CUST-259,Daniel Craig,UK,PROD-020,Sports,5,64.13,PayPal,Completed,Mobile Web
+WEB-10061,2026-02-22,CUST-140,Linda Ware,UK,PROD-003,Home,3,164.48,UPI,Returned,Desktop Web
+WEB-10062,2026-03-14,CUST-215,Keith Patel,AU,PROD-091,Electronics,3,333.29,Debit Card,Cancelled,Mobile App
+WEB-10063,2026-08-13,CUST-227,Richard West,UK,PROD-061,Electronics,4,407.22,Debit Card,Completed,Mobile App
+WEB-10064,2026-03-28,CUST-204,Joseph Mitchell,FR,PROD-068,Home,5,50.42,PayPal,Cancelled,Mobile Web
+WEB-10065,2026-03-02,CUST-281,Tammy Williams,AU,PROD-092,Clothing,1,118.52,UPI,Cancelled,Mobile App
+WEB-10066,2026-04-20,CUST-150,Andrew Mccann,UK,PROD-035,Sports,2,38.27,PayPal,Completed,Desktop Web
+WEB-10067,2025-11-23,CUST-267,Lisa Wade,CA,PROD-046,Electronics,2,543.65,UPI,Returned,Desktop Web
+WEB-10068,2026-03-09,CUST-399,Kristin Chandler,US,PROD-006,Electronics,1,692.8,UPI,Completed,Mobile App
+WEB-10069,2026-01-18,CUST-264,Tracy Parker,AU,PROD-017,Clothing,4,105.74,UPI,Returned,Desktop Web
+WEB-10070,2026-06-05,CUST-384,Mary Lambert,FR,PROD-011,Electronics,5,169.42,Debit Card,Completed,Mobile App
+WEB-10071,2025-12-09,CUST-272,Derek Oneal,US,PROD-038,Home,1,114.16,PayPal,Completed,Mobile Web
+WEB-10072,2026-08-25,CUST-322,Daniel Gonzalez,AU,PROD-074,Books,5,18.25,UPI,Returned,Mobile Web
+WEB-10073,2026-06-01,CUST-281,Sarah Prince,AU,PROD-047,Clothing,4,106.63,Debit Card,Cancelled,Mobile Web
+WEB-10074,2025-12-07,CUST-370,Carolyn Jordan,IN,PROD-026,Electronics,4,661.53,UPI,Cancelled,Mobile Web
+WEB-10075,2025-11-30,,Allen Walsh,FR,PROD-043,Home,2,177.93,UPI,Completed,Mobile Web
+WEB-10076,2026-06-28,CUST-107,Daniel Lawson,IN,PROD-026,Electronics,4,331.51,UPI,Cancelled,Desktop Web
+WEB-10077,2026-07-18,CUST-272,Ashley Howell,IN,PROD-008,Home,4,24.39,Debit Card,Completed,Mobile Web
+WEB-10078,2026-03-17,CUST-357,Arthur Jones,US,PROD-063,Home,3,124.73,Credit Card,Returned,Mobile App
+WEB-10079,2026-05-19,CUST-227,Michael Kirby,IN,PROD-082,Clothing,5,98.57,UPI,Returned,Mobile Web
+WEB-10080,2026-01-20,CUST-111,Megan Anderson,FR,PROD-027,Clothing,2,37.59,Credit Card,Cancelled,Mobile Web
+WEB-10081,2025-10-05,CUST-216,John Rodriguez,UK,PROD-022,Clothing,5,97.73,Credit Card,Returned,Mobile App
+WEB-10082,2026-01-05,CUST-183,Katie Burke,IN,PROD-022,Clothing,4,35.87,PayPal,Completed,Desktop Web
+WEB-10083,2025-12-07,CUST-297,Tim Young,US,PROD-057,Clothing,5,104.73,UPI,Returned,Mobile App
+WEB-10084,2026-05-29,CUST-308,Jillian Hamilton,FR,PROD-023,Home,2,83.46,PayPal,Returned,Mobile Web
+WEB-10085,2025-12-30,CUST-213,Monica Oliver,DE,PROD-021,Electronics,1,333.24,Credit Card,Cancelled,Desktop Web
+WEB-10086,2026-07-20,CUST-346,Deanna Johnson,FR,PROD-067,Clothing,4,115.38,UPI,Completed,Desktop Web
+WEB-10087,2026-05-02,CUST-218,Christine Randolph,CA,PROD-100,Sports,2,76.74,Credit Card,Returned,Desktop Web
+WEB-10088,2026-08-21,CUST-371,Heather Curtis,IN,PROD-064,Books,5,23.06,PayPal,Cancelled,Mobile App
+WEB-10089,2025-10-15,CUST-398,Valerie Perry,US,PROD-078,Home,3,20.34,Debit Card,Cancelled,Mobile Web
+WEB-10090,2026-08-20,CUST-377,William Herman,IN,PROD-020,Sports,4,229.23,UPI,Returned,Mobile Web
+WEB-10091,2025-10-03,CUST-192,Michael Harris,AU,PROD-015,Sports,3,212.25,Credit Card,Cancelled,Mobile Web
+WEB-10092,2026-03-01,CUST-201,Mark Austin,FR,PROD-093,Home,5,95.46,PayPal,Completed,Mobile Web
+WEB-10093,2026-03-14,CUST-226,John Taylor,AU,PROD-027,Clothing,5,77.6,Credit Card,Returned,Mobile Web
+WEB-10094,2026-02-18,CUST-332,Chelsea Jennings,CA,PROD-021,Electronics,5,355.22,Debit Card,Returned,Mobile Web
+WEB-10095,2025-11-05,CUST-326,Katrina Medina,AU,PROD-096,Electronics,4,785.03,PayPal,Returned,Mobile Web
+WEB-10096,2025-11-11,CUST-343,Jeffrey Hartman,FR,PROD-015,Sports,5,220.34,UPI,Cancelled,Mobile Web
+WEB-10097,2026-04-06,CUST-308,Tyler Michael,FR,PROD-038,Home,2,71.0,PayPal,Cancelled,Mobile Web
+WEB-10098,2026-01-19,CUST-300,Ashley Weaver,UK,PROD-080,Sports,1,68.65,Debit Card,Completed,Mobile Web
+WEB-10099,2026-02-07,CUST-201,Amy Pacheco,AU,PROD-076,Electronics,1,451.29,Credit Card,Cancelled,Mobile Web
+WEB-10100,2026-01-31,CUST-324,Daniel Nguyen,IN,PROD-065,Sports,4,240.38,Credit Card,Cancelled,Mobile App
+WEB-10101,2026-01-15,CUST-176,Taylor Munoz PhD,AU,PROD-084,Books,3,8.71,Credit Card,Returned,Desktop Web
+WEB-10102,2026-08-07,CUST-186,Amanda Riley,UK,PROD-066,Electronics,5,78.46,UPI,Completed,Mobile Web
+WEB-10103,2025-11-16,CUST-256,Dr. Glenn Johnson,DE,PROD-011,Electronics,3,215.07,UPI,Cancelled,Mobile Web
+WEB-10104,2026-02-27,CUST-299,Stuart Khan,DE,PROD-088,Home,1,198.68,Debit Card,Completed,Desktop Web
+WEB-10105,2026-08-13,CUST-103,Joshua Welch,AU,PROD-044,Books,1,12.56,UPI,Returned,Mobile App
+WEB-10106,2026-01-08,CUST-200,Adam Cole,DE,PROD-098,Home,3,184.81,PayPal,Returned,Desktop Web
+WEB-10107,2026-07-03,CUST-101,Melanie Yoder,CA,PROD-026,Electronics,4,789.66,PayPal,Cancelled,Mobile Web
+WEB-10108,2026-08-13,CUST-245,Sue Harper,CA,PROD-026,Electronics,3,487.43,Debit Card,Completed,Mobile Web
+WEB-10109,2026-07-18,CUST-381,Jason Benson,DE,PROD-039,Books,2,41.94,UPI,Cancelled,Mobile App
+WEB-10110,2025-12-17,CUST-219,Matthew Perry,IN,PROD-011,Electronics,5,713.77,UPI,Returned,Desktop Web
+WEB-10111,2026-08-14,CUST-304,Virginia Lang,CA,PROD-067,Clothing,2,25.75,Credit Card,Completed,Mobile Web
+WEB-10112,2026-01-05,CUST-276,Richard David,CA,PROD-062,Clothing,3,75.53,Credit Card,Returned,Mobile Web
+WEB-10113,2026-04-29,CUST-159,Tony May,UK,PROD-076,Electronics,3,498.01,UPI,Returned,Desktop Web
+WEB-10114,2025-12-06,CUST-190,Linda Kirby,AU,PROD-008,Home,4,42.66,Debit Card,Returned,Mobile App
+WEB-10115,2026-01-03,CUST-299,Sean Guzman,US,PROD-091,Electronics,2,758.15,Credit Card,Returned,Mobile Web
+WEB-10116,2026-07-30,CUST-147,Robert Williams,US,PROD-073,Home,5,157.31,PayPal,Completed,Desktop Web
+WEB-10117,2026-04-23,CUST-101,Jodi Griffin,DE,PROD-028,Home,5,140.17,UPI,Completed,Mobile Web
+WEB-10118,2026-08-09,CUST-307,Anthony Carroll,IN,PROD-049,Books,2,23.47,Credit Card,Cancelled,Mobile Web
+WEB-10119,2026-09-05,CUST-305,Joanna Hunter,AU,PROD-082,Clothing,1,92.53,PayPal,Returned,Desktop Web
+WEB-10120,2026-08-07,CUST-367,Veronica Taylor MD,FR,PROD-012,Clothing,4,113.66,PayPal,Returned,Mobile Web
+WEB-10121,2025-10-31,CUST-320,Victor Turner,US,PROD-065,Sports,2,58.62,Credit Card,Cancelled,Mobile Web
+WEB-10122,2025-10-29,CUST-326,Anthony Joseph,FR,PROD-071,Electronics,2,308.96,UPI,Cancelled,Desktop Web
+WEB-10123,2026-03-17,CUST-272,Alexandra Marshall,FR,PROD-053,Home,4,175.32,Credit Card,Returned,Mobile Web
+WEB-10124,2025-10-01,CUST-258,Aaron Campbell,AU,PROD-074,Books,5,34.0,Debit Card,Returned,Desktop Web
+WEB-10125,2026-05-01,CUST-330,Shannon Nichols,UK,PROD-068,Home,5,213.99,Credit Card,Returned,Mobile App
+WEB-10126,2025-11-30,CUST-310,Lisa Roberts,FR,PROD-056,Electronics,4,221.84,UPI,Returned,Mobile Web
+WEB-10127,2026-08-05,CUST-289,Karen Hampton,US,PROD-038,Home,3,129.51,Debit Card,Completed,Mobile App
+WEB-10128,2025-11-23,CUST-306,Miss Shelly Stephens MD,IN,PROD-021,Electronics,3,422.27,Credit Card,Cancelled,Mobile Web
+WEB-10129,2025-10-07,CUST-207,Mr. Brett Jacobs,UK,PROD-091,Electronics,2,-75.07,Debit Card,Returned,Mobile App
+WEB-10130,2026-01-07,CUST-259,Michelle Vargas,DE,PROD-032,Clothing,2,37.53,Credit Card,Returned,Mobile Web
+WEB-10131,2025-12-29,CUST-317,David Castillo,IN,PROD-082,Clothing,3,96.13,Credit Card,Returned,Mobile Web
+WEB-10132,2026-02-26,CUST-246,Mike Jackson,IN,PROD-026,Electronics,3,641.74,UPI,Cancelled,Mobile Web
+WEB-10133,2025-10-16,CUST-320,Joel Sanchez,IN,PROD-019,Books,3,35.41,PayPal,Completed,Mobile Web
+WEB-10134,2026-04-15,CUST-157,Susan Cortez,IN,PROD-064,Books,4,27.41,PayPal,Returned,Mobile App
+WEB-10135,2026-05-22,CUST-390,Jerry Lynn,AU,PROD-051,Electronics,5,540.23,UPI,Cancelled,Mobile Web
+WEB-10136,2026-01-30,CUST-110,Michelle Spence,US,PROD-074,Books,1,32.61,Debit Card,Completed,Mobile App
+WEB-10137,2026-06-16,CUST-292,Thomas Blevins,CA,PROD-061,Electronics,5,122.38,Debit Card,Returned,Desktop Web
+WEB-10138,2026-04-22,CUST-325,Mark Roach,FR,PROD-070,Sports,4,199.05,Credit Card,Cancelled,Mobile App
+WEB-10139,2025-12-26,CUST-395,Jonathan Adkins,FR,PROD-016,Electronics,3,311.9,Credit Card,Cancelled,Mobile Web
+WEB-10140,2026-03-21,CUST-302,Terry Navarro,FR,PROD-041,Electronics,3,699.69,PayPal,Returned,Mobile App
+WEB-10141,2026-08-18,CUST-139,Kevin Jones,US,PROD-020,Sports,1,257.14,Credit Card,Cancelled,Mobile Web
+WEB-10142,2026-09-05,CUST-147,Donna Gill,CA,PROD-083,Home,1,45.4,UPI,Completed,Mobile App
+WEB-10143,2026-06-18,CUST-135,Tanya Pittman MD,IN,PROD-055,Sports,5,193.28,Credit Card,Completed,Desktop Web
+WEB-10144,2026-02-27,CUST-103,Joseph Macias,UK,PROD-092,Clothing,3,26.08,UPI,Cancelled,Desktop Web
+WEB-10145,2026-03-30,CUST-390,Tiffany Allen,CA,PROD-018,Home,2,33.27,Debit Card,Cancelled,Mobile App
+WEB-10146,2026-02-26,CUST-381,Mark Brown,UK,PROD-084,Books,3,17.24,PayPal,Returned,Mobile App
+WEB-10147,2026-03-19,CUST-193,David May,FR,PROD-022,Clothing,5,116.34,Debit Card,Returned,Mobile App
+WEB-10148,2025-11-09,CUST-117,Savannah Rivera,CA,PROD-004,Books,5,42.7,UPI,Completed,Desktop Web
+WEB-10149,2026-02-18,CUST-233,Theresa Russell,FR,PROD-045,Sports,4,148.24,Debit Card,Returned,Mobile App
+WEB-10150,2025-11-20,CUST-138,Edward Diaz,IN,PROD-029,Books,2,17.74,PayPal,Cancelled,Mobile App
+WEB-10151,2026-02-10,,Elizabeth Stewart,CA,PROD-079,Books,3,24.22,Debit Card,Cancelled,Mobile App
+WEB-10152,2026-09-08,CUST-389,Patrick Thompson,FR,PROD-077,Clothing,2,33.07,Credit Card,Returned,Mobile Web
+WEB-10153,2026-01-25,CUST-356,Jacob Esparza,FR,PROD-009,Books,4,40.87,PayPal,Cancelled,Mobile Web
+WEB-10154,2026-04-17,CUST-322,Nichole Acosta,US,PROD-088,Home,2,107.79,Debit Card,Completed,Desktop Web
+WEB-10155,2026-04-30,CUST-288,Samuel Wilson,DE,PROD-085,Sports,2,63.74,UPI,Completed,Desktop Web
+WEB-10156,2026-06-24,CUST-303,Rachel Carlson,CA,PROD-087,Clothing,2,-98.57,PayPal,Returned,Mobile App
+WEB-10157,2025-12-23,CUST-288,Rachel Nelson,FR,PROD-096,Electronics,2,207.41,Debit Card,Returned,Mobile App
+WEB-10158,2026-07-13,CUST-136,Raymond Ball,CA,PROD-037,Clothing,1,32.1,Debit Card,Completed,Desktop Web
+WEB-10159,2026-06-03,CUST-351,Jaime Campbell,UK,PROD-084,Books,1,36.44,Debit Card,Cancelled,Mobile App
+WEB-10160,2026-03-13,CUST-306,Scott Castaneda,CA,PROD-075,Sports,5,262.07,Credit Card,Returned,Desktop Web
+WEB-10161,2026-03-28,CUST-145,Edward Frank,AU,PROD-086,Electronics,5,311.81,Credit Card,Completed,Mobile App
+WEB-10162,2026-05-10,CUST-254,Susan Moore,DE,PROD-030,Sports,1,269.24,Debit Card,Cancelled,Mobile Web
+WEB-10163,2025-10-25,CUST-234,Daniel Morse,IN,PROD-046,Electronics,3,432.0,PayPal,Returned,Mobile Web
+WEB-10164,2026-09-11,CUST-383,Joan Bryan,US,PROD-100,Sports,1,78.58,UPI,Completed,Mobile Web
+WEB-10165,2026-08-20,CUST-117,Katherine Li,AU,PROD-045,Sports,1,147.03,Credit Card,Returned,Mobile Web
+WEB-10166,2025-11-22,CUST-274,Heather Perez,IN,PROD-055,Sports,1,62.86,Debit Card,Completed,Mobile Web
+WEB-10167,2025-10-24,CUST-382,Seth Dixon,IN,PROD-027,Clothing,3,103.68,UPI,Cancelled,Desktop Web
+WEB-10168,2026-08-18,CUST-269,Thomas Murphy,US,PROD-007,Clothing,1,45.48,UPI,Returned,Mobile App
+WEB-10169,2026-08-16,CUST-310,Ian Morris,IN,PROD-020,Sports,3,251.7,Credit Card,Cancelled,Mobile App
+WEB-10170,2026-07-16,CUST-332,Bruce Martinez,DE,PROD-040,Sports,4,80.72,PayPal,Returned,Desktop Web
+WEB-10171,2025-12-10,CUST-120,Stacy Rivera,FR,PROD-009,Books,2,14.06,PayPal,Completed,Mobile Web
+WEB-10172,2026-04-19,CUST-342,Jennifer Sherman,CA,PROD-092,Clothing,4,52.87,Credit Card,Completed,Mobile App
+WEB-10173,2026-03-01,CUST-135,Jon Watson,US,PROD-089,Books,2,29.98,PayPal,Completed,Mobile App
+WEB-10174,2026-01-12,CUST-275,Charles Cervantes,DE,PROD-034,Books,2,37.26,PayPal,Returned,Desktop Web
+WEB-10175,2025-10-09,CUST-249,Matthew Pierce,UK,PROD-055,Sports,1,216.57,Credit Card,Cancelled,Mobile Web
+WEB-10176,2025-12-26,CUST-170,Joseph Gibson,CA,PROD-064,Books,4,13.84,PayPal,Cancelled,Mobile App
+WEB-10177,2026-06-30,CUST-330,John Jensen,UK,PROD-027,Clothing,4,22.49,UPI,Completed,Mobile Web
+WEB-10178,2026-08-15,CUST-324,William Diaz,CA,PROD-010,Sports,4,61.83,PayPal,Returned,Desktop Web
+WEB-10179,2026-07-09,CUST-337,Jennifer Alexander,UK,PROD-007,Clothing,4,109.4,Credit Card,Returned,Mobile Web
+WEB-10180,2026-04-16,CUST-118,William House,US,PROD-014,Books,5,36.45,PayPal,Returned,Mobile Web
+WEB-10181,2025-11-13,CUST-379,Carlos Dominguez,FR,PROD-024,Books,4,23.06,Debit Card,Completed,Desktop Web
+WEB-10182,2025-10-08,CUST-264,David Sosa,IN,PROD-011,Electronics,2,60.06,Debit Card,Cancelled,Desktop Web
+WEB-10183,2025-11-16,CUST-115,Mary Dawson,FR,PROD-091,Electronics,4,367.01,PayPal,Completed,Mobile Web
+WEB-10184,2026-04-11,CUST-291,Allison Montgomery,CA,PROD-016,Electronics,1,679.53,UPI,Returned,Desktop Web
+WEB-10185,2026-05-22,CUST-211,Johnny Gutierrez,FR,PROD-089,Books,1,27.81,Credit Card,Returned,Mobile App
+WEB-10186,2025-09-19,CUST-176,Sabrina Woodward,CA,PROD-080,Sports,2,228.88,PayPal,Cancelled,Desktop Web
+WEB-10187,2026-06-19,CUST-398,Kevin Villarreal,DE,PROD-063,Home,3,64.73,Debit Card,Cancelled,Mobile Web
+WEB-10188,2026-08-23,CUST-112,Beth Davis,FR,PROD-043,Home,4,166.29,Credit Card,Returned,Mobile App
+WEB-10189,2026-01-21,CUST-152,Ernest Gross,CA,PROD-098,Home,2,53.41,UPI,Cancelled,Desktop Web
+WEB-10190,2026-02-04,CUST-380,Joanna Williams,FR,PROD-038,Home,4,30.18,Debit Card,Completed,Desktop Web
+WEB-10191,2025-11-12,CUST-220,Cory Moreno,FR,PROD-058,Home,5,99.05,Debit Card,Completed,Mobile App
+WEB-10192,2025-10-11,CUST-201,Jennifer Mclean MD,UK,PROD-036,Electronics,4,107.56,Debit Card,Returned,Desktop Web
+WEB-10193,2025-09-15,CUST-190,Samantha Fleming,AU,PROD-021,Electronics,2,499.11,UPI,Completed,Mobile Web
+WEB-10194,2026-03-19,CUST-170,Nathan Ramirez,FR,PROD-001,Electronics,2,156.41,Credit Card,Returned,Desktop Web
+WEB-10195,2025-10-14,CUST-165,Thomas Woods,CA,PROD-027,Clothing,5,43.71,Credit Card,Cancelled,Desktop Web
+WEB-10196,2026-06-07,CUST-125,Michael Lowe,US,PROD-042,Clothing,3,65.62,Credit Card,Completed,Mobile Web
+WEB-10197,2026-06-15,CUST-238,John Wilson,US,PROD-082,Clothing,1,94.54,PayPal,Returned,Desktop Web
+WEB-10198,2025-11-07,CUST-243,Ronald Lane,CA,PROD-010,Sports,5,29.65,Credit Card,Cancelled,Mobile App
+WEB-10199,2026-06-20,CUST-336,William Jones,UK,PROD-037,Clothing,2,106.94,Credit Card,Returned,Mobile App
+WEB-10200,2026-06-25,CUST-191,Jessica Conway DDS,US,PROD-064,Books,-1,20.33,Debit Card,Returned,Desktop Web
+WEB-10201,2026-07-24,CUST-366,Ryan Bowman,AU,PROD-078,Home,4,221.48,PayPal,Returned,Desktop Web
+WEB-10202,2026-08-22,CUST-364,Robert Leonard,FR,PROD-068,Home,5,124.25,Debit Card,Returned,Mobile App
+WEB-10203,2026-07-29,CUST-150,Brenda Hale,IN,PROD-081,Electronics,4,340.86,UPI,Cancelled,Mobile Web
+WEB-10204,2026-08-11,CUST-226,Katie Phillips,IN,PROD-081,Electronics,2,418.05,Credit Card,Completed,Desktop Web
+WEB-10205,2025-10-15,CUST-370,Melissa Shaw,AU,PROD-039,Books,4,14.19,Debit Card,Completed,Desktop Web
+WEB-10206,2026-03-01,CUST-261,Corey Robinson,AU,PROD-067,Clothing,5,59.72,Credit Card,Returned,Desktop Web
+WEB-10207,2026-08-19,CUST-316,Jacob Benson,FR,PROD-078,Home,3,167.6,UPI,Returned,Mobile Web
+WEB-10208,2026-01-30,CUST-323,Nicole Kennedy,UK,PROD-089,Books,1,9.74,Debit Card,Completed,Mobile App
+WEB-10209,2025-10-10,CUST-337,Stephanie Brady,IN,PROD-032,Clothing,3,47.6,Credit Card,Returned,Mobile App
+WEB-10210,2026-06-30,CUST-278,April Fletcher,AU,PROD-063,Home,3,246.6,PayPal,Completed,Mobile App
+WEB-10211,2026-04-18,CUST-183,Jessica Williams,US,PROD-051,Electronics,1,682.98,UPI,Returned,Desktop Web
+WEB-10212,2025-10-18,CUST-101,Dave Nielsen,DE,PROD-039,Books,2,29.51,UPI,Completed,Desktop Web
+WEB-10213,2026-02-22,CUST-324,Kristin Graham,DE,PROD-034,Books,4,28.96,Credit Card,Cancelled,Desktop Web
+WEB-10214,2025-11-04,CUST-283,Alicia Waters,FR,PROD-009,Books,2,42.76,UPI,Returned,Desktop Web
+WEB-10215,2026-09-08,CUST-101,Samuel Gallegos,DE,PROD-079,Books,2,14.24,Debit Card,Completed,Mobile Web
+WEB-10216,2026-02-21,CUST-353,Alyssa Hamilton,AU,PROD-056,Electronics,4,54.12,Debit Card,Cancelled,Mobile Web
+WEB-10217,2026-07-13,CUST-214,Samantha Morgan,IN,PROD-073,Home,5,189.72,PayPal,Completed,Mobile Web
+WEB-10218,2026-07-05,CUST-173,Kathryn Hall,DE,PROD-022,Clothing,2,76.78,Credit Card,Completed,Mobile Web
+WEB-10219,2025-12-05,CUST-197,Kathleen Williams,CA,PROD-034,Books,1,25.05,Debit Card,Completed,Mobile App
+WEB-10220,2026-08-22,CUST-376,Joel Johnson,CA,PROD-039,Books,1,31.68,Credit Card,Cancelled,Mobile App
+WEB-10221,2026-04-24,CUST-305,James Hall,DE,PROD-022,Clothing,4,20.89,Debit Card,Returned,Mobile App
+WEB-10222,2026-08-19,CUST-174,Mary Davis,CA,PROD-043,Home,3,180.48,Debit Card,Completed,Mobile App
+WEB-10223,2026-03-30,CUST-232,Eric Johnson,UK,PROD-018,Home,2,60.25,Debit Card,Completed,Mobile Web
+WEB-10224,2025-09-21,CUST-325,Sarah Nelson,DE,PROD-071,Electronics,5,178.82,UPI,Returned,Mobile App
+WEB-10225,2026-08-11,CUST-263,Max Bell,AU,PROD-047,Clothing,5,29.36,UPI,Cancelled,Mobile App
+WEB-10226,2026-06-13,CUST-233,Rachael Perez,DE,PROD-009,Books,-5,21.53,PayPal,Completed,Mobile App
+WEB-10227,2026-08-07,CUST-269,Nancy Benson,IN,PROD-045,Sports,5,91.69,Credit Card,Returned,Mobile App
+WEB-10228,2025-11-24,CUST-241,Cynthia Beasley,CA,PROD-040,Sports,1,282.38,PayPal,Returned,Mobile Web
+WEB-10229,2025-11-22,CUST-245,Kimberly Webb,FR,PROD-004,Books,3,12.5,Debit Card,Completed,Mobile App
+WEB-10230,2026-06-14,CUST-329,Mark Floyd,US,PROD-065,Sports,3,75.36,Credit Card,Cancelled,Mobile App
+WEB-10231,2026-05-20,CUST-381,Richard Li,US,PROD-091,Electronics,1,292.4,PayPal,Cancelled,Desktop Web
+WEB-10232,2026-09-03,CUST-326,Susan Choi,FR,PROD-092,Clothing,1,78.1,PayPal,Cancelled,Mobile Web
+WEB-10233,2026-03-27,CUST-174,Louis Davis,US,PROD-074,Books,1,15.08,PayPal,Completed,Desktop Web
+WEB-10234,2025-09-30,CUST-295,Deborah Goodwin,UK,PROD-005,Sports,5,211.55,Debit Card,Completed,Mobile App
+WEB-10235,2026-02-03,CUST-365,Lisa Klein,CA,PROD-038,Home,1,51.7,Debit Card,Cancelled,Mobile App
+WEB-10236,2026-07-13,CUST-390,Michelle Jimenez,US,PROD-053,Home,3,230.81,UPI,Completed,Mobile Web
+WEB-10237,2026-02-20,CUST-346,Erin Rojas,UK,PROD-004,Books,3,13.54,Credit Card,Cancelled,Mobile Web
+WEB-10238,2026-07-23,CUST-328,Jenna Bass,IN,PROD-077,Clothing,4,66.37,Debit Card,Returned,Mobile App
+WEB-10239,2025-12-07,CUST-202,Jerome Delacruz,AU,PROD-004,Books,2,15.29,UPI,Cancelled,Mobile Web
+WEB-10240,2026-08-19,CUST-111,Carol Cruz,AU,PROD-080,Sports,3,94.26,Credit Card,Cancelled,Mobile Web
+WEB-10241,2026-09-07,CUST-259,Bradley Byrd,US,PROD-070,Sports,1,299.87,PayPal,Cancelled,Mobile App
+WEB-10242,2026-04-29,CUST-204,Lance Jones,UK,PROD-011,Electronics,4,610.98,Debit Card,Returned,Mobile App
+WEB-10243,2025-12-06,CUST-375,Robert Gonzalez,UK,PROD-036,Electronics,-1,166.24,Credit Card,Returned,Mobile App
+WEB-10244,2026-02-27,CUST-107,Michelle Patterson MD,IN,PROD-089,Books,2,39.26,Debit Card,Completed,Mobile App
+WEB-10245,2026-02-23,CUST-162,James Holt,US,PROD-031,Electronics,-5,465.16,UPI,Completed,Desktop Web
+WEB-10246,2026-05-14,CUST-197,Michael Paul,US,PROD-081,Electronics,4,-93.76,UPI,Returned,Mobile Web
+WEB-10247,2025-10-05,CUST-338,David Weber,FR,PROD-021,Electronics,1,184.17,PayPal,Cancelled,Mobile Web
+WEB-10248,2026-08-27,CUST-383,Brandon Davis,AU,PROD-012,Clothing,4,28.83,Credit Card,Cancelled,Mobile App
+WEB-10249,2026-07-08,CUST-357,Crystal Zamora,DE,PROD-078,Home,4,181.53,Credit Card,Cancelled,Desktop Web
+WEB-10250,2026-05-05,CUST-381,Daniel Robertson,FR,PROD-063,Home,3,61.68,PayPal,Cancelled,Desktop Web
+WEB-10251,2025-09-27,CUST-217,Anthony Johnson,US,PROD-089,Books,1,18.06,Debit Card,Completed,Mobile Web
+WEB-10252,2025-11-04,CUST-379,Rachel Stevens,CA,PROD-041,Electronics,5,251.66,Debit Card,Completed,Mobile App
+WEB-10253,2026-03-27,CUST-125,Cassandra Mitchell MD,AU,PROD-026,Electronics,1,304.69,UPI,Returned,Mobile Web
+WEB-10254,2026-02-26,CUST-248,Todd Baker,IN,PROD-034,Books,4,32.92,Debit Card,Completed,Mobile Web
+WEB-10255,2026-08-23,CUST-342,Emily Estes,AU,PROD-059,Books,5,27.47,UPI,Completed,Mobile Web
+WEB-10256,2026-05-17,CUST-324,Brady Cook,US,PROD-082,Clothing,5,118.69,UPI,Completed,Desktop Web
+WEB-10257,2025-11-15,CUST-140,Kenneth Novak,FR,PROD-092,Clothing,5,30.25,Debit Card,Returned,Desktop Web
+WEB-10258,2026-05-03,CUST-237,Tammy Harper,DE,PROD-029,Books,5,29.13,PayPal,Cancelled,Mobile App
+WEB-10259,2026-06-07,CUST-386,Mr. James Grant,DE,PROD-071,Electronics,5,489.29,PayPal,Completed,Mobile App
+WEB-10260,2026-07-28,CUST-332,Maurice Willis,US,PROD-089,Books,2,41.52,UPI,Cancelled,Mobile App
+WEB-10261,2025-12-23,CUST-143,Bryce Berg,FR,PROD-009,Books,1,36.12,PayPal,Cancelled,Desktop Web
+WEB-10262,2025-10-20,CUST-369,Danielle Durham,US,PROD-038,Home,2,110.59,Credit Card,Returned,Desktop Web
+WEB-10263,2026-04-05,CUST-221,Wesley Rodriguez,UK,PROD-092,Clothing,4,102.06,Debit Card,Completed,Mobile Web
+WEB-10264,2026-07-12,CUST-300,John Alvarado,US,PROD-079,Books,2,40.56,PayPal,Returned,Mobile Web
+WEB-10265,2026-05-10,CUST-376,Donald Chaney,US,PROD-043,Home,2,127.04,PayPal,Completed,Mobile App
+WEB-10266,2026-05-26,CUST-360,Judy Roberts,AU,PROD-064,Books,2,24.22,Credit Card,Returned,Mobile Web
+WEB-10267,2026-05-20,CUST-354,Tamara Soto,UK,PROD-025,Sports,2,95.01,Credit Card,Completed,Mobile Web
+WEB-10268,2026-01-24,CUST-238,Shawn Cooper,FR,PROD-048,Home,5,240.1,Credit Card,Cancelled,Mobile Web
+WEB-10269,2026-03-27,CUST-328,Phyllis Thomas,CA,PROD-046,Electronics,2,714.37,Credit Card,Completed,Mobile App
+WEB-10270,2026-01-07,CUST-203,Jason Collier,CA,PROD-015,Sports,4,252.97,Credit Card,Returned,Mobile App
+WEB-10271,2026-04-20,CUST-200,Rachel Rivers,FR,PROD-005,Sports,2,-27.12,Debit Card,Returned,Mobile Web
+WEB-10272,2026-08-08,CUST-261,Jennifer Schaefer,FR,PROD-061,Electronics,2,130.24,UPI,Completed,Mobile Web
+WEB-10273,2025-12-21,CUST-110,Briana Castillo,CA,PROD-022,Clothing,3,35.03,Debit Card,Returned,Desktop Web
+WEB-10274,2026-03-16,CUST-119,Mr. Chad Orozco,DE,PROD-032,Clothing,1,110.73,PayPal,Returned,Desktop Web
+WEB-10275,2025-12-15,CUST-339,Tina Gardner,FR,PROD-058,Home,1,48.56,Credit Card,Completed,Mobile App
+WEB-10276,2026-03-08,CUST-173,Andrea Allen,US,PROD-091,Electronics,4,116.02,Credit Card,Completed,Mobile App
+WEB-10277,2026-06-23,CUST-249,Kimberly Lee,UK,PROD-093,Home,5,70.7,Credit Card,Completed,Mobile App
+WEB-10278,2026-08-25,CUST-286,Gabriel Hernandez,UK,PROD-080,Sports,1,76.23,UPI,Cancelled,Mobile App
+WEB-10279,2026-08-18,CUST-289,Lori Rios,DE,PROD-074,Books,4,12.46,Debit Card,Completed,Mobile Web
+WEB-10280,2026-01-09,CUST-387,Joseph Dickson,DE,PROD-079,Books,2,29.75,UPI,Completed,Mobile Web
+WEB-10281,2026-06-19,CUST-198,Ms. Suzanne Morgan,AU,PROD-092,Clothing,4,82.55,Credit Card,Returned,Mobile App
+WEB-10282,2026-06-07,CUST-236,Doris Taylor,AU,PROD-098,Home,4,197.34,Credit Card,Returned,Mobile Web
+WEB-10283,2025-11-06,CUST-213,Maria Schmidt,DE,PROD-061,Electronics,5,333.48,UPI,Cancelled,Mobile Web
+WEB-10284,2025-10-10,CUST-186,Ruben Steele,FR,PROD-096,Electronics,5,527.32,Credit Card,Completed,Mobile Web
+WEB-10285,2026-07-05,CUST-130,Steven Smith,CA,PROD-014,Books,3,28.39,Credit Card,Completed,Desktop Web
+WEB-10286,2026-08-07,CUST-380,Jason Cameron,FR,PROD-093,Home,3,48.44,PayPal,Returned,Mobile App
+WEB-10287,2026-05-14,CUST-107,Jeremy Reed,CA,PROD-025,Sports,3,105.39,UPI,Completed,Desktop Web
+WEB-10288,2026-09-13,CUST-301,Mary Gonzalez,AU,PROD-054,Books,2,11.18,Credit Card,Cancelled,Mobile App
+WEB-10289,2025-09-25,CUST-331,Richard Black,UK,PROD-080,Sports,5,150.96,PayPal,Cancelled,Mobile Web
+WEB-10290,2026-07-04,CUST-283,Dr. Rebekah Boyle,FR,PROD-034,Books,5,9.4,PayPal,Returned,Mobile Web
+WEB-10291,2025-10-20,CUST-193,Jordan Miller,IN,PROD-068,Home,1,185.59,Credit Card,Returned,Mobile App
+WEB-10292,2026-08-30,CUST-193,Rodney Day,US,PROD-055,Sports,3,132.98,Credit Card,Returned,Mobile Web
+WEB-10293,2025-09-26,CUST-216,Norma Bell,US,PROD-013,Home,1,-97.55,Debit Card,Completed,Mobile App
+WEB-10001,2026-08-14,CUST-259,Wendy Frey,CA,PROD-006,Electronics,1,564.37,Debit Card,Returned,Mobile Web
+WEB-10295,2026-04-13,CUST-382,Chase Smith,UK,PROD-098,Home,1,160.76,PayPal,Cancelled,Mobile Web
+WEB-10296,2026-08-19,CUST-388,Michael Barron,UK,PROD-003,Home,2,216.16,Debit Card,Cancelled,Mobile App
+WEB-10297,2025-11-07,CUST-110,Sean Perez,DE,PROD-038,Home,3,118.71,Credit Card,Completed,Mobile Web
+WEB-10298,2025-12-14,CUST-370,Jodi Mcdaniel,FR,PROD-035,Sports,2,164.83,Credit Card,Returned,Desktop Web
+WEB-10299,2026-05-07,CUST-178,Christopher Simpson,AU,PROD-094,Books,4,31.45,Debit Card,Completed,Mobile App
+WEB-10300,2025-11-28,CUST-305,Ruth Conner,FR,PROD-037,Clothing,2,112.18,PayPal,Returned,Mobile Web
+WEB-10301,2025-11-16,CUST-385,Jessica Grimes,CA,PROD-031,Electronics,5,361.57,PayPal,Cancelled,Mobile Web
+WEB-10302,2025-12-28,CUST-276,Drew Santana,DE,PROD-080,Sports,5,41.2,Debit Card,Returned,Mobile App
+WEB-10303,2025-10-08,CUST-131,Gloria Perkins,FR,PROD-070,Sports,4,55.63,Debit Card,Completed,Desktop Web
+WEB-10304,2026-02-07,CUST-172,Tiffany Johnson,CA,PROD-083,Home,1,185.13,Credit Card,Returned,Desktop Web
+WEB-10305,2026-03-10,CUST-144,Melanie Adams,UK,PROD-081,Electronics,3,198.67,PayPal,Cancelled,Desktop Web
+WEB-10306,2026-07-01,CUST-146,Lisa Taylor,CA,PROD-045,Sports,2,35.33,UPI,Completed,Desktop Web
+WEB-10307,2026-01-31,CUST-393,Ashley Hicks,UK,PROD-064,Books,4,23.64,Debit Card,Completed,Mobile Web
+WEB-10308,2025-12-02,CUST-119,Mrs. Melanie Baker PhD,CA,PROD-084,Books,3,33.6,Debit Card,Completed,Mobile Web
+WEB-10309,2026-06-16,CUST-232,Joel Wang,FR,PROD-072,Clothing,-3,97.75,UPI,Completed,Desktop Web
+WEB-10310,2026-07-03,,Nicholas Johnston,FR,PROD-083,Home,1,230.67,Debit Card,Cancelled,Mobile Web
+WEB-10311,2026-05-25,CUST-299,Dawn Kim,UK,PROD-002,Clothing,1,31.05,UPI,Cancelled,Mobile App
+WEB-10312,2025-10-28,CUST-216,George Barnes,IN,PROD-086,Electronics,2,763.88,Debit Card,Completed,Mobile Web
+WEB-10313,2026-04-20,CUST-325,Kimberly Johnson,UK,PROD-085,Sports,2,262.95,Credit Card,Returned,Mobile App
+WEB-10314,2026-06-10,CUST-180,Dylan Padilla,UK,PROD-080,Sports,2,161.33,Debit Card,Completed,Mobile Web
+WEB-10315,2026-02-03,CUST-219,Daniel Simmons,US,PROD-064,Books,4,43.71,Debit Card,Returned,Mobile Web
+WEB-10316,2026-03-02,CUST-266,Jonathan Fowler,DE,PROD-074,Books,2,25.94,UPI,Returned,Mobile App
+WEB-10317,2026-02-25,CUST-331,Bethany Miles,CA,PROD-026,Electronics,4,580.73,Debit Card,Returned,Mobile Web
+WEB-10318,2026-07-01,CUST-338,Veronica Becker,IN,PROD-043,Home,2,245.99,Credit Card,Completed,Mobile App
+WEB-10319,2026-01-16,CUST-338,Cody Jackson,FR,PROD-096,Electronics,4,633.84,Debit Card,Cancelled,Mobile Web
+WEB-10320,2025-11-01,CUST-271,Julia Garcia,AU,PROD-063,Home,1,212.39,Credit Card,Cancelled,Mobile App
+WEB-10321,2025-10-11,CUST-357,Lisa Aguilar,CA,PROD-092,Clothing,2,40.48,Credit Card,Returned,Mobile App
+WEB-10322,2026-01-17,CUST-197,Kevin Buck,DE,PROD-075,Sports,5,174.44,PayPal,Completed,Mobile Web
+WEB-10323,2025-10-07,CUST-321,Jose Stewart,IN,PROD-085,Sports,3,223.68,Credit Card,Cancelled,Mobile Web
+WEB-10001,2025-10-27,CUST-298,Jessica Bartlett,AU,PROD-082,Clothing,2,73.89,Debit Card,Completed,Mobile Web
+WEB-10325,2025-09-15,CUST-347,Blake Burnett,CA,PROD-044,Books,1,26.42,Credit Card,Completed,Mobile Web
+WEB-10326,2026-06-06,CUST-109,Jennifer Wilson,IN,PROD-083,Home,1,33.43,UPI,Returned,Mobile App
+WEB-10327,2025-11-26,CUST-101,Melissa Beck,DE,PROD-024,Books,5,44.07,Debit Card,Returned,Desktop Web
+WEB-10328,2026-02-10,CUST-324,Mrs. Rebecca Smith MD,AU,PROD-029,Books,4,19.73,UPI,Returned,Mobile Web
+WEB-10329,2026-03-20,CUST-142,Phyllis Carpenter,CA,PROD-025,Sports,1,183.37,Credit Card,Returned,Desktop Web
+WEB-10330,2026-03-08,CUST-172,Brittney Simmons,US,PROD-073,Home,5,248.57,Credit Card,Returned,Desktop Web
+WEB-10331,2026-01-15,CUST-130,Maria Pena,IN,PROD-027,Clothing,3,-85.91,PayPal,Cancelled,Mobile Web
+WEB-10332,2026-06-26,CUST-246,Raymond Ortiz,CA,PROD-042,Clothing,5,78.77,UPI,Completed,Mobile App
+WEB-10333,2026-05-07,CUST-202,Rachel Morales,UK,PROD-087,Clothing,3,16.89,Credit Card,Cancelled,Mobile Web
+WEB-10334,2026-06-04,CUST-390,Nicholas Hunt,AU,PROD-025,Sports,3,77.02,Credit Card,Cancelled,Desktop Web
+WEB-10335,2025-12-29,CUST-272,Lindsey Evans,CA,PROD-055,Sports,2,56.88,UPI,Cancelled,Mobile Web
+WEB-10336,2026-02-12,CUST-158,Zachary Tucker,US,PROD-026,Electronics,3,676.7,Debit Card,Completed,Mobile Web
+WEB-10337,2026-05-10,CUST-374,Joseph Hall,AU,PROD-033,Home,3,187.49,UPI,Returned,Desktop Web
+WEB-10338,2026-07-31,CUST-268,Richard Saunders,DE,PROD-037,Clothing,2,20.74,PayPal,Returned,Mobile App
+WEB-10339,2026-06-03,CUST-160,Jonathan Parks,FR,PROD-100,Sports,5,63.67,UPI,Returned,Mobile App
+WEB-10340,2026-08-31,CUST-249,Natalie Wright,FR,PROD-055,Sports,3,37.37,Credit Card,Completed,Desktop Web
+WEB-10341,2026-02-03,CUST-333,Christian Hampton,AU,PROD-062,Clothing,2,73.54,Debit Card,Returned,Mobile Web
+WEB-10342,2026-03-09,CUST-228,Felicia Black,IN,PROD-097,Clothing,4,80.46,PayPal,Completed,Mobile App
+WEB-10343,2026-02-08,CUST-291,Tara Hodges,FR,PROD-051,Electronics,1,471.06,UPI,Returned,Mobile Web
+WEB-10344,2025-12-18,CUST-190,Jonathan Lara,FR,PROD-017,Clothing,1,32.64,PayPal,Cancelled,Mobile Web
+WEB-10345,2026-07-30,CUST-294,Summer Smith,UK,PROD-080,Sports,2,98.64,PayPal,Returned,Desktop Web
+WEB-10346,2026-06-16,CUST-288,Danielle Jackson,AU,PROD-036,Electronics,3,322.3,Debit Card,Completed,Mobile App
+WEB-10347,2025-12-13,CUST-187,Wayne Watson,CA,PROD-062,Clothing,5,86.8,PayPal,Completed,Mobile App
+WEB-10348,2025-11-04,CUST-247,Shaun Huffman,UK,PROD-056,Electronics,1,699.12,Debit Card,Completed,Desktop Web
+WEB-10349,2025-10-10,CUST-161,Jessica Baker,DE,PROD-032,Clothing,3,60.93,Credit Card,Returned,Mobile App
+WEB-10350,2026-07-14,CUST-146,Natalie Jackson MD,IN,PROD-027,Clothing,3,119.27,Debit Card,Completed,Mobile App
+WEB-10351,2025-09-29,CUST-230,Erica Potter,CA,PROD-035,Sports,3,220.7,Credit Card,Returned,Mobile Web
+WEB-10352,2026-02-20,CUST-205,Brenda Martin,IN,PROD-080,Sports,4,159.75,Debit Card,Cancelled,Desktop Web
+WEB-10353,2025-11-02,CUST-114,Tiffany Riley,UK,PROD-010,Sports,3,71.12,UPI,Cancelled,Desktop Web
+WEB-10354,2025-10-16,CUST-127,Jennifer Wright,IN,PROD-038,Home,2,203.31,Credit Card,Returned,Desktop Web
+WEB-10001,2026-06-30,CUST-345,Yolanda Simmons,CA,PROD-022,Clothing,5,16.34,PayPal,Cancelled,Mobile App
+WEB-10356,2026-08-08,CUST-365,Patricia Stephens,UK,PROD-022,Clothing,2,76.87,Credit Card,Returned,Desktop Web
+WEB-10357,2026-02-14,CUST-233,Tyler Young,DE,PROD-047,Clothing,5,45.1,UPI,Cancelled,Mobile App
+WEB-10358,2025-12-30,CUST-143,Jason Stanley,CA,PROD-056,Electronics,4,250.3,Debit Card,Cancelled,Mobile Web
+WEB-10359,2026-06-22,CUST-262,Kenneth Mcneil,DE,PROD-020,Sports,3,69.87,Debit Card,Returned,Mobile Web
+WEB-10360,2025-09-19,CUST-307,Donald Blackwell,DE,PROD-039,Books,2,24.94,Debit Card,Cancelled,Mobile App
+WEB-10361,2026-01-25,CUST-342,Leonard Mullins,IN,PROD-050,Sports,5,217.92,Credit Card,Returned,Desktop Web
+WEB-10362,2026-02-23,CUST-393,Billy Leblanc,US,PROD-020,Sports,3,233.85,UPI,Returned,Mobile App
+WEB-10363,2026-05-15,CUST-395,Barbara Navarro,CA,PROD-047,Clothing,3,109.96,PayPal,Returned,Mobile App
+WEB-10364,2026-02-02,CUST-196,Karen Guzman,UK,PROD-060,Sports,1,158.17,Debit Card,Returned,Mobile App
+WEB-10365,2026-06-17,CUST-299,Benjamin Short,IN,PROD-010,Sports,3,144.35,Credit Card,Completed,Mobile Web
+WEB-10366,2026-07-26,CUST-157,Jennifer Hall,DE,PROD-028,Home,2,154.31,Credit Card,Completed,Desktop Web
+WEB-10367,2026-01-08,CUST-248,Janet Boyd,DE,PROD-088,Home,4,130.75,Debit Card,Completed,Mobile Web
+WEB-10368,2026-05-29,CUST-299,April Christian,FR,PROD-092,Clothing,1,82.52,Debit Card,Returned,Mobile Web
+WEB-10369,2025-11-24,CUST-259,Miss Robin Fowler,IN,PROD-065,Sports,3,111.54,PayPal,Cancelled,Mobile App
+WEB-10001,2026-09-04,,Angel Avery,US,PROD-028,Home,5,245.05,UPI,Returned,Mobile Web
+WEB-10371,2026-01-08,CUST-252,Mrs. Kelly Maldonado,US,PROD-044,Books,2,32.79,Debit Card,Completed,Mobile Web
+WEB-10372,2026-04-18,CUST-214,Laura Williams,CA,PROD-098,Home,4,78.19,Debit Card,Returned,Desktop Web
+WEB-10373,2026-06-17,CUST-222,Zachary Bradley,US,PROD-016,Electronics,1,420.29,Credit Card,Cancelled,Mobile Web
+WEB-10374,2026-08-18,CUST-363,Brandy Blake,FR,PROD-071,Electronics,5,712.89,UPI,Returned,Mobile Web
+WEB-10375,2026-04-17,CUST-350,Laurie Lindsey,FR,PROD-002,Clothing,2,45.38,UPI,Completed,Mobile App
+WEB-10376,2026-09-12,CUST-294,Jonathan Richard,US,PROD-083,Home,5,209.54,Credit Card,Cancelled,Desktop Web
+WEB-10377,2026-04-15,CUST-298,Michael Good,DE,PROD-024,Books,2,10.41,Credit Card,Cancelled,Mobile App
+WEB-10378,2025-11-19,CUST-336,William Smith,DE,PROD-058,Home,3,105.9,UPI,Cancelled,Desktop Web
+WEB-10379,2026-06-17,CUST-359,Mrs. Jackie Reyes,US,PROD-055,Sports,4,229.16,PayPal,Cancelled,Mobile Web
+WEB-10380,2026-07-31,CUST-152,Mary Robbins,DE,PROD-033,Home,5,241.71,UPI,Completed,Desktop Web
+WEB-10381,2026-03-15,CUST-216,Valerie Patterson,IN,PROD-054,Books,1,15.52,UPI,Completed,Mobile App
+WEB-10382,2025-09-25,CUST-257,Eileen Lucas,IN,PROD-065,Sports,4,209.72,PayPal,Returned,Desktop Web
+WEB-10383,2026-09-14,CUST-254,Jessica Johnson,DE,PROD-043,Home,5,220.01,PayPal,Completed,Mobile App
+WEB-10384,2026-03-05,CUST-376,Alejandra Moyer,FR,PROD-036,Electronics,5,298.63,Debit Card,Returned,Desktop Web
+WEB-10385,2026-05-09,CUST-400,Brianna Norton,DE,PROD-007,Clothing,1,111.86,UPI,Returned,Desktop Web
+WEB-10386,2026-08-22,CUST-102,Blake Scott,IN,PROD-031,Electronics,5,573.68,PayPal,Returned,Mobile Web
+WEB-10387,2026-03-02,CUST-378,David Jones,UK,PROD-099,Books,2,34.8,Credit Card,Returned,Mobile Web
+WEB-10388,2025-10-09,CUST-387,Gene Serrano,UK,PROD-090,Sports,5,97.53,Debit Card,Returned,Desktop Web
+WEB-10389,2026-08-20,CUST-332,Kathy Brown,UK,PROD-068,Home,1,144.32,Debit Card,Completed,Mobile Web
+WEB-10390,2026-08-03,CUST-147,Ryan Mckay,US,PROD-094,Books,5,28.4,Credit Card,Cancelled,Mobile App
+WEB-10391,2025-09-22,CUST-147,Alexandria Quinn,DE,PROD-096,Electronics,3,51.68,PayPal,Cancelled,Mobile Web
+WEB-10392,2026-04-18,CUST-376,Thomas Shepherd,DE,PROD-091,Electronics,3,169.51,PayPal,Returned,Mobile Web
+WEB-10393,2026-08-04,CUST-234,Mark Rangel,AU,PROD-010,Sports,4,168.07,Credit Card,Cancelled,Mobile App
+WEB-10394,2026-04-20,CUST-156,Brittney Singleton,US,PROD-051,Electronics,5,77.45,Credit Card,Returned,Mobile App
+WEB-10395,2026-04-05,CUST-304,Aaron Sanchez,IN,PROD-034,Books,1,38.91,Debit Card,Completed,Mobile Web
+WEB-10396,2026-05-10,CUST-365,Jeffrey King,CA,PROD-092,Clothing,4,19.76,Credit Card,Completed,Mobile App
+WEB-10397,2026-09-03,CUST-101,Lucas Parker,AU,PROD-011,Electronics,5,748.53,PayPal,Completed,Desktop Web
+WEB-10398,2026-08-07,CUST-119,Rebecca Peters,CA,PROD-044,Books,4,43.89,Debit Card,Returned,Desktop Web
+WEB-10399,2026-07-08,CUST-189,Arthur Smith,IN,PROD-022,Clothing,2,21.87,Credit Card,Returned,Desktop Web
+WEB-10400,2026-04-23,CUST-303,Katherine Church,FR,PROD-018,Home,2,72.71,Credit Card,Cancelled,Desktop Web
+WEB-10401,2025-10-12,CUST-288,Phillip Diaz,UNKNOWN,PROD-087,Clothing,5,78.72,UPI,Completed,Mobile Web
+WEB-10402,2026-08-31,CUST-303,Lauren Alexander,US,PROD-057,Clothing,4,38.7,PayPal,Returned,Desktop Web
+WEB-10403,2026-10-27,CUST-164,Mary Williamson,US,PROD-034,Books,2,14.18,Credit Card,Completed,Desktop Web
+WEB-10404,2025-11-14,CUST-335,Jared Garcia,AU,PROD-048,Home,3,78.26,Debit Card,Returned,Mobile Web
+WEB-10405,2025-12-06,CUST-362,Jodi Lindsey,IN,PROD-070,Sports,1,231.02,PayPal,Returned,Mobile Web
+WEB-10406,2026-02-23,CUST-207,Brittany Horn,IN,PROD-091,Electronics,1,57.99,UPI,Returned,Mobile Web
+WEB-10407,2026-02-10,CUST-237,Whitney Clark,UK,PROD-013,Home,5,204.02,Credit Card,Cancelled,Desktop Web
+WEB-10408,2026-09-03,CUST-344,Andrew Gonzalez,CA,PROD-065,Sports,1,278.71,Credit Card,Completed,Desktop Web
+WEB-10409,2026-06-30,CUST-116,Monica George,US,PROD-091,Electronics,2,592.74,UPI,Completed,Mobile Web
+WEB-10410,2026-02-22,CUST-383,Brittany Wagner,UK,PROD-063,Home,5,63.6,Debit Card,Returned,Desktop Web
+WEB-10411,2025-11-16,CUST-175,Gabriel West,UK,PROD-031,Electronics,1,612.45,UPI,Completed,Mobile App
+WEB-10412,2025-12-06,CUST-365,John Green,UK,PROD-056,Electronics,4,698.03,Credit Card,Cancelled,Mobile Web
+WEB-10413,2025-10-10,,Brent Harper,AU,PROD-061,Electronics,-4,470.6,Credit Card,Returned,Mobile Web
+WEB-10414,2025-09-21,CUST-275,Shannon Ryan,UK,PROD-004,Books,1,41.44,PayPal,Returned,Mobile App
+WEB-10415,2026-04-28,CUST-287,Michael Austin,US,PROD-026,Electronics,5,507.46,Credit Card,Cancelled,Desktop Web
+WEB-10416,2026-01-01,CUST-372,Matthew Miller,DE,PROD-002,Clothing,5,40.48,UPI,Cancelled,Mobile App
+WEB-10417,2025-12-25,CUST-292,Kevin Perez,UK,PROD-044,Books,5,31.3,Debit Card,Returned,Mobile Web
+WEB-10418,2025-10-27,CUST-380,Peter Mayer,UK,PROD-067,Clothing,5,19.63,Debit Card,Completed,Desktop Web
+WEB-10419,2025-10-30,CUST-282,David Baird,IN,PROD-018,Home,1,151.75,PayPal,Cancelled,Mobile App
+WEB-10420,2025-12-03,CUST-164,Kristin Soto,FR,PROD-014,Books,5,30.56,Credit Card,Cancelled,Mobile Web
+WEB-10421,2026-06-28,CUST-247,Keith Moore,UK,PROD-018,Home,5,108.64,Debit Card,Returned,Mobile App
+WEB-10422,2025-11-14,CUST-156,Jessica Ortiz,AU,PROD-051,Electronics,4,614.63,UPI,Returned,Mobile App
+WEB-10423,2026-06-25,CUST-152,Roberto Rodriguez,US,PROD-069,Books,2,34.33,Debit Card,Cancelled,Mobile App
+WEB-10424,2026-05-28,CUST-298,John Stone,IN,PROD-004,Books,1,43.51,Credit Card,Cancelled,Mobile App
+WEB-10425,2026-04-04,CUST-237,Christine Jenkins,AU,PROD-084,Books,1,13.17,Credit Card,Cancelled,Mobile App
+WEB-10426,2025-11-11,CUST-344,Courtney Collins DVM,FR,PROD-038,Home,5,168.79,Credit Card,Returned,Mobile Web
+WEB-10427,2026-05-28,CUST-144,Joshua Howard,FR,PROD-042,Clothing,1,47.92,Debit Card,Cancelled,Mobile App
+WEB-10428,2026-05-21,CUST-356,Donald Jones,CA,PROD-088,Home,2,46.37,Credit Card,Returned,Mobile App
+WEB-10429,2026-09-10,CUST-238,Timothy Perry,AU,PROD-001,Electronics,5,607.73,PayPal,Cancelled,Desktop Web
+WEB-10430,2026-07-25,CUST-327,Kenneth Peterson,IN,PROD-098,Home,5,226.7,Credit Card,Cancelled,Mobile App
+WEB-10431,2025-11-30,CUST-247,Grant Johnson,IN,PROD-091,Electronics,1,525.34,Credit Card,Returned,Mobile App
+WEB-10432,2026-03-05,CUST-108,Samantha Lam,US,PROD-091,Electronics,2,260.55,Debit Card,Returned,Mobile App
+WEB-10433,2026-06-12,CUST-381,Shelly Weiss,FR,PROD-019,Books,1,39.78,Debit Card,Returned,Mobile Web
+WEB-10434,2026-08-29,CUST-385,Tony Green,AU,PROD-094,Books,1,44.14,UPI,Completed,Desktop Web
+WEB-10435,2026-03-17,CUST-211,Roy Evans,DE,PROD-078,Home,2,147.44,Debit Card,Completed,Mobile App
+WEB-10001,2025-12-29,CUST-201,Jason Garcia,UK,PROD-017,Clothing,1,34.6,Debit Card,Cancelled,Desktop Web
+WEB-10437,2026-07-23,CUST-322,Theresa Graham,FR,PROD-049,Books,1,40.22,Debit Card,Completed,Mobile Web
+WEB-10438,2026-01-25,CUST-224,Brandon Merritt,CA,PROD-074,Books,4,34.16,Debit Card,Completed,Mobile Web
+WEB-10439,2025-11-17,CUST-316,Rodney Patterson,FR,PROD-023,Home,1,160.96,UPI,Completed,Mobile Web
+WEB-10440,2026-02-15,CUST-116,Julia Gomez,DE,PROD-034,Books,5,31.51,UPI,Returned,Desktop Web
+WEB-10441,2026-07-22,CUST-160,Carlos Meyer,UNKNOWN,PROD-060,Sports,4,-45.08,UPI,Cancelled,Mobile Web
+WEB-10442,2026-06-02,CUST-202,Jennifer Buck,UNKNOWN,PROD-067,Clothing,4,44.6,Debit Card,Returned,Mobile Web
+WEB-10443,2026-05-23,CUST-171,Alexander Bell,CA,PROD-058,Home,3,98.95,UPI,Completed,Mobile App
+WEB-10444,2025-12-11,CUST-222,Kristin Martin,AU,PROD-056,Electronics,3,768.33,PayPal,Cancelled,Desktop Web
+WEB-10445,2025-10-03,CUST-212,Stephanie Lee,UK,PROD-015,Sports,4,130.47,Credit Card,Returned,Desktop Web
+WEB-10446,2026-02-12,CUST-180,Margaret Rivas,AU,PROD-090,Sports,5,265.55,UPI,Cancelled,Mobile Web
+WEB-10447,2025-09-17,CUST-343,Chelsea Guerra,UK,PROD-083,Home,2,111.83,Debit Card,Cancelled,Mobile App
+WEB-10448,2026-04-05,CUST-221,Holly Pruitt,FR,PROD-055,Sports,4,180.88,Credit Card,Returned,Mobile Web
+WEB-10449,2026-01-25,CUST-285,Barbara Davis,IN,PROD-093,Home,5,162.1,UPI,Completed,Mobile App
+WEB-10450,2026-06-23,CUST-370,Brandy Norris,CA,PROD-062,Clothing,4,110.06,PayPal,Returned,Desktop Web
+WEB-10451,2025-09-25,CUST-109,John Jones,CA,PROD-049,Books,5,8.71,UPI,Cancelled,Desktop Web
+WEB-10452,2025-11-11,CUST-157,Sheena Stafford,UK,PROD-041,Electronics,2,540.93,PayPal,Cancelled,Mobile App
+WEB-10453,2025-12-09,CUST-315,Lauren Davenport,IN,PROD-090,Sports,4,167.58,Debit Card,Cancelled,Mobile Web
+WEB-10454,2026-01-09,CUST-214,Jennifer Rodriguez,UK,PROD-012,Clothing,2,49.73,Credit Card,Returned,Mobile Web
+WEB-10455,2026-02-15,CUST-199,Marc Pace,US,PROD-084,Books,4,32.03,PayPal,Returned,Mobile Web
+WEB-10456,2026-08-20,CUST-395,Jeremy Lewis,UK,PROD-058,Home,2,69.75,Credit Card,Completed,Mobile App
+WEB-10457,2026-03-04,CUST-301,Justin Novak,AU,PROD-096,Electronics,2,101.0,Debit Card,Returned,Mobile App
+WEB-10458,2026-02-24,CUST-174,Kenneth Valenzuela PhD,DE,PROD-052,Clothing,4,54.09,Credit Card,Cancelled,Mobile Web
+WEB-10459,2026-06-30,CUST-337,Aaron Vargas,AU,PROD-088,Home,3,169.21,PayPal,Returned,Mobile App
+WEB-10460,2026-06-16,,Tony Peters,UNKNOWN,PROD-080,Sports,1,191.83,PayPal,Completed,Mobile Web
+WEB-10461,2026-08-16,CUST-293,Manuel Fletcher,DE,PROD-077,Clothing,4,46.26,Debit Card,Returned,Desktop Web
+WEB-10462,2026-06-18,CUST-263,Christopher Perry,CA,PROD-056,Electronics,3,67.26,UPI,Completed,Mobile App
+WEB-10463,2026-06-30,CUST-361,Ashley Shannon,DE,PROD-014,Books,1,28.79,PayPal,Returned,Desktop Web
+WEB-10464,2026-02-14,CUST-201,Christopher Brown,DE,PROD-063,Home,3,125.55,Credit Card,Returned,Mobile App
+WEB-10465,2026-01-14,CUST-399,Anita Johnson,AU,PROD-097,Clothing,2,80.97,Debit Card,Cancelled,Mobile App
+WEB-10466,2026-05-17,CUST-173,Grant Gutierrez,FR,PROD-003,Home,4,184.04,PayPal,Cancelled,Mobile Web
+WEB-10467,2026-04-28,CUST-220,Cynthia Velasquez,DE,PROD-027,Clothing,5,98.74,PayPal,Cancelled,Mobile Web
+WEB-10468,2026-04-05,CUST-194,Laura Potts,AU,PROD-040,Sports,1,178.75,PayPal,Completed,Desktop Web
+WEB-10469,2026-07-14,CUST-197,Linda Chavez,FR,PROD-068,Home,5,203.13,PayPal,Cancelled,Mobile Web
+WEB-10470,2026-07-17,CUST-167,Suzanne Hall,IN,PROD-095,Sports,4,188.96,Credit Card,Completed,Desktop Web
+WEB-10471,2025-11-06,CUST-313,Lance Clark,CA,PROD-001,Electronics,1,97.37,PayPal,Returned,Desktop Web
+WEB-10472,2026-01-31,CUST-274,Michelle Guerrero,AU,PROD-062,Clothing,2,78.75,Credit Card,Cancelled,Mobile Web
+WEB-10473,2026-05-05,CUST-193,Joel Preston,FR,PROD-040,Sports,1,269.71,PayPal,Cancelled,Mobile Web
+WEB-10474,2026-08-30,CUST-323,Nicole Sullivan,UK,PROD-021,Electronics,5,573.14,Debit Card,Completed,Mobile Web
+WEB-10475,2026-07-20,CUST-300,Gregory Meyer,IN,PROD-046,Electronics,5,358.43,PayPal,Cancelled,Desktop Web
+WEB-10476,2026-08-21,CUST-261,Dr. Lisa Mayo,US,PROD-069,Books,2,22.88,Debit Card,Returned,Mobile Web
+WEB-10477,2025-11-06,CUST-342,Ruben Adams,UK,PROD-036,Electronics,2,204.22,Credit Card,Returned,Desktop Web
+WEB-10478,2026-02-28,CUST-378,Robert Carr,DE,PROD-043,Home,2,84.36,Debit Card,Returned,Mobile Web
+WEB-10479,2026-09-11,CUST-112,Gordon Thompson,FR,PROD-078,Home,5,22.1,UPI,Returned,Mobile Web
+WEB-10480,2025-10-04,CUST-386,Dawn Cummings,IN,PROD-094,Books,2,38.21,PayPal,Cancelled,Mobile App
+WEB-10481,2025-12-07,CUST-386,Tricia Cox,AU,PROD-008,Home,1,86.56,Credit Card,Completed,Desktop Web
+WEB-10482,2025-10-14,CUST-247,Edward Brown,UK,PROD-057,Clothing,1,36.91,Debit Card,Returned,Mobile App
+WEB-10483,2026-08-05,CUST-114,Kimberly Gonzalez,AU,PROD-098,Home,2,249.22,PayPal,Cancelled,Mobile Web
+WEB-10484,2026-05-10,CUST-302,Carolyn Park,IN,PROD-071,Electronics,2,677.7,PayPal,Completed,Mobile App
+WEB-10485,2025-11-07,CUST-247,Karen Gilbert,FR,PROD-099,Books,3,8.4,UPI,Returned,Mobile Web
+WEB-10486,2025-10-25,CUST-260,Patricia Norton,AU,PROD-012,Clothing,5,42.34,Debit Card,Returned,Mobile App
+WEB-10487,2025-09-19,CUST-322,Kayla Payne,AU,PROD-027,Clothing,3,94.7,PayPal,Completed,Mobile Web
+WEB-10488,2025-11-14,CUST-124,Howard Johnson,FR,PROD-063,Home,4,187.2,Debit Card,Returned,Desktop Web
+WEB-10489,2026-07-20,CUST-145,Joshua Garcia,UK,PROD-061,Electronics,3,113.34,Debit Card,Cancelled,Mobile App
+WEB-10490,2026-07-28,CUST-273,Mr. Andrew Roy,DE,PROD-024,Books,2,12.18,Credit Card,Cancelled,Mobile Web
+WEB-10001,2026-02-24,CUST-290,Kiara Cooke,DE,PROD-086,Electronics,4,673.89,Credit Card,Returned,Mobile App
+WEB-10492,2026-04-12,CUST-309,Jose Gomez,UK,PROD-035,Sports,3,36.95,UPI,Returned,Mobile Web
+WEB-10493,2026-02-05,CUST-289,Darrell Anderson,US,PROD-099,Books,5,26.97,PayPal,Completed,Mobile Web
+WEB-10494,2026-06-26,CUST-320,John Frost,US,PROD-055,Sports,5,175.41,Debit Card,Completed,Mobile App
+WEB-10495,2026-11-11,CUST-172,Gloria Williams,US,PROD-087,Clothing,5,118.44,UPI,Completed,Mobile Web
+WEB-10496,2026-05-26,CUST-247,Alexander Lee,FR,PROD-008,Home,1,68.39,UPI,Returned,Mobile App
+WEB-10497,2026-05-30,CUST-274,Jessica Williams,DE,PROD-029,Books,1,39.63,UPI,Returned,Mobile Web
+WEB-10498,2026-02-04,CUST-335,Brian Wells II,FR,PROD-044,Books,5,21.87,Debit Card,Cancelled,Mobile App
+WEB-10499,2026-03-25,CUST-307,Crystal Dixon,CA,PROD-055,Sports,1,37.03,PayPal,Returned,Desktop Web
+WEB-10500,2026-06-28,CUST-161,Ashley Logan,CA,PROD-081,Electronics,1,157.52,Debit Card,Returned,Desktop Web
+WEB-10501,2026-01-28,CUST-243,Rebecca Robinson,AU,PROD-041,Electronics,4,620.19,Credit Card,Cancelled,Desktop Web
+WEB-10502,2026-07-24,CUST-371,Cynthia Anderson,FR,PROD-016,Electronics,3,477.66,PayPal,Returned,Desktop Web
+WEB-10503,2026-02-17,CUST-158,Steve Flores,UK,PROD-045,Sports,2,102.83,Credit Card,Returned,Mobile Web
+WEB-10504,2025-10-30,CUST-233,Kristen Mccall,IN,PROD-024,Books,1,21.83,UPI,Completed,Mobile App
+WEB-10505,2025-10-26,CUST-353,Kimberly Mosley,AU,PROD-058,Home,3,153.6,UPI,Returned,Mobile Web
+WEB-10506,2025-12-03,CUST-223,Chris Douglas,DE,PROD-048,Home,2,28.48,PayPal,Cancelled,Mobile Web
+WEB-10507,2026-06-23,CUST-394,Matthew Dalton,IN,PROD-049,Books,4,42.08,UPI,Returned,Mobile Web
+WEB-10508,2026-07-29,CUST-334,Jasmine Ritter,CA,PROD-024,Books,2,24.86,Credit Card,Completed,Desktop Web
+WEB-10509,2026-01-03,CUST-156,Laura Johnson,IN,PROD-097,Clothing,1,115.68,Credit Card,Completed,Mobile Web
+WEB-10510,2025-11-14,CUST-248,Jesus Lee,IN,PROD-022,Clothing,1,33.77,Debit Card,Completed,Mobile App
+WEB-10511,2026-06-11,CUST-324,Rodney Taylor,IN,PROD-059,Books,4,44.71,UPI,Returned,Mobile App
+WEB-10512,2026-03-31,CUST-325,Paula Miller,AU,PROD-037,Clothing,3,97.55,PayPal,Returned,Desktop Web
+WEB-10513,2025-09-30,CUST-334,Matthew Jensen,IN,PROD-039,Books,1,25.22,UPI,Returned,Desktop Web
+WEB-10514,2025-12-11,CUST-308,Jesse Blevins,AU,PROD-061,Electronics,3,742.6,Credit Card,Returned,Mobile Web
+WEB-10515,2026-02-18,CUST-274,Maria Jones,DE,PROD-039,Books,3,17.97,PayPal,Cancelled,Desktop Web
+WEB-10516,2025-11-20,CUST-145,Robert Smith,DE,PROD-043,Home,1,41.09,UPI,Cancelled,Mobile Web
+WEB-10517,2026-03-08,CUST-298,Angela Edwards,CA,PROD-089,Books,3,39.08,Credit Card,Completed,Desktop Web
+WEB-10518,2026-04-11,CUST-306,William Crawford,UK,PROD-032,Clothing,4,92.12,PayPal,Returned,Mobile App
+WEB-10519,2026-08-06,CUST-203,Derrick Leon,DE,PROD-045,Sports,5,167.8,Credit Card,Cancelled,Mobile Web
+WEB-10520,2025-10-16,CUST-103,Howard Deleon,CA,PROD-089,Books,5,32.34,Debit Card,Cancelled,Mobile App
+WEB-10521,2026-01-21,CUST-302,Patrick Vasquez,FR,PROD-002,Clothing,2,86.67,PayPal,Cancelled,Mobile Web
+WEB-10522,2026-05-14,CUST-206,Pamela Powell,IN,PROD-067,Clothing,1,63.65,UPI,Completed,Mobile App
+WEB-10523,2026-02-10,CUST-284,Michael Long,CA,PROD-082,Clothing,3,47.64,PayPal,Returned,Mobile Web
+WEB-10524,2026-05-26,CUST-158,Dr. Thomas Brown,CA,PROD-011,Electronics,2,143.19,Credit Card,Returned,Mobile App
+WEB-10525,2026-01-26,CUST-293,Jeremy Phelps,DE,PROD-090,Sports,1,207.93,PayPal,Completed,Mobile Web
+WEB-10526,2026-05-12,CUST-276,Geoffrey Baldwin,FR,PROD-070,Sports,5,259.95,UPI,Returned,Desktop Web
+WEB-10527,2026-05-09,CUST-276,Linda Cross,AU,PROD-095,Sports,5,35.76,UPI,Completed,Mobile Web
+WEB-10528,2025-11-23,CUST-251,Joy Peters,AU,PROD-027,Clothing,1,38.84,Debit Card,Cancelled,Mobile App
+WEB-10529,2025-09-29,CUST-238,Harold Howard,AU,PROD-031,Electronics,1,64.32,UPI,Cancelled,Mobile Web
+WEB-10530,2025-11-10,CUST-346,Emily Villa,CA,PROD-028,Home,3,173.49,Credit Card,Cancelled,Mobile Web
+WEB-10531,2025-11-21,CUST-362,Zachary Thomas,FR,PROD-096,Electronics,4,419.87,UPI,Cancelled,Mobile Web
+WEB-10532,2026-07-02,CUST-357,Karen Brown,UK,PROD-100,Sports,5,133.75,UPI,Cancelled,Mobile App
+WEB-10533,2026-08-16,CUST-214,Jordan Brandt,FR,PROD-073,Home,3,141.81,UPI,Completed,Desktop Web
+WEB-10534,2025-10-28,CUST-193,Brett Martinez,FR,PROD-051,Electronics,3,514.74,UPI,Cancelled,Mobile Web
+WEB-10001,2025-10-09,CUST-186,Billy Sanchez,FR,PROD-022,Clothing,3,110.95,Credit Card,Returned,Desktop Web
+WEB-10536,2025-09-22,CUST-269,Cameron Jackson,DE,PROD-075,Sports,2,204.83,Debit Card,Completed,Mobile Web
+WEB-10537,2025-11-25,CUST-127,Christopher Robertson,UNKNOWN,PROD-013,Home,5,86.96,PayPal,Cancelled,Mobile Web
+WEB-10538,2026-02-13,CUST-312,Douglas Snyder,IN,PROD-093,Home,1,112.07,UPI,Cancelled,Mobile Web
+WEB-10539,2026-04-09,CUST-354,Jonathan Romero,FR,PROD-011,Electronics,4,680.05,Debit Card,Returned,Mobile Web
+WEB-10540,2026-01-29,,William Kirk,US,PROD-023,Home,3,182.22,Credit Card,Completed,Mobile Web
+WEB-10541,2025-12-07,CUST-351,Kevin Mays,AU,PROD-075,Sports,5,282.31,UPI,Cancelled,Mobile Web
+WEB-10542,2026-01-12,CUST-150,Kevin Rangel,DE,PROD-024,Books,5,20.43,UPI,Completed,Mobile App
+WEB-10543,2025-10-17,CUST-201,Tonya Jordan,AU,PROD-074,Books,3,14.67,PayPal,Completed,Desktop Web
+WEB-10544,2026-07-08,CUST-175,Emily Delgado MD,DE,PROD-056,Electronics,1,797.39,UPI,Returned,Desktop Web
+WEB-10545,2026-05-02,CUST-152,Mark Beltran,DE,PROD-100,Sports,4,112.32,PayPal,Completed,Mobile App
+WEB-10546,2025-11-05,CUST-293,Dr. Nicole Blevins,UK,PROD-077,Clothing,1,89.74,PayPal,Completed,Desktop Web
+WEB-10547,2026-04-28,CUST-320,Jennifer Butler,US,PROD-053,Home,1,170.53,PayPal,Completed,Mobile Web
+WEB-10548,2026-02-18,CUST-388,Christopher Dunn,UK,PROD-022,Clothing,5,44.28,UPI,Completed,Desktop Web
+WEB-10549,2025-12-10,CUST-274,Donna Pitts,UK,PROD-066,Electronics,2,283.15,PayPal,Completed,Mobile App
+WEB-10550,2026-06-01,CUST-202,Paul Armstrong,US,PROD-040,Sports,2,43.24,PayPal,Cancelled,Mobile Web
+WEB-10551,2025-12-09,CUST-355,Mary Short,UK,PROD-089,Books,4,19.82,UPI,Returned,Mobile App
+WEB-10552,2025-11-19,CUST-400,Roger Cline,DE,PROD-005,Sports,5,209.41,Credit Card,Returned,Desktop Web
+WEB-10553,2025-10-14,CUST-286,Lindsey Sanchez,DE,PROD-087,Clothing,2,83.29,PayPal,Returned,Desktop Web
+WEB-10554,2026-07-19,CUST-123,Caleb Rowe,IN,PROD-093,Home,1,206.44,Debit Card,Cancelled,Mobile Web
+WEB-10555,2026-04-14,CUST-367,Bobby Smith,IN,PROD-034,Books,1,36.87,PayPal,Returned,Mobile App
+WEB-10556,2026-07-30,CUST-391,Jessica Martinez,CA,PROD-089,Books,1,21.86,Credit Card,Returned,Mobile App
+WEB-10557,2026-04-03,CUST-316,Dominique Bernard,FR,PROD-020,Sports,1,184.49,Debit Card,Cancelled,Mobile Web
+WEB-10558,2026-06-14,CUST-164,Curtis Walker,US,PROD-045,Sports,3,279.15,UPI,Cancelled,Desktop Web
+WEB-10559,2025-10-13,CUST-273,Brenda Johnson,US,PROD-020,Sports,3,285.64,Debit Card,Cancelled,Mobile Web
+WEB-10560,2025-11-16,CUST-350,John Long,FR,PROD-090,Sports,4,259.18,Debit Card,Cancelled,Desktop Web
+WEB-10561,2026-02-10,CUST-232,Luis Rodriguez,IN,PROD-015,Sports,1,98.76,Debit Card,Cancelled,Mobile App
+WEB-10562,2026-07-22,CUST-133,Elizabeth West,DE,PROD-010,Sports,4,264.19,Debit Card,Returned,Mobile App
+WEB-10563,2026-07-01,CUST-201,Jennifer Blevins,CA,PROD-053,Home,1,220.58,Credit Card,Cancelled,Desktop Web
+WEB-10564,2025-11-29,CUST-327,Robert Mcgrath,CA,PROD-041,Electronics,5,108.73,Debit Card,Returned,Desktop Web
+WEB-10565,2026-10-27,CUST-186,Donna Lewis,UK,PROD-096,Electronics,4,313.07,PayPal,Cancelled,Mobile Web
+WEB-10566,2026-01-17,CUST-387,Lindsay Welch,US,PROD-040,Sports,4,32.86,Credit Card,Completed,Mobile App
+WEB-10567,2026-03-15,CUST-324,Timothy Hobbs,CA,PROD-023,Home,3,125.51,PayPal,Cancelled,Mobile Web
+WEB-10568,2026-01-02,CUST-357,Christina Brown,AU,PROD-041,Electronics,-3,756.82,Debit Card,Returned,Desktop Web
+WEB-10569,2026-04-23,CUST-308,James Neal,DE,PROD-007,Clothing,2,105.38,UPI,Completed,Mobile Web
+WEB-10570,2025-10-16,CUST-375,Todd George,AU,PROD-034,Books,4,21.02,Debit Card,Completed,Desktop Web
+WEB-10571,2026-04-02,,Dale Adams,UK,PROD-089,Books,4,15.7,PayPal,Completed,Mobile Web
+WEB-10572,2026-02-25,CUST-202,Jaime Cochran,IN,PROD-094,Books,2,22.23,Credit Card,Returned,Mobile App
+WEB-10573,2026-02-14,CUST-305,Christina Foster,IN,PROD-024,Books,2,44.93,Credit Card,Completed,Desktop Web
+WEB-10574,2026-03-01,CUST-272,John Herrera,UK,PROD-091,Electronics,2,323.79,Debit Card,Cancelled,Mobile App
+WEB-10575,2026-08-19,CUST-156,Benjamin Davidson,AU,PROD-014,Books,2,29.14,Credit Card,Returned,Mobile App
+WEB-10576,2025-09-28,CUST-182,Susan Kirk,IN,PROD-047,Clothing,3,39.84,PayPal,Cancelled,Desktop Web
+WEB-10577,2026-03-18,CUST-256,Crystal Evans,CA,PROD-048,Home,1,180.9,Credit Card,Cancelled,Mobile Web
+WEB-10578,2026-05-17,CUST-129,Kevin Smith,DE,PROD-033,Home,5,42.94,UPI,Completed,Mobile App
+WEB-10579,2026-03-27,CUST-327,Jordan Richardson,UK,PROD-051,Electronics,2,161.57,Credit Card,Cancelled,Desktop Web
+WEB-10580,2026-09-07,CUST-377,Samantha Davis,UK,PROD-010,Sports,3,95.83,PayPal,Returned,Mobile Web
+WEB-10581,2025-10-11,CUST-266,Holly Doyle,IN,PROD-012,Clothing,2,67.72,PayPal,Returned,Mobile Web
+WEB-10582,2026-05-19,CUST-326,Kristin Torres,US,PROD-087,Clothing,5,109.94,Credit Card,Cancelled,Desktop Web
+WEB-10583,2025-12-31,CUST-356,Rebecca Zuniga,FR,PROD-099,Books,1,34.9,PayPal,Completed,Mobile Web
+WEB-10584,2026-02-10,CUST-236,James Snyder,US,PROD-019,Books,5,35.63,Debit Card,Cancelled,Mobile App
+WEB-10585,2026-07-08,CUST-384,James Davis,AU,PROD-091,Electronics,3,712.17,UPI,Cancelled,Mobile Web
+WEB-10586,2026-07-17,CUST-143,Isaiah Smith,FR,PROD-058,Home,5,131.18,Credit Card,Cancelled,Mobile Web
+WEB-10587,2026-07-18,CUST-185,Kelsey Martinez,US,PROD-083,Home,3,234.07,Credit Card,Cancelled,Desktop Web
+WEB-10588,2026-07-25,CUST-365,Marc Sanders,DE,PROD-068,Home,2,176.08,Debit Card,Cancelled,Mobile Web
+WEB-10589,2026-01-24,CUST-187,Carolyn Rodriguez,IN,PROD-068,Home,4,45.64,UPI,Completed,Mobile Web
+WEB-10590,2026-07-12,CUST-310,Krista Herrera,UK,PROD-095,Sports,5,255.23,UPI,Cancelled,Desktop Web
+WEB-10591,2026-03-08,CUST-237,Samantha Bender,IN,PROD-010,Sports,2,167.39,PayPal,Returned,Mobile Web
+WEB-10592,2026-07-31,CUST-181,Samantha Perez,CA,PROD-023,Home,4,125.53,Credit Card,Cancelled,Desktop Web
+WEB-10593,2026-05-13,CUST-284,Jordan Rivera,US,PROD-086,Electronics,4,407.98,PayPal,Returned,Desktop Web
+WEB-10594,2026-08-26,CUST-296,Catherine Castillo,AU,PROD-067,Clothing,4,66.27,Debit Card,Cancelled,Mobile Web
+WEB-10595,2026-05-03,CUST-246,Diana Cooper,DE,PROD-026,Electronics,5,261.07,Debit Card,Returned,Desktop Web
+WEB-10596,2026-04-28,CUST-170,Suzanne Walker,IN,PROD-051,Electronics,4,474.09,Debit Card,Cancelled,Mobile App
+WEB-10597,2025-09-24,CUST-322,Jordan Hughes,AU,PROD-026,Electronics,2,106.52,PayPal,Returned,Mobile App
+WEB-10598,2026-06-11,CUST-213,Lisa Baldwin,IN,PROD-076,Electronics,5,453.43,Debit Card,Cancelled,Mobile Web
+WEB-10599,2026-02-19,CUST-262,Nicole Young,US,PROD-056,Electronics,3,459.57,Debit Card,Returned,Mobile Web
+WEB-10600,2026-07-18,CUST-273,Andrew Wagner,UNKNOWN,PROD-037,Clothing,1,51.37,Credit Card,Completed,Mobile App
+WEB-10601,2026-08-15,CUST-396,Kelsey Moore,UK,PROD-026,Electronics,1,496.08,UPI,Completed,Desktop Web
+WEB-10602,2026-07-29,CUST-388,Christopher Rodriguez,UK,PROD-019,Books,2,13.71,PayPal,Cancelled,Mobile Web
+WEB-10603,2026-08-22,CUST-214,Cody Smith,CA,PROD-074,Books,3,33.5,Credit Card,Cancelled,Desktop Web
+WEB-10604,2026-03-21,CUST-190,Jonathan Larsen,CA,PROD-033,Home,-1,40.37,UPI,Cancelled,Desktop Web
+WEB-10605,2026-08-27,CUST-313,Alejandro Mendoza,IN,PROD-042,Clothing,4,59.64,Debit Card,Completed,Mobile Web
+WEB-10606,2026-04-13,CUST-106,Clarence Miller,UK,PROD-082,Clothing,1,76.63,PayPal,Cancelled,Desktop Web
+WEB-10607,2026-05-22,CUST-359,Tammy Campbell,US,PROD-051,Electronics,5,216.61,Debit Card,Cancelled,Mobile App
+WEB-10608,2026-07-30,CUST-283,Ryan Jackson,US,PROD-068,Home,3,183.7,UPI,Completed,Mobile Web
+WEB-10609,2025-10-03,CUST-353,Maria White,DE,PROD-020,Sports,2,84.03,UPI,Cancelled,Mobile Web
+WEB-10610,2025-11-24,CUST-191,Calvin Wright,DE,PROD-002,Clothing,2,19.1,Credit Card,Returned,Desktop Web
+WEB-10611,2026-04-05,CUST-232,Michelle Thompson,CA,PROD-095,Sports,3,202.67,Debit Card,Cancelled,Mobile Web
+WEB-10612,2026-06-20,CUST-356,Garrett Murray,CA,PROD-085,Sports,4,30.26,Credit Card,Cancelled,Desktop Web
+WEB-10613,2026-06-20,CUST-250,Jerry White,FR,PROD-077,Clothing,3,103.88,Debit Card,Returned,Mobile App
+WEB-10614,2026-02-10,CUST-147,Joel Coleman,CA,PROD-068,Home,1,105.84,UPI,Completed,Mobile App
+WEB-10615,2025-11-02,CUST-303,Timothy Shea,US,PROD-054,Books,3,18.15,Credit Card,Cancelled,Desktop Web
+WEB-10616,2026-01-16,CUST-198,Kathryn Hughes,DE,PROD-091,Electronics,3,476.34,Credit Card,Returned,Mobile Web
+WEB-10617,2025-10-22,CUST-191,Heather Ryan,CA,PROD-080,Sports,5,72.26,Credit Card,Returned,Desktop Web
+WEB-10618,2025-09-17,CUST-140,Robert Reeves,AU,PROD-026,Electronics,5,577.91,Credit Card,Returned,Mobile Web
+WEB-10619,2026-03-07,CUST-331,Brett Moore,CA,PROD-039,Books,4,44.64,PayPal,Cancelled,Mobile Web
+WEB-10620,2026-07-25,CUST-287,William Hodges,US,PROD-003,Home,1,151.28,Debit Card,Returned,Desktop Web
+WEB-10621,2026-01-12,CUST-115,Sarah Mann,IN,PROD-080,Sports,2,125.15,Debit Card,Cancelled,Mobile Web
+WEB-10622,2026-03-15,CUST-386,Nathan Galvan,IN,PROD-023,Home,2,160.83,Credit Card,Returned,Mobile App
+WEB-10623,2026-10-09,CUST-382,Lee Hendrix,CA,PROD-017,Clothing,1,94.97,Credit Card,Returned,Mobile App
+WEB-10624,2026-06-05,CUST-147,Hannah Brown,IN,PROD-014,Books,5,23.84,UPI,Completed,Desktop Web
+WEB-10625,2026-08-15,CUST-304,Katherine Dixon,AU,PROD-016,Electronics,2,372.21,Credit Card,Completed,Mobile Web
+WEB-10626,2026-06-15,CUST-154,Matthew Goodman,CA,PROD-097,Clothing,3,86.6,UPI,Cancelled,Mobile App
+WEB-10627,2026-06-14,CUST-319,William Perry,IN,PROD-042,Clothing,4,61.27,PayPal,Completed,Mobile Web
+WEB-10628,2026-07-24,CUST-246,Curtis Robertson,US,PROD-019,Books,4,27.97,PayPal,Cancelled,Mobile App
+WEB-10629,2025-09-25,CUST-166,Brenda Baker,AU,PROD-034,Books,5,40.37,Debit Card,Returned,Mobile App
+WEB-10630,2026-04-10,CUST-229,Michael Ramos,CA,PROD-032,Clothing,1,102.21,PayPal,Cancelled,Mobile Web
+WEB-10631,2025-11-14,CUST-206,Alicia Simpson,UK,PROD-072,Clothing,3,61.22,UPI,Returned,Mobile Web
+WEB-10632,2026-02-26,CUST-152,Ryan King,UK,PROD-037,Clothing,4,107.37,Credit Card,Cancelled,Desktop Web
+WEB-10633,2025-10-28,CUST-265,Luis Ward,UK,PROD-016,Electronics,1,490.29,Credit Card,Cancelled,Mobile Web
+WEB-10634,2026-05-29,CUST-213,Curtis Cook,IN,PROD-060,Sports,5,102.08,Credit Card,Completed,Desktop Web
+WEB-10635,2026-01-27,CUST-277,Amanda Shepherd,AU,PROD-036,Electronics,2,651.06,Debit Card,Cancelled,Desktop Web
+WEB-10636,2026-01-07,CUST-308,Richard Watson,CA,PROD-080,Sports,5,123.21,Credit Card,Cancelled,Mobile App
+WEB-10637,2025-10-11,CUST-346,Brenda Davis,DE,PROD-096,Electronics,4,369.53,PayPal,Completed,Mobile Web
+WEB-10638,2025-10-22,CUST-177,Michael Haynes,IN,PROD-070,Sports,2,83.54,PayPal,Completed,Mobile App
+WEB-10639,2025-12-23,CUST-335,Rachel Farley,UK,PROD-059,Books,2,32.2,UPI,Cancelled,Mobile App
+WEB-10640,2026-04-02,CUST-275,Luis Maldonado,DE,PROD-024,Books,1,23.42,Credit Card,Returned,Mobile Web
+WEB-10641,2026-07-13,CUST-303,Heather Weiss,DE,PROD-054,Books,3,39.51,Debit Card,Cancelled,Mobile App
+WEB-10642,2025-09-24,CUST-343,Derek Davis,FR,PROD-079,Books,5,17.78,PayPal,Completed,Desktop Web
+WEB-10643,2025-12-01,CUST-349,Jerry Beck,IN,PROD-009,Books,2,39.51,PayPal,Returned,Mobile Web
+WEB-10644,2026-03-13,CUST-248,Mr. Patrick Schultz,AU,PROD-085,Sports,1,208.84,PayPal,Cancelled,Mobile App
+WEB-10645,2026-03-29,CUST-342,Kayla Ellis,AU,PROD-041,Electronics,1,557.15,PayPal,Returned,Mobile Web
+WEB-10646,2025-12-28,CUST-375,Lisa Sullivan,US,PROD-023,Home,2,184.09,PayPal,Returned,Mobile App
+WEB-10647,2025-12-12,CUST-181,Jennifer Shields,FR,PROD-081,Electronics,5,345.77,Credit Card,Completed,Desktop Web
+WEB-10648,2026-09-09,CUST-129,Lindsay Smith,DE,PROD-064,Books,5,25.71,Debit Card,Returned,Mobile Web
+WEB-10649,2026-11-02,CUST-295,Robert Smith,IN,PROD-065,Sports,1,122.1,Credit Card,Completed,Desktop Web
+WEB-10650,2026-08-10,CUST-322,Crystal Ellis,IN,PROD-010,Sports,5,216.0,PayPal,Cancelled,Mobile App
+WEB-10651,2026-03-10,CUST-232,Richard Buck,UK,PROD-076,Electronics,4,763.43,PayPal,Completed,Desktop Web
+WEB-10652,2026-05-01,CUST-111,Richard Salas,US,PROD-044,Books,2,18.59,PayPal,Cancelled,Mobile Web
+WEB-10653,2025-09-24,CUST-193,Gary Gomez,FR,PROD-086,Electronics,1,260.18,Debit Card,Completed,Desktop Web
+WEB-10654,2026-01-17,CUST-316,Kevin Harris,CA,PROD-016,Electronics,2,502.23,Credit Card,Cancelled,Desktop Web
+WEB-10655,2025-12-03,CUST-105,Alyssa Lopez,US,PROD-047,Clothing,3,49.03,UPI,Cancelled,Mobile Web
+WEB-10656,2026-07-05,CUST-230,Michael Koch,US,PROD-066,Electronics,5,116.37,PayPal,Returned,Mobile Web
+WEB-10657,2025-12-11,CUST-334,Joan Bradford,DE,PROD-018,Home,1,117.43,Credit Card,Returned,Mobile Web
+WEB-10658,2026-04-13,CUST-206,Kelly Walsh,CA,PROD-046,Electronics,4,494.66,Credit Card,Returned,Desktop Web
+WEB-10659,2026-02-20,CUST-151,Nicole Hensley,IN,PROD-060,Sports,2,222.45,UPI,Completed,Mobile Web
+WEB-10660,2025-12-07,CUST-235,Darrell Terrell,CA,PROD-089,Books,3,33.8,Debit Card,Returned,Mobile Web
+WEB-10661,2026-07-31,CUST-339,Joshua Murphy,FR,PROD-098,Home,4,211.09,PayPal,Completed,Mobile App
+WEB-10662,2025-12-10,CUST-357,Benjamin Singh,US,PROD-100,Sports,5,128.92,PayPal,Returned,Desktop Web
+WEB-10663,2025-09-24,CUST-356,Lisa Clark,AU,PROD-084,Books,4,10.52,UPI,Returned,Desktop Web
+WEB-10664,2026-01-08,CUST-118,Dr. Lindsey Martin,AU,PROD-092,Clothing,3,70.51,UPI,Completed,Mobile App
+WEB-10665,2026-04-24,CUST-150,Carla Moore,CA,PROD-056,Electronics,1,133.16,UPI,Completed,Mobile Web
+WEB-10666,2025-12-20,CUST-314,Scott Holmes,US,PROD-075,Sports,1,264.59,Debit Card,Returned,Mobile Web
+WEB-10667,2026-05-15,CUST-150,Jordan Hoffman,IN,PROD-021,Electronics,4,-22.8,UPI,Completed,Mobile App
+WEB-10668,2026-08-06,CUST-385,Jennifer Underwood,DE,PROD-081,Electronics,1,257.49,Credit Card,Completed,Mobile Web
+WEB-10669,2026-06-28,CUST-281,Stacey Williamson,IN,PROD-055,Sports,2,208.1,PayPal,Completed,Desktop Web
+WEB-10670,2025-10-19,CUST-230,Noah Henderson,IN,PROD-093,Home,5,39.39,UPI,Completed,Mobile Web
+WEB-10671,2026-05-16,CUST-204,Traci Hall DVM,AU,PROD-015,Sports,5,108.29,PayPal,Cancelled,Mobile Web
+WEB-10672,2026-05-31,CUST-269,Andrea Hunter,FR,PROD-068,Home,5,77.24,UPI,Returned,Desktop Web
+WEB-10673,2026-03-26,CUST-210,Gerald Nelson,US,PROD-084,Books,2,10.41,PayPal,Returned,Mobile Web
+WEB-10674,2026-08-26,CUST-161,Elizabeth Young,IN,PROD-033,Home,4,190.4,PayPal,Cancelled,Mobile App
+WEB-10675,2026-08-10,CUST-200,Francisco Cooper,UK,PROD-085,Sports,1,210.08,PayPal,Cancelled,Desktop Web
+WEB-10676,2026-03-12,CUST-231,Jason Brown DDS,IN,PROD-021,Electronics,2,409.39,UPI,Completed,Mobile App
+WEB-10677,2025-12-01,CUST-249,Holly Brown,CA,PROD-006,Electronics,3,310.07,PayPal,Returned,Desktop Web
+WEB-10678,2026-04-19,CUST-147,Wendy King,FR,PROD-058,Home,4,168.82,Debit Card,Completed,Desktop Web
+WEB-10679,2026-06-14,CUST-129,Jeremiah Petty,DE,PROD-098,Home,3,-62.35,Debit Card,Cancelled,Mobile App
+WEB-10001,2026-09-11,CUST-191,Yolanda Perkins,CA,PROD-039,Books,5,41.5,Credit Card,Completed,Mobile Web
+WEB-10681,2026-07-19,CUST-370,Jimmy Williams,DE,PROD-074,Books,3,42.47,Debit Card,Returned,Desktop Web
+WEB-10682,2026-03-14,CUST-292,Cassandra Brown,IN,PROD-022,Clothing,5,41.43,UPI,Completed,Mobile App
+WEB-10683,2026-10-12,CUST-385,Kenneth Jackson,UK,PROD-061,Electronics,5,110.95,Debit Card,Returned,Desktop Web
+WEB-10684,2026-08-16,CUST-280,Pamela Mendoza,UK,PROD-059,Books,2,44.97,Credit Card,Cancelled,Desktop Web
+WEB-10685,2026-05-02,CUST-205,Mathew Curry,DE,PROD-036,Electronics,3,215.0,PayPal,Returned,Mobile App
+WEB-10686,2026-05-23,CUST-179,Vincent Liu,CA,PROD-082,Clothing,1,80.29,PayPal,Completed,Mobile Web
+WEB-10687,2026-06-04,CUST-289,Melissa James,FR,PROD-040,Sports,3,230.84,Debit Card,Returned,Mobile App
+WEB-10688,2026-04-09,CUST-340,Kayla Park,IN,PROD-054,Books,4,27.18,PayPal,Completed,Desktop Web
+WEB-10689,2026-07-22,CUST-204,Alfred Wright,UK,PROD-016,Electronics,5,455.66,Debit Card,Returned,Desktop Web
+WEB-10690,2026-04-22,CUST-217,Sarah Wilkinson,DE,PROD-060,Sports,4,181.59,UPI,Completed,Mobile Web
+WEB-10691,2025-10-01,CUST-286,James Robertson,DE,PROD-064,Books,3,16.73,PayPal,Returned,Mobile Web
+WEB-10692,2026-01-05,CUST-347,Daniel Cruz,UK,PROD-034,Books,4,24.7,PayPal,Cancelled,Desktop Web
+WEB-10693,2026-08-16,CUST-191,Sarah Phillips,DE,PROD-007,Clothing,3,106.82,Credit Card,Cancelled,Mobile App
+WEB-10694,2026-04-26,CUST-386,Brenda Reynolds,US,PROD-031,Electronics,1,359.08,PayPal,Cancelled,Mobile Web
+WEB-10695,2025-10-10,CUST-244,Valerie Nguyen,FR,PROD-091,Electronics,1,348.91,UPI,Completed,Mobile Web
+WEB-10696,2026-06-27,CUST-159,Michael Ramirez,DE,PROD-008,Home,3,88.55,Credit Card,Returned,Mobile Web
+WEB-10697,2026-07-14,CUST-400,Jason Lopez,FR,PROD-046,Electronics,5,563.15,Credit Card,Completed,Mobile Web
+WEB-10698,2026-02-19,CUST-172,John Murphy,AU,PROD-041,Electronics,2,120.17,UPI,Completed,Mobile Web
+WEB-10699,2025-10-21,CUST-253,Clifford Roberson,UK,PROD-072,Clothing,4,113.21,Credit Card,Returned,Mobile Web
+WEB-10700,2025-10-24,CUST-111,Toni Smith,UK,PROD-015,Sports,4,47.7,Debit Card,Completed,Mobile Web
+WEB-10701,2026-04-16,CUST-336,Paul Myers,FR,PROD-074,Books,5,15.35,Debit Card,Returned,Mobile App
+WEB-10702,2025-12-11,CUST-105,Kathryn Klein,IN,PROD-009,Books,2,12.45,Credit Card,Cancelled,Desktop Web
+WEB-10703,2025-12-25,CUST-362,Rebecca Martin,FR,PROD-045,Sports,5,293.43,PayPal,Cancelled,Desktop Web
+WEB-10704,2026-09-02,CUST-223,Christopher Ward,CA,PROD-025,Sports,4,133.81,PayPal,Completed,Mobile Web
+WEB-10705,2026-08-21,CUST-387,Christopher Brown,IN,PROD-068,Home,1,185.59,UPI,Returned,Mobile Web
+WEB-10706,2026-02-22,CUST-155,Edgar Mullins,DE,PROD-009,Books,3,34.85,PayPal,Returned,Desktop Web
+WEB-10707,2026-08-04,CUST-149,Toni Gordon,DE,PROD-083,Home,2,232.93,UPI,Completed,Mobile Web
+WEB-10708,2026-06-20,CUST-307,Daniel Smith,FR,PROD-058,Home,4,152.94,Credit Card,Cancelled,Desktop Web
+WEB-10709,2025-10-19,CUST-168,Justin Williams,DE,PROD-056,Electronics,3,661.59,Credit Card,Cancelled,Mobile App
+WEB-10710,2025-11-01,CUST-221,Caroline Hensley,UNKNOWN,PROD-033,Home,1,120.67,Credit Card,Cancelled,Desktop Web
+WEB-10711,2026-07-31,CUST-330,Lindsey Adams,AU,PROD-006,Electronics,5,275.45,UPI,Cancelled,Desktop Web
+WEB-10712,2026-01-27,CUST-365,Emily Mccormick,DE,PROD-090,Sports,3,232.06,Credit Card,Completed,Mobile App
+WEB-10713,2026-02-11,CUST-282,Charles Lopez,DE,PROD-058,Home,3,164.22,UPI,Returned,Mobile App
+WEB-10714,2026-02-08,CUST-285,Samantha Taylor,IN,PROD-065,Sports,4,113.47,PayPal,Completed,Mobile App
+WEB-10715,2026-07-31,CUST-313,Roy Berry DVM,FR,PROD-014,Books,4,16.18,UPI,Completed,Desktop Web
+WEB-10716,2026-09-03,CUST-338,Jesse Brown,CA,PROD-054,Books,5,38.44,Credit Card,Completed,Mobile App
+WEB-10717,2025-12-01,CUST-149,Tamara Cole,AU,PROD-026,Electronics,4,294.78,PayPal,Completed,Mobile Web
+WEB-10718,2026-07-11,CUST-375,Alfred Alvarez,CA,PROD-095,Sports,3,163.47,UPI,Cancelled,Mobile Web
+WEB-10719,2026-01-07,CUST-149,Penny Bishop,CA,PROD-062,Clothing,4,21.91,Credit Card,Cancelled,Mobile App
+WEB-10720,2026-07-31,CUST-348,Connie Duffy,CA,PROD-066,Electronics,3,290.97,Credit Card,Completed,Mobile App
+WEB-10721,2026-08-16,CUST-255,Jon Shields,IN,PROD-016,Electronics,3,-29.1,UPI,Returned,Desktop Web
+WEB-10722,2026-07-13,CUST-357,Kimberly Davis,US,PROD-073,Home,2,24.37,Debit Card,Cancelled,Desktop Web
+WEB-10723,2026-10-06,CUST-350,Jill Torres,IN,PROD-073,Home,2,38.23,UPI,Returned,Mobile App
+WEB-10724,2026-04-10,CUST-204,Penny Hernandez,US,PROD-089,Books,1,28.15,PayPal,Cancelled,Mobile App
+WEB-10725,2026-03-19,,Kevin Ward,IN,PROD-034,Books,5,33.18,Credit Card,Cancelled,Mobile Web
+WEB-10726,2025-12-18,CUST-338,Emily Rivera,AU,PROD-098,Home,2,71.61,Debit Card,Cancelled,Desktop Web
+WEB-10727,2026-02-10,CUST-226,Kylie Cox,AU,PROD-063,Home,1,186.28,PayPal,Cancelled,Mobile Web
+WEB-10728,2026-01-04,CUST-336,Brandon Mayo,FR,PROD-042,Clothing,1,34.78,Debit Card,Completed,Desktop Web
+WEB-10729,2025-11-14,CUST-356,Jamie Espinoza,FR,PROD-051,Electronics,2,675.61,PayPal,Returned,Desktop Web
+WEB-10730,2026-02-27,CUST-318,Cynthia Torres,AU,PROD-092,Clothing,4,73.64,UPI,Completed,Mobile Web
+WEB-10731,2025-11-07,CUST-169,James Tyler,US,PROD-048,Home,4,63.92,PayPal,Returned,Mobile App
+WEB-10732,2026-07-24,CUST-260,Paul Scott,FR,PROD-041,Electronics,3,677.86,UPI,Returned,Mobile Web
+WEB-10733,2026-04-12,CUST-352,Kimberly Wilson,DE,PROD-053,Home,1,244.59,UPI,Completed,Mobile Web
+WEB-10734,2026-08-01,CUST-262,Rachel Garza,FR,PROD-024,Books,4,19.95,PayPal,Completed,Mobile Web
+WEB-10735,2026-06-19,CUST-318,Veronica Foster,US,PROD-062,Clothing,2,16.34,PayPal,Returned,Mobile Web
+WEB-10736,2026-09-05,CUST-194,Darlene Olsen,FR,PROD-036,Electronics,1,518.79,PayPal,Returned,Desktop Web
+WEB-10737,2025-09-21,CUST-221,Brenda Butler,IN,PROD-003,Home,2,77.58,Credit Card,Completed,Mobile App
+WEB-10738,2026-04-04,CUST-107,Darrell Joseph,CA,PROD-096,Electronics,1,381.46,Debit Card,Completed,Mobile App
+WEB-10739,2025-11-29,CUST-135,Laura Olson,US,PROD-085,Sports,2,221.75,UPI,Cancelled,Desktop Web
+WEB-10740,2026-02-03,CUST-230,Brittney Wright,UK,PROD-076,Electronics,3,253.74,PayPal,Returned,Desktop Web
+WEB-10741,2025-10-05,CUST-289,Amanda Harper,DE,PROD-022,Clothing,3,92.83,UPI,Completed,Mobile Web
+WEB-10742,2026-08-17,CUST-169,Darlene Fowler,AU,PROD-042,Clothing,3,58.73,PayPal,Cancelled,Desktop Web
+WEB-10743,2025-12-13,CUST-222,Elizabeth Parker,IN,PROD-056,Electronics,3,146.49,PayPal,Completed,Mobile App
+WEB-10744,2026-01-05,CUST-323,Derek Austin,AU,PROD-053,Home,1,38.05,PayPal,Returned,Mobile Web
+WEB-10745,2026-09-14,CUST-256,Michelle Johnson,CA,PROD-071,Electronics,2,285.37,PayPal,Completed,Mobile App
+WEB-10746,2025-10-21,CUST-163,Brandon Jones,UK,PROD-092,Clothing,5,80.97,Credit Card,Completed,Mobile App
+WEB-10747,2026-03-13,CUST-176,Linda Morris,AU,PROD-041,Electronics,5,214.97,UPI,Completed,Mobile Web
+WEB-10748,2026-03-20,CUST-189,Douglas Young,DE,PROD-062,Clothing,1,60.7,Credit Card,Completed,Desktop Web
+WEB-10001,2025-10-31,CUST-174,Antonio Nichols,FR,PROD-087,Clothing,4,116.61,Credit Card,Cancelled,Mobile Web
+WEB-10750,2026-08-08,CUST-217,Troy Sullivan,FR,PROD-082,Clothing,5,116.61,Credit Card,Returned,Mobile Web
+WEB-10751,2025-09-21,CUST-367,Bryan Lutz,AU,PROD-002,Clothing,2,104.42,PayPal,Completed,Desktop Web
+WEB-10752,2026-02-05,CUST-290,Rachael Ward,FR,PROD-068,Home,4,237.49,Debit Card,Cancelled,Desktop Web
+WEB-10753,2026-08-05,CUST-188,Cindy Bennett,IN,PROD-042,Clothing,1,77.89,UPI,Completed,Desktop Web
+WEB-10754,2026-02-10,CUST-256,Timothy Johnson,DE,PROD-066,Electronics,4,711.06,PayPal,Completed,Desktop Web
+WEB-10755,2026-02-02,CUST-378,Angela Shaffer,UK,PROD-046,Electronics,1,458.27,UPI,Completed,Mobile App
+WEB-10756,2026-07-17,CUST-371,Philip Phillips,US,PROD-064,Books,5,11.82,Credit Card,Cancelled,Mobile Web
+WEB-10757,2025-12-06,CUST-371,William Gibson,CA,PROD-069,Books,5,18.61,Credit Card,Cancelled,Mobile App
+WEB-10758,2026-01-11,CUST-240,Christian Hartman,FR,PROD-078,Home,4,52.8,PayPal,Completed,Mobile Web
+WEB-10759,2025-10-25,CUST-271,Laura Franklin,IN,PROD-037,Clothing,1,23.09,Debit Card,Completed,Mobile Web
+WEB-10760,2025-12-11,CUST-167,Andrew Waller,UK,PROD-045,Sports,3,289.03,PayPal,Completed,Mobile App
+WEB-10761,2026-06-12,CUST-205,Edwin Morrison,CA,PROD-045,Sports,2,157.02,Debit Card,Returned,Mobile App
+WEB-10762,2026-02-20,CUST-163,William Weaver,AU,PROD-041,Electronics,3,732.62,Debit Card,Completed,Mobile Web
+WEB-10001,2025-10-17,CUST-280,Sean Rich,AU,PROD-025,Sports,1,270.4,Credit Card,Cancelled,Desktop Web
+WEB-10764,2026-06-17,CUST-163,Chelsea Romero,UK,PROD-011,Electronics,4,509.28,Credit Card,Cancelled,Mobile Web
+WEB-10765,2025-11-13,,Cesar Humphrey,DE,PROD-050,Sports,1,264.49,Debit Card,Cancelled,Desktop Web
+WEB-10766,2025-10-11,CUST-349,George Olson,CA,PROD-004,Books,2,25.41,UPI,Completed,Mobile Web
+WEB-10767,2025-10-30,CUST-367,Kristen Miller,UK,PROD-083,Home,1,220.89,UPI,Completed,Desktop Web
+WEB-10768,2025-11-26,CUST-113,Timothy Castillo,UK,PROD-023,Home,4,249.4,UPI,Returned,Mobile Web
+WEB-10769,2026-08-11,CUST-147,Kimberly Marshall,AU,PROD-027,Clothing,2,110.74,PayPal,Cancelled,Desktop Web
+WEB-10770,2026-01-04,CUST-119,Patrick Archer,UK,PROD-034,Books,2,26.59,Debit Card,Cancelled,Mobile Web
+WEB-10771,2026-05-14,CUST-349,Angel Leon,UK,PROD-093,Home,3,93.33,Debit Card,Returned,Desktop Web
+WEB-10772,2026-07-08,CUST-315,Julie Stein,CA,PROD-002,Clothing,4,63.61,Debit Card,Returned,Mobile Web
+WEB-10773,2026-01-30,CUST-310,Jackie Howard,AU,PROD-087,Clothing,2,88.58,UPI,Cancelled,Mobile Web
+WEB-10774,2025-12-17,CUST-385,Robert Kelly,IN,PROD-030,Sports,1,172.35,Credit Card,Cancelled,Mobile App
+WEB-10775,2025-11-19,CUST-264,John Rodriguez,AU,PROD-036,Electronics,4,-46.45,Debit Card,Completed,Mobile App
+WEB-10776,2026-08-30,CUST-373,Carl Stevens,IN,PROD-008,Home,4,91.05,Credit Card,Returned,Mobile Web
+WEB-10777,2026-10-10,CUST-212,Stephen Garcia,FR,PROD-100,Sports,4,210.7,Debit Card,Cancelled,Mobile Web
+WEB-10778,2026-06-29,CUST-308,Tammy Paul,AU,PROD-047,Clothing,3,71.78,UPI,Cancelled,Mobile App
+WEB-10779,2026-01-19,CUST-302,Wendy King,US,PROD-046,Electronics,3,524.55,Debit Card,Cancelled,Mobile Web
+WEB-10780,2025-09-29,CUST-382,Daniel Bush,AU,PROD-090,Sports,2,183.95,Credit Card,Cancelled,Mobile Web
+WEB-10781,2026-05-15,CUST-285,Anthony Smith,US,PROD-029,Books,4,19.44,Credit Card,Cancelled,Mobile Web
+WEB-10782,2026-03-14,CUST-136,Lee Lopez,CA,PROD-024,Books,3,39.66,PayPal,Completed,Desktop Web
+WEB-10001,2025-12-03,CUST-301,Vicki Wilson,AU,PROD-028,Home,2,136.24,Debit Card,Completed,Desktop Web
+WEB-10784,2025-11-21,CUST-254,Doris Smith,UK,PROD-032,Clothing,3,116.67,Debit Card,Completed,Mobile App
+WEB-10785,2025-09-27,CUST-273,Mrs. Katherine Johnson,AU,PROD-070,Sports,5,257.92,PayPal,Cancelled,Desktop Web
+WEB-10786,2026-11-13,CUST-371,Timothy Barrera,IN,PROD-043,Home,1,174.4,UPI,Returned,Mobile Web
+WEB-10787,2025-11-13,CUST-260,Anthony Barnes,DE,PROD-028,Home,2,227.69,Debit Card,Completed,Desktop Web
+WEB-10788,2025-11-20,CUST-237,Kathryn Green,DE,PROD-090,Sports,4,257.9,PayPal,Returned,Mobile Web
+WEB-10789,2026-01-06,CUST-128,Sheryl Perry,CA,PROD-074,Books,3,28.54,Credit Card,Cancelled,Mobile Web
+WEB-10790,2026-06-03,CUST-338,Allen Conner,US,PROD-095,Sports,5,146.7,PayPal,Completed,Desktop Web
+WEB-10791,2026-07-07,CUST-337,David Sawyer,US,PROD-097,Clothing,5,34.75,PayPal,Completed,Mobile Web
+WEB-10792,2025-12-06,CUST-344,Jonathan Lee,CA,PROD-009,Books,3,43.02,PayPal,Cancelled,Mobile Web
+WEB-10793,2026-05-30,CUST-355,Patrick Russell,UK,PROD-064,Books,3,26.33,Debit Card,Completed,Mobile Web
+WEB-10794,2026-06-10,CUST-201,Corey Parrish,AU,PROD-047,Clothing,1,101.89,UPI,Returned,Mobile App
+WEB-10795,2025-11-14,CUST-336,Samantha Collins,UK,PROD-020,Sports,3,65.17,UPI,Completed,Mobile Web
+WEB-10796,2026-01-06,CUST-164,Vanessa Anderson,US,PROD-042,Clothing,3,19.53,Debit Card,Cancelled,Desktop Web
+WEB-10797,2026-03-16,CUST-327,Deanna James,DE,PROD-046,Electronics,2,94.74,PayPal,Completed,Mobile Web
+WEB-10798,2026-01-16,CUST-250,John Hudson DDS,FR,PROD-056,Electronics,4,372.9,Credit Card,Cancelled,Mobile Web
+WEB-10799,2026-05-16,CUST-125,Alan Carey,IN,PROD-006,Electronics,3,513.7,Credit Card,Completed,Desktop Web
+WEB-10800,2026-07-22,CUST-236,Samantha Wright,FR,PROD-097,Clothing,3,100.34,PayPal,Completed,Mobile App
+WEB-10801,2026-03-24,CUST-328,Sean Salazar,UK,PROD-027,Clothing,5,107.22,Debit Card,Returned,Mobile App
+WEB-10802,2025-10-23,CUST-103,Brooke Gilbert,CA,PROD-054,Books,2,19.13,UPI,Cancelled,Mobile Web
+WEB-10803,2025-12-06,CUST-290,Theodore James,US,PROD-032,Clothing,3,67.02,Debit Card,Returned,Mobile Web
+WEB-10804,2025-12-19,CUST-355,Diane Clark,IN,PROD-004,Books,4,18.95,Credit Card,Returned,Mobile Web
+WEB-10805,2026-02-02,CUST-177,Eric Robertson,US,PROD-074,Books,3,44.63,UPI,Completed,Mobile Web
+WEB-10806,2026-08-10,CUST-212,Erica Robinson,US,PROD-047,Clothing,1,115.73,Debit Card,Completed,Desktop Web
+WEB-10807,2025-12-29,CUST-364,Christopher Bell,IN,PROD-009,Books,1,11.1,Credit Card,Cancelled,Desktop Web
+WEB-10808,2026-06-18,CUST-120,Richard Larson,AU,PROD-048,Home,4,55.47,Debit Card,Completed,Desktop Web
+WEB-10809,2025-11-29,CUST-288,Jackie Chan,DE,PROD-091,Electronics,1,751.6,PayPal,Completed,Desktop Web
+WEB-10810,2026-08-01,CUST-292,Meghan Morgan,AU,PROD-038,Home,1,174.16,Credit Card,Cancelled,Mobile Web
+WEB-10811,2025-09-21,CUST-357,Luis Young,UK,PROD-065,Sports,1,226.57,UPI,Returned,Mobile Web
+WEB-10812,2026-04-05,CUST-165,Allison Evans PhD,US,PROD-094,Books,3,30.92,Debit Card,Returned,Desktop Web
+WEB-10813,2026-07-05,CUST-285,Angela Miller,IN,PROD-067,Clothing,1,107.55,UPI,Cancelled,Desktop Web
+WEB-10814,2026-04-25,CUST-277,Ryan Hart,DE,PROD-062,Clothing,3,76.74,Credit Card,Completed,Desktop Web
+WEB-10815,2026-09-08,CUST-363,Ashley Harrison,CA,PROD-079,Books,-5,13.05,UPI,Completed,Mobile App
+WEB-10816,2026-07-21,CUST-181,Dr. Carlos Rodgers Jr.,AU,PROD-061,Electronics,1,724.49,PayPal,Cancelled,Mobile App
+WEB-10817,2026-04-21,CUST-282,Brady Rodriguez,US,PROD-019,Books,4,43.64,UPI,Returned,Desktop Web
+WEB-10818,2025-11-22,CUST-392,Kimberly Vazquez,FR,PROD-073,Home,2,175.09,UPI,Completed,Mobile Web
+WEB-10819,2026-07-27,CUST-391,Edward Ford,AU,PROD-061,Electronics,3,153.36,Credit Card,Cancelled,Mobile Web
+WEB-10820,2026-03-13,CUST-232,Stacey Hood MD,CA,PROD-098,Home,1,140.12,PayPal,Cancelled,Mobile App
+WEB-10821,2026-03-23,CUST-163,Lisa Perry,IN,PROD-092,Clothing,3,20.25,UPI,Returned,Mobile App
+WEB-10822,2025-10-26,CUST-235,Stacey Cross,US,PROD-018,Home,5,25.01,PayPal,Cancelled,Mobile Web
+WEB-10823,2026-06-01,CUST-121,Haley Miller,FR,PROD-091,Electronics,2,277.69,UPI,Cancelled,Mobile App
+WEB-10824,2026-09-06,CUST-282,Todd Brown,US,PROD-023,Home,4,26.61,Debit Card,Cancelled,Desktop Web
+WEB-10825,2025-12-14,CUST-400,Mrs. Kim Taylor DVM,IN,PROD-099,Books,4,33.14,Debit Card,Cancelled,Mobile App
+WEB-10826,2026-07-29,CUST-108,Jennifer White,US,PROD-091,Electronics,5,628.14,UPI,Returned,Mobile Web
+WEB-10827,2026-01-18,CUST-237,Brandon Ramos,CA,PROD-019,Books,4,11.17,Debit Card,Completed,Mobile App
+WEB-10828,2026-09-04,CUST-295,Erin Brown,FR,PROD-004,Books,2,43.69,UPI,Cancelled,Desktop Web
+WEB-10829,2025-10-26,CUST-367,Joshua Stark,AU,PROD-060,Sports,4,199.97,Credit Card,Completed,Mobile App
+WEB-10830,2026-03-18,CUST-276,Audrey Skinner,FR,PROD-036,Electronics,3,172.22,Credit Card,Cancelled,Desktop Web
+WEB-10831,2026-04-23,CUST-204,Karen Watson,FR,PROD-075,Sports,1,83.07,PayPal,Cancelled,Mobile Web
+WEB-10832,2026-05-11,CUST-122,Emily Lopez,IN,PROD-036,Electronics,2,248.31,Debit Card,Returned,Desktop Web
+WEB-10833,2026-03-04,CUST-253,James Wiggins,UK,PROD-007,Clothing,2,64.57,PayPal,Cancelled,Desktop Web
+WEB-10834,2026-01-01,CUST-272,Monica Bradley,IN,PROD-009,Books,1,32.92,Credit Card,Cancelled,Mobile App
+WEB-10835,2026-08-15,CUST-214,Collin Blanchard,AU,PROD-012,Clothing,3,50.95,Debit Card,Cancelled,Mobile App
+WEB-10836,2025-10-18,CUST-339,David Peterson,CA,PROD-030,Sports,2,294.22,Credit Card,Returned,Desktop Web
+WEB-10837,2026-02-28,CUST-362,Sierra Little,IN,PROD-086,Electronics,1,549.12,Debit Card,Returned,Mobile App
+WEB-10838,2026-01-02,CUST-325,Ronald Barber,AU,PROD-081,Electronics,4,433.26,Credit Card,Completed,Mobile App
+WEB-10839,2026-06-16,CUST-256,Anthony Brown,CA,PROD-090,Sports,2,142.02,Credit Card,Completed,Mobile Web
+WEB-10840,2026-07-29,CUST-195,Steve Cruz,FR,PROD-069,Books,1,9.08,Credit Card,Returned,Mobile App
+WEB-10001,2025-12-28,CUST-213,Angela Lewis,FR,PROD-014,Books,1,43.63,Debit Card,Completed,Desktop Web
+WEB-10842,2026-03-21,CUST-118,Michaela Allen,FR,PROD-029,Books,5,27.02,UPI,Completed,Mobile Web
+WEB-10843,2025-09-22,CUST-235,Samantha Koch,FR,PROD-043,Home,5,126.39,Debit Card,Cancelled,Mobile Web
+WEB-10844,2026-02-16,CUST-320,Ethan Gonzalez,UK,PROD-014,Books,1,15.74,Debit Card,Completed,Mobile Web
+WEB-10845,2025-11-16,CUST-113,Stephanie Dunn,US,PROD-070,Sports,2,137.42,UPI,Cancelled,Mobile App
+WEB-10846,2026-06-08,CUST-339,Aaron Knapp,US,PROD-031,Electronics,4,527.39,PayPal,Returned,Mobile Web
+WEB-10847,2025-11-03,CUST-254,Hunter Dillon,AU,PROD-062,Clothing,3,26.0,UPI,Completed,Mobile Web
+WEB-10848,2026-07-13,CUST-177,Samantha Gallagher,IN,PROD-086,Electronics,2,170.27,Credit Card,Cancelled,Mobile App
+WEB-10849,2026-04-28,CUST-137,Melissa Marquez,IN,PROD-029,Books,2,16.57,PayPal,Cancelled,Desktop Web
+WEB-10850,2026-08-19,CUST-376,Julie Larson,IN,PROD-026,Electronics,3,256.42,UPI,Cancelled,Mobile Web
+WEB-10851,2025-12-30,CUST-105,Ashley Warren,FR,PROD-073,Home,4,129.49,Debit Card,Returned,Desktop Web
+WEB-10852,2026-06-22,CUST-314,Sabrina Phillips,US,PROD-085,Sports,4,89.29,Credit Card,Completed,Mobile App
+WEB-10853,2026-06-12,CUST-363,Lisa Green,CA,PROD-071,Electronics,-5,588.29,Debit Card,Cancelled,Desktop Web
+WEB-10854,2025-10-19,CUST-262,Kim Castro,IN,PROD-038,Home,2,168.66,Debit Card,Cancelled,Mobile App
+WEB-10855,2026-10-30,CUST-376,Sarah Patterson,FR,PROD-006,Electronics,4,145.63,UPI,Cancelled,Mobile Web
+WEB-10856,2025-10-19,CUST-185,Wendy Miller,DE,PROD-007,Clothing,2,78.92,PayPal,Cancelled,Mobile App
+WEB-10857,2026-02-12,CUST-210,Sharon Cortez,UK,PROD-037,Clothing,1,60.05,UPI,Returned,Desktop Web
+WEB-10858,2026-03-29,CUST-262,Frances Foley,IN,PROD-057,Clothing,-5,62.61,PayPal,Returned,Mobile App
+WEB-10859,2026-08-14,CUST-352,Christopher Wiggins Jr.,CA,PROD-003,Home,1,130.24,PayPal,Cancelled,Mobile Web
+WEB-10860,2026-08-16,CUST-245,Haley Allen,US,PROD-094,Books,2,31.25,Debit Card,Completed,Mobile Web
+WEB-10861,2026-01-21,CUST-162,Matthew Dennis,AU,PROD-025,Sports,1,66.96,PayPal,Returned,Mobile Web
+WEB-10862,2025-09-28,CUST-191,Nicholas Flores,IN,PROD-007,Clothing,4,102.06,Debit Card,Returned,Desktop Web
+WEB-10863,2026-07-07,CUST-315,Robert Gates,AU,PROD-042,Clothing,3,95.4,UPI,Cancelled,Mobile App
+WEB-10864,2026-08-07,CUST-393,Morgan Shepherd,UK,PROD-067,Clothing,3,59.95,PayPal,Cancelled,Mobile Web
+WEB-10865,2025-10-26,CUST-389,Matthew Zimmerman,UK,PROD-052,Clothing,4,115.31,Credit Card,Cancelled,Desktop Web
+WEB-10866,2026-06-08,CUST-326,Susan Robbins,UK,PROD-036,Electronics,1,-54.15,Debit Card,Returned,Mobile App
+WEB-10867,2026-03-03,CUST-143,Robert Monroe,AU,PROD-031,Electronics,5,460.7,Credit Card,Completed,Mobile Web
+WEB-10868,2025-09-20,CUST-270,Melissa Chavez,US,PROD-008,Home,1,195.68,Debit Card,Completed,Desktop Web
+WEB-10869,2026-04-02,CUST-163,Jordan Moss,CA,PROD-032,Clothing,4,27.51,Credit Card,Cancelled,Desktop Web
+WEB-10870,2026-05-05,CUST-370,Beth Page,UNKNOWN,PROD-058,Home,1,77.39,Credit Card,Returned,Desktop Web
+WEB-10871,2026-02-27,CUST-326,Rose Rojas,IN,PROD-100,Sports,1,115.02,Credit Card,Returned,Mobile App
+WEB-10872,2026-06-26,CUST-159,Elizabeth Ferguson,AU,PROD-052,Clothing,4,73.61,PayPal,Completed,Desktop Web
+WEB-10873,2026-06-08,CUST-141,Catherine Griffith,FR,PROD-037,Clothing,4,21.16,UPI,Returned,Mobile Web
+WEB-10874,2026-01-07,CUST-232,Julie Turner,US,PROD-009,Books,3,14.19,PayPal,Cancelled,Mobile App
+WEB-10875,2026-06-18,CUST-217,Lindsey Lamb,UK,PROD-060,Sports,3,66.65,Credit Card,Completed,Mobile Web
+WEB-10876,2026-01-03,CUST-342,Bryan Butler,CA,PROD-008,Home,2,192.89,UPI,Completed,Mobile App
+WEB-10877,2025-09-27,CUST-198,Robyn Lambert,AU,PROD-016,Electronics,5,384.93,Credit Card,Returned,Desktop Web
+WEB-10878,2026-05-09,CUST-359,Chase Bradford,CA,PROD-095,Sports,2,139.87,Credit Card,Returned,Desktop Web
+WEB-10879,2026-02-13,CUST-186,Christopher Moore,AU,PROD-065,Sports,5,173.41,Debit Card,Completed,Mobile Web
+WEB-10880,2026-04-22,CUST-282,Ashley Leon,DE,PROD-080,Sports,4,50.06,Debit Card,Returned,Desktop Web
+WEB-10881,2026-03-24,CUST-224,Molly Steele,FR,PROD-082,Clothing,2,117.41,Credit Card,Cancelled,Mobile App
+WEB-10882,2026-09-14,CUST-103,Sandra Patton,US,PROD-036,Electronics,-2,205.4,PayPal,Returned,Desktop Web
+WEB-10883,2025-10-14,CUST-131,Samantha Shaffer,CA,PROD-024,Books,4,39.38,UPI,Returned,Mobile App
+WEB-10884,2026-01-18,CUST-215,Jason Lee,UK,PROD-065,Sports,2,222.34,Credit Card,Returned,Desktop Web
+WEB-10885,2026-02-24,CUST-203,Alicia Thompson,AU,PROD-014,Books,1,18.02,PayPal,Cancelled,Mobile Web
+WEB-10886,2026-03-02,CUST-184,Jade Marquez,FR,PROD-086,Electronics,2,225.18,UPI,Completed,Mobile Web
+WEB-10887,2026-07-05,CUST-150,Taylor Scott,IN,PROD-089,Books,2,21.45,Debit Card,Returned,Mobile App
+WEB-10888,2026-01-13,CUST-263,Tim Schmidt,UK,PROD-075,Sports,1,169.18,Debit Card,Completed,Mobile App
+WEB-10889,2026-06-09,CUST-389,Danielle Phillips,IN,PROD-057,Clothing,3,115.6,PayPal,Cancelled,Desktop Web
+WEB-10890,2026-08-14,CUST-359,Grace Hunt,CA,PROD-036,Electronics,2,365.8,Credit Card,Cancelled,Mobile Web
+WEB-10891,2025-12-26,CUST-283,Mark Gonzalez,UK,PROD-033,Home,2,107.65,UPI,Cancelled,Mobile Web
+WEB-10892,2025-12-19,CUST-149,Kelly Wang,FR,PROD-029,Books,4,35.28,PayPal,Returned,Mobile App
+WEB-10893,2026-04-19,CUST-324,Denise Alvarez,CA,PROD-075,Sports,4,109.36,PayPal,Cancelled,Desktop Web
+WEB-10894,2026-03-18,CUST-152,Erik Marquez,FR,PROD-044,Books,3,41.72,Debit Card,Returned,Mobile App
+WEB-10895,2025-12-04,CUST-322,Andrea Willis,CA,PROD-061,Electronics,5,154.52,UPI,Cancelled,Mobile App
+WEB-10896,2026-06-29,CUST-360,Steven Thomas,AU,PROD-053,Home,3,74.48,Credit Card,Returned,Mobile Web
+WEB-10897,2026-07-06,CUST-266,William Scott,CA,PROD-039,Books,2,28.94,Credit Card,Cancelled,Mobile App
+WEB-10898,2025-11-22,CUST-226,Jennifer Brown,DE,PROD-069,Books,1,44.48,Credit Card,Completed,Mobile App
+WEB-10899,2026-04-07,CUST-151,Shane Sutton,IN,PROD-055,Sports,4,176.51,PayPal,Cancelled,Desktop Web
+WEB-10900,2025-12-09,CUST-274,David Rice,US,PROD-021,Electronics,3,179.99,UPI,Cancelled,Desktop Web
+WEB-10901,2026-07-27,CUST-305,Pamela Lee,AU,PROD-091,Electronics,1,760.68,UPI,Returned,Desktop Web
+WEB-10902,2026-06-09,CUST-145,Samantha Rodriguez,FR,PROD-059,Books,5,16.05,UPI,Cancelled,Desktop Web
+WEB-10903,2026-10-27,CUST-185,Michael Haney,CA,PROD-057,Clothing,3,32.61,Credit Card,Cancelled,Mobile Web
+WEB-10904,2025-11-12,CUST-347,Amy Shields,US,PROD-063,Home,2,124.61,Credit Card,Completed,Mobile Web
+WEB-10905,2026-08-16,CUST-305,Stephanie York,DE,PROD-067,Clothing,2,84.63,Debit Card,Completed,Mobile Web
+WEB-10906,2025-11-28,CUST-343,Brandon Martinez,CA,PROD-057,Clothing,2,38.29,Credit Card,Cancelled,Desktop Web
+WEB-10907,2026-07-11,CUST-275,Timothy Edwards,IN,PROD-053,Home,-4,91.04,Credit Card,Completed,Mobile App
+WEB-10908,2025-11-27,CUST-211,Jacob Johnson,IN,PROD-097,Clothing,2,103.84,UPI,Completed,Mobile App
+WEB-10909,2026-09-07,CUST-185,Courtney Wagner,IN,PROD-042,Clothing,5,63.95,PayPal,Cancelled,Mobile App
+WEB-10910,2026-01-06,CUST-199,Christopher Wiley,DE,PROD-022,Clothing,2,25.77,PayPal,Returned,Mobile App
+WEB-10911,2026-07-16,CUST-266,Crystal Smith,CA,PROD-057,Clothing,4,31.82,Credit Card,Cancelled,Mobile App
+WEB-10912,2025-09-23,CUST-229,Matthew Jackson,UK,PROD-045,Sports,5,171.56,PayPal,Cancelled,Mobile Web
+WEB-10913,2025-12-16,CUST-358,Ashley Glenn,UK,PROD-083,Home,5,119.24,UPI,Completed,Mobile App
+WEB-10914,2026-04-17,CUST-385,Jeanette Smith,AU,PROD-041,Electronics,1,289.58,PayPal,Returned,Mobile App
+WEB-10915,2026-02-07,CUST-128,Angie Lee,UK,PROD-051,Electronics,2,467.54,UPI,Cancelled,Mobile Web
+WEB-10916,2025-10-18,CUST-200,Linda Gordon,CA,PROD-089,Books,5,33.93,Debit Card,Completed,Mobile App
+WEB-10917,2026-08-26,CUST-229,Jordan Boyle,US,PROD-051,Electronics,4,441.25,UPI,Cancelled,Desktop Web
+WEB-10918,2025-12-31,CUST-146,Danielle Frey,DE,PROD-059,Books,1,28.67,Debit Card,Completed,Mobile App
+WEB-10919,2026-04-24,CUST-145,Robin Sheppard,UK,PROD-030,Sports,3,209.88,UPI,Cancelled,Desktop Web
+WEB-10920,2026-08-26,CUST-398,John Harris,FR,PROD-043,Home,4,176.58,PayPal,Cancelled,Mobile Web
+WEB-10921,2026-06-02,CUST-278,Jennifer Hill,IN,PROD-005,Sports,3,102.1,UPI,Completed,Mobile App
+WEB-10922,2026-02-22,CUST-298,Benjamin Adams,DE,PROD-088,Home,4,183.16,PayPal,Cancelled,Mobile Web
+WEB-10923,2026-01-01,CUST-160,Mrs. Mary Powers,UK,PROD-023,Home,5,194.63,Credit Card,Completed,Mobile App
+WEB-10924,2026-05-10,CUST-329,Mary Murray,FR,PROD-097,Clothing,5,28.83,Debit Card,Completed,Mobile App
+WEB-10925,2026-09-08,CUST-153,Dorothy Fleming,IN,PROD-099,Books,2,8.43,UPI,Cancelled,Mobile App
+WEB-10926,2026-07-22,CUST-112,Ryan Adkins,FR,PROD-065,Sports,4,164.65,PayPal,Cancelled,Desktop Web
+WEB-10927,2025-09-28,CUST-358,Wanda Torres,IN,PROD-076,Electronics,3,446.62,Debit Card,Completed,Mobile App
+WEB-10928,2026-02-04,CUST-126,Phillip Cruz,CA,PROD-006,Electronics,1,288.08,UPI,Completed,Desktop Web
+WEB-10929,2025-11-02,CUST-261,Shelby Serrano,IN,PROD-014,Books,1,29.08,UPI,Completed,Mobile Web
+WEB-10930,2026-05-13,CUST-277,Martin Mcguire,CA,PROD-084,Books,5,14.97,PayPal,Completed,Mobile App
+WEB-10931,2026-08-10,CUST-207,Kimberly Santos,US,PROD-077,Clothing,4,54.96,Credit Card,Cancelled,Desktop Web
+WEB-10932,2025-09-21,CUST-262,Justin Summers,FR,PROD-017,Clothing,4,102.1,Debit Card,Completed,Mobile App
+WEB-10933,2025-11-08,CUST-277,William Harrison,AU,PROD-051,Electronics,3,297.24,Credit Card,Completed,Mobile Web
+WEB-10934,2026-07-04,CUST-101,Penny Boyd,IN,PROD-084,Books,3,9.08,PayPal,Returned,Desktop Web
+WEB-10935,2026-10-25,CUST-328,John Williams,AU,PROD-097,Clothing,2,119.47,Debit Card,Completed,Mobile App
+WEB-10936,2026-06-17,,Jessica Simpson,CA,PROD-050,Sports,1,192.15,UPI,Completed,Mobile Web
+WEB-10937,2025-09-21,CUST-249,Jimmy Jones,FR,PROD-045,Sports,4,215.02,PayPal,Completed,Mobile Web
+WEB-10938,2025-10-29,CUST-339,Mr. Robert Rodriguez,CA,PROD-055,Sports,-4,198.73,UPI,Completed,Desktop Web
+WEB-10939,2025-11-04,CUST-282,Dr. Brian Lopez,US,PROD-077,Clothing,3,39.13,PayPal,Completed,Mobile Web
+WEB-10940,2026-02-02,CUST-260,Nichole Mckinney,UK,PROD-054,Books,2,12.72,UPI,Returned,Desktop Web
+WEB-10941,2026-01-26,CUST-209,Kimberly Murphy,AU,PROD-088,Home,2,84.74,UPI,Cancelled,Desktop Web
+WEB-10942,2025-10-20,CUST-184,Mrs. Stephanie Rodriguez,US,PROD-012,Clothing,5,55.29,Credit Card,Cancelled,Mobile Web
+WEB-10943,2026-05-15,CUST-229,Sharon Cruz,CA,PROD-030,Sports,2,194.93,PayPal,Cancelled,Desktop Web
+WEB-10944,2026-02-11,CUST-132,Amy Romero,DE,PROD-086,Electronics,1,473.28,Debit Card,Completed,Mobile App
+WEB-10945,2026-03-16,CUST-338,James Jefferson,UK,PROD-088,Home,5,135.62,Credit Card,Cancelled,Desktop Web
+WEB-10946,2025-10-27,CUST-178,Jessica Day,AU,PROD-089,Books,1,37.18,UPI,Completed,Mobile Web
+WEB-10947,2026-08-03,,Katie Washington,IN,PROD-091,Electronics,4,569.22,Debit Card,Returned,Mobile Web
+WEB-10948,2025-12-09,CUST-253,Connie Charles,UK,PROD-029,Books,2,26.24,Credit Card,Completed,Desktop Web
+WEB-10949,2026-08-16,CUST-201,Mary Crawford,UK,PROD-022,Clothing,3,116.9,Debit Card,Returned,Mobile App
+WEB-10950,2026-04-03,CUST-350,Jeremy Miller,AU,PROD-014,Books,4,37.56,PayPal,Completed,Desktop Web
+WEB-10951,2026-04-17,CUST-381,Sharon Davidson,FR,PROD-084,Books,1,17.49,Credit Card,Returned,Desktop Web
+WEB-10952,2026-01-12,CUST-169,Mr. Brian Maxwell DDS,UK,PROD-010,Sports,5,210.1,Credit Card,Completed,Desktop Web
+WEB-10953,2026-02-17,CUST-134,Andrea Gutierrez,IN,PROD-067,Clothing,4,65.29,Debit Card,Cancelled,Mobile Web
+WEB-10954,2026-05-03,CUST-352,Heather Rodriguez,FR,PROD-052,Clothing,3,103.63,PayPal,Returned,Mobile App
+WEB-10955,2026-07-08,CUST-272,Todd Mccarthy,AU,PROD-070,Sports,1,267.92,Credit Card,Returned,Mobile Web
+WEB-10956,2025-11-06,CUST-366,Larry Watson,IN,PROD-077,Clothing,4,53.28,PayPal,Completed,Mobile Web
+WEB-10957,2026-06-02,CUST-323,Jenna Jones,CA,PROD-070,Sports,1,112.49,Debit Card,Cancelled,Mobile Web
+WEB-10958,2026-09-04,CUST-152,Justin Stone,US,PROD-083,Home,2,148.82,UPI,Returned,Mobile Web
+WEB-10959,2026-09-06,CUST-346,Billy Anderson,AU,PROD-066,Electronics,4,182.74,Credit Card,Completed,Mobile Web
+WEB-10960,2025-12-29,CUST-252,Jennifer Smith,IN,PROD-083,Home,3,23.65,Debit Card,Returned,Desktop Web
+WEB-10961,2026-02-02,CUST-161,Nicole Riley,IN,PROD-002,Clothing,5,18.47,Credit Card,Cancelled,Mobile Web
+WEB-10962,2025-09-25,CUST-300,Melissa Hernandez,DE,PROD-041,Electronics,4,150.57,Credit Card,Cancelled,Desktop Web
+WEB-10963,2026-01-16,CUST-274,Caleb Gonzalez,FR,PROD-004,Books,1,21.66,Debit Card,Cancelled,Mobile App
+WEB-10964,2025-11-30,CUST-241,Bryan Harvey,UK,PROD-076,Electronics,2,-66.69,Debit Card,Returned,Mobile Web
+WEB-10965,2026-01-02,CUST-160,Kelly Sanchez,DE,PROD-026,Electronics,5,368.78,UPI,Returned,Mobile App
+WEB-10966,2025-10-25,CUST-289,Martin Watson,US,PROD-079,Books,4,22.2,PayPal,Returned,Desktop Web
+WEB-10967,2026-07-17,CUST-270,Brian Larsen,AU,PROD-062,Clothing,3,118.62,Debit Card,Returned,Mobile App
+WEB-10968,2026-04-27,CUST-376,Jeffrey Davis,IN,PROD-004,Books,3,24.24,Debit Card,Cancelled,Mobile App
+WEB-10969,2025-09-24,CUST-225,Andrew Schmidt,UNKNOWN,PROD-019,Books,2,-96.59,UPI,Returned,Mobile App
+WEB-10970,2025-11-27,CUST-128,David Smith,IN,PROD-052,Clothing,4,75.03,UPI,Returned,Desktop Web
+WEB-10971,2025-09-25,CUST-157,Terry Soto,AU,PROD-091,Electronics,2,258.0,Debit Card,Completed,Mobile Web
+WEB-10972,2026-08-28,CUST-400,Angela Massey,DE,PROD-090,Sports,5,241.06,PayPal,Cancelled,Desktop Web
+WEB-10973,2026-05-09,CUST-366,William Vega,IN,PROD-036,Electronics,5,643.16,PayPal,Returned,Desktop Web
+WEB-10974,2026-01-24,CUST-180,Mary Coffey DDS,UK,PROD-080,Sports,2,41.82,Debit Card,Cancelled,Desktop Web
+WEB-10975,2026-01-18,CUST-229,Michael Chambers,AU,PROD-005,Sports,2,147.42,PayPal,Returned,Mobile App
+WEB-10976,2025-12-26,CUST-322,Yvonne Palmer,UK,PROD-091,Electronics,2,597.92,UPI,Returned,Mobile App
+WEB-10977,2026-07-05,CUST-242,James Brooks,FR,PROD-042,Clothing,3,106.81,Credit Card,Completed,Mobile App
+WEB-10978,2025-12-17,CUST-385,William Hunt,AU,PROD-012,Clothing,2,72.49,UPI,Returned,Desktop Web
+WEB-10979,2025-12-27,CUST-233,Monica Wright,UK,PROD-037,Clothing,3,37.01,Debit Card,Cancelled,Mobile App
+WEB-10980,2026-06-27,CUST-107,Kirk Bennett,UK,PROD-017,Clothing,4,45.06,Credit Card,Returned,Desktop Web
+WEB-10981,2025-11-27,CUST-214,Brian Hayes,AU,PROD-024,Books,4,8.39,Debit Card,Cancelled,Desktop Web
+WEB-10982,2026-02-13,CUST-365,Christopher Rodriguez,CA,PROD-070,Sports,5,129.34,UPI,Completed,Mobile App
+WEB-10983,2026-10-17,CUST-155,Richard Robles,DE,PROD-056,Electronics,2,746.89,UPI,Cancelled,Desktop Web
+WEB-10984,2026-04-01,CUST-212,Jacob Hicks,UK,PROD-019,Books,3,36.82,UPI,Completed,Mobile App
+WEB-10985,2025-11-13,CUST-158,Madison Montoya,AU,PROD-081,Electronics,5,487.74,UPI,Returned,Desktop Web
+WEB-10986,2026-08-20,CUST-366,Jonathan Le,FR,PROD-080,Sports,5,48.5,Debit Card,Cancelled,Mobile Web
+WEB-10987,2026-07-15,CUST-200,Heather Gordon,FR,PROD-069,Books,3,9.45,UPI,Returned,Desktop Web
+WEB-10988,2026-02-07,CUST-180,Laura Shaw,UK,PROD-015,Sports,3,42.53,Debit Card,Returned,Mobile Web
+WEB-10989,2026-08-07,CUST-232,Nicole Castro,IN,PROD-098,Home,3,87.17,UPI,Returned,Mobile Web
+WEB-10990,2026-05-12,CUST-313,Jeffery Franco,US,PROD-050,Sports,3,253.96,UPI,Returned,Mobile Web
+WEB-10991,2026-05-22,CUST-240,John Wilson,IN,PROD-016,Electronics,5,443.1,PayPal,Returned,Mobile Web
+WEB-10992,2026-02-22,CUST-343,Sarah Vaughn,AU,PROD-026,Electronics,3,401.16,Credit Card,Completed,Mobile Web
+WEB-10993,2026-03-23,CUST-225,Michael Smith,UK,PROD-056,Electronics,4,763.14,Debit Card,Completed,Desktop Web
+WEB-10994,2025-10-15,CUST-209,Colleen Aguilar,UK,PROD-043,Home,4,170.68,UPI,Completed,Mobile Web
+WEB-10995,2026-04-11,CUST-400,Andrew Harrison,DE,PROD-029,Books,1,37.9,PayPal,Cancelled,Mobile Web
+WEB-10996,2026-02-13,CUST-151,Erin Williams,DE,PROD-039,Books,5,16.67,Debit Card,Completed,Desktop Web
+WEB-10997,2026-02-21,CUST-276,Lisa Rollins,IN,PROD-058,Home,4,38.25,Debit Card,Completed,Mobile Web
+WEB-10998,2025-10-11,CUST-278,Richard Humphrey,CA,PROD-009,Books,2,8.86,PayPal,Cancelled,Desktop Web
+WEB-10999,2026-01-14,CUST-272,Monica Kelly,FR,PROD-087,Clothing,2,97.46,Debit Card,Cancelled,Mobile Web
+WEB-11000,2025-09-19,CUST-235,Michelle Taylor,DE,PROD-046,Electronics,1,59.85,PayPal,Cancelled,Mobile App
+WEB-11001,2026-01-09,CUST-301,Roy Daugherty,UK,PROD-035,Sports,4,65.51,Debit Card,Completed,Mobile App
+WEB-11002,2026-03-10,CUST-261,Victor Long,FR,PROD-046,Electronics,3,454.06,PayPal,Completed,Desktop Web
+WEB-11003,2026-03-06,CUST-306,Gwendolyn Franklin,FR,PROD-085,Sports,1,153.4,PayPal,Completed,Mobile App
+WEB-11004,2026-05-18,CUST-216,Warren Wilkinson,DE,PROD-005,Sports,1,94.22,Credit Card,Cancelled,Desktop Web
+WEB-11005,2025-10-16,CUST-290,James Willis,IN,PROD-039,Books,4,33.0,Debit Card,Completed,Desktop Web
+WEB-11006,2025-10-29,CUST-139,Lisa Hall,DE,PROD-001,Electronics,1,67.71,Credit Card,Cancelled,Mobile Web
+WEB-11007,2026-04-11,CUST-181,John Schmidt,DE,PROD-020,Sports,1,186.68,PayPal,Completed,Mobile Web
+WEB-11008,2026-08-24,CUST-258,Stephanie Downs,CA,PROD-021,Electronics,3,724.77,PayPal,Completed,Mobile Web
+WEB-11009,2026-05-23,CUST-315,Anthony Patterson,IN,PROD-028,Home,1,41.67,UPI,Completed,Mobile App
+WEB-11010,2026-09-05,CUST-356,Shelly Gallagher,FR,PROD-069,Books,1,29.6,UPI,Returned,Mobile Web
+WEB-11011,2026-02-06,CUST-353,Corey Gutierrez,UK,PROD-053,Home,1,144.82,Credit Card,Cancelled,Desktop Web
+WEB-11012,2026-06-13,CUST-291,William Wood,IN,PROD-017,Clothing,1,61.69,Debit Card,Returned,Desktop Web
+WEB-11013,2026-09-04,CUST-393,William Rose,US,PROD-020,Sports,4,80.63,PayPal,Returned,Mobile App
+WEB-11014,2026-02-21,CUST-104,Jacqueline Jones,US,PROD-055,Sports,3,189.05,UPI,Completed,Mobile Web
+WEB-11015,2025-12-16,CUST-172,Dean Harris,DE,PROD-059,Books,5,43.22,UPI,Cancelled,Desktop Web
+WEB-11016,2025-11-22,CUST-314,John Perez,IN,PROD-012,Clothing,1,28.73,UPI,Completed,Mobile Web
+WEB-11017,2026-01-21,CUST-327,Julie Williams,CA,PROD-072,Clothing,3,55.09,Debit Card,Completed,Mobile App
+WEB-11018,2026-03-13,CUST-224,Sherry Cox,UK,PROD-007,Clothing,2,88.21,Credit Card,Cancelled,Desktop Web
+WEB-11019,2025-12-17,CUST-187,Ashley Castro,FR,PROD-023,Home,3,44.15,PayPal,Returned,Mobile Web
+WEB-11020,2026-07-23,CUST-201,Alexis Gross,DE,PROD-078,Home,4,145.55,Debit Card,Returned,Desktop Web
+WEB-11021,2025-09-20,CUST-261,Katherine Durham,IN,PROD-037,Clothing,5,49.62,Credit Card,Completed,Mobile App
+WEB-11022,2025-10-07,CUST-198,Nicholas Robbins,UK,PROD-068,Home,1,117.04,Credit Card,Completed,Desktop Web
+WEB-11023,2026-06-18,CUST-370,Michael Jarvis,CA,PROD-074,Books,1,18.28,Credit Card,Completed,Mobile App
+WEB-10001,2025-12-16,CUST-309,James Matthews,UK,PROD-058,Home,3,43.34,Debit Card,Completed,Desktop Web
+WEB-11025,2025-10-08,CUST-129,Teresa Francis,CA,PROD-001,Electronics,2,776.84,Debit Card,Cancelled,Desktop Web
+WEB-11026,2025-12-25,CUST-123,Ann Armstrong,FR,PROD-001,Electronics,4,671.81,Credit Card,Completed,Mobile Web
+WEB-11027,2026-03-30,CUST-156,Ray Ellis,DE,PROD-070,Sports,2,244.83,PayPal,Cancelled,Desktop Web
+WEB-11028,2026-01-06,CUST-166,Holly Bradley,UK,PROD-044,Books,2,31.23,Credit Card,Returned,Desktop Web
+WEB-11029,2026-06-18,CUST-287,Dr. Amanda Young,DE,PROD-028,Home,4,92.83,Credit Card,Returned,Mobile App
+WEB-11030,2026-08-05,CUST-220,Karen Hernandez,DE,PROD-066,Electronics,5,280.37,PayPal,Cancelled,Mobile App
+WEB-11031,2026-06-21,CUST-280,Eduardo Washington,FR,PROD-077,Clothing,1,21.76,Debit Card,Cancelled,Mobile Web
+WEB-11032,2026-02-22,CUST-377,Jamie Rivera,CA,PROD-095,Sports,2,254.53,Debit Card,Returned,Mobile App
+WEB-11033,2025-12-29,CUST-256,Jennifer Yang,IN,PROD-066,Electronics,5,168.4,UPI,Completed,Mobile Web
+WEB-11034,2026-08-09,CUST-118,Louis Moore,AU,PROD-053,Home,4,227.81,PayPal,Completed,Mobile App
+WEB-11035,2026-09-11,CUST-161,Maria Bailey,IN,PROD-063,Home,-2,245.95,PayPal,Returned,Desktop Web
+WEB-11036,2026-09-07,CUST-151,Micheal Wright,IN,PROD-030,Sports,1,255.38,UPI,Cancelled,Mobile Web
+WEB-11037,2026-04-19,CUST-194,Matthew Ortiz,AU,PROD-083,Home,2,245.31,PayPal,Completed,Desktop Web
+WEB-11038,2025-12-10,CUST-243,Olivia Walters,FR,PROD-042,Clothing,4,32.07,Credit Card,Completed,Mobile App
+WEB-11039,2025-11-10,CUST-219,Timothy Smith,AU,PROD-044,Books,3,8.18,Debit Card,Returned,Desktop Web
+WEB-11040,2026-02-13,CUST-118,Bryan Taylor DVM,FR,PROD-005,Sports,3,-93.5,UPI,Completed,Mobile App
+WEB-11041,2026-08-20,CUST-279,Andrew Davis,CA,PROD-006,Electronics,3,212.54,PayPal,Returned,Desktop Web
+WEB-11042,2026-09-08,CUST-340,Theresa Williamson,IN,PROD-023,Home,2,91.81,PayPal,Returned,Desktop Web
+WEB-11043,2025-10-20,CUST-372,Robert Mcmahon,IN,PROD-018,Home,5,29.57,UPI,Cancelled,Mobile Web
+WEB-11044,2025-09-20,CUST-107,Gina Lopez,DE,PROD-032,Clothing,4,44.33,Debit Card,Returned,Desktop Web
+WEB-11045,2025-11-01,CUST-264,Heather Massey,UK,PROD-073,Home,1,-86.77,Debit Card,Cancelled,Mobile App
+WEB-11046,2025-10-07,CUST-104,Jeffery Hansen,US,PROD-042,Clothing,3,65.44,PayPal,Cancelled,Desktop Web
+WEB-11047,2026-07-30,CUST-249,Kevin Garcia,FR,PROD-044,Books,4,41.61,UPI,Completed,Mobile App
+WEB-11048,2025-12-03,CUST-342,Richard Turner,UK,PROD-026,Electronics,4,292.73,Credit Card,Completed,Mobile Web
+WEB-11049,2026-05-29,CUST-399,Robert Willis,IN,PROD-077,Clothing,4,53.78,PayPal,Cancelled,Mobile Web
+WEB-11050,2026-04-14,CUST-203,Allen Harris,DE,PROD-069,Books,3,33.65,UPI,Returned,Desktop Web
+WEB-11051,2026-04-16,CUST-384,Jackson Willis,IN,PROD-078,Home,4,102.09,Credit Card,Completed,Desktop Web
+WEB-11052,2025-09-15,CUST-335,Jean Aguirre,FR,PROD-057,Clothing,3,91.72,Debit Card,Completed,Desktop Web
+WEB-11053,2026-08-25,CUST-215,Connor Coleman,AU,PROD-042,Clothing,2,21.37,UPI,Returned,Mobile App
+WEB-11054,2026-01-06,CUST-360,Connie Anderson,CA,PROD-071,Electronics,1,267.75,Credit Card,Completed,Mobile Web
+WEB-11055,2026-02-14,CUST-248,Jill Zimmerman,UK,PROD-058,Home,5,186.9,PayPal,Returned,Mobile App
+WEB-11056,2026-04-15,CUST-295,Kelsey Watson,FR,PROD-069,Books,1,38.14,PayPal,Completed,Desktop Web
+WEB-11057,2026-04-03,CUST-100,Amanda Wheeler,DE,PROD-078,Home,2,147.08,PayPal,Returned,Desktop Web
+WEB-11058,2026-05-16,CUST-327,Cheryl Murphy,DE,PROD-024,Books,1,38.02,Credit Card,Completed,Desktop Web
+WEB-11059,2026-05-26,CUST-331,Jessica Durham,UK,PROD-082,Clothing,1,98.38,Credit Card,Cancelled,Mobile App
+WEB-11060,2025-09-15,CUST-269,Megan Mathews,CA,PROD-087,Clothing,2,104.92,UPI,Returned,Desktop Web
+WEB-11061,2026-04-27,CUST-232,Miss Katelyn Marshall,DE,PROD-028,Home,1,64.23,UPI,Completed,Mobile App
+WEB-11062,2025-12-12,CUST-308,Janice Leblanc,IN,PROD-048,Home,4,164.14,Credit Card,Returned,Mobile App
+WEB-11063,2026-05-30,CUST-117,Nathan Johnson,AU,PROD-085,Sports,4,118.16,UPI,Completed,Desktop Web
+WEB-11064,2026-01-08,CUST-276,Adam Foster,UK,PROD-058,Home,2,119.3,UPI,Completed,Mobile App
+WEB-11065,2026-01-25,,Julie Anderson,AU,PROD-056,Electronics,4,598.03,Debit Card,Returned,Mobile App
+WEB-11066,2025-09-18,CUST-162,Michael Brown,US,PROD-041,Electronics,4,745.98,Debit Card,Returned,Desktop Web
+WEB-11067,2026-06-22,CUST-192,Beth Roberts,DE,PROD-021,Electronics,5,780.1,UPI,Completed,Mobile App
+WEB-11068,2026-02-22,CUST-336,Scott Brown,UK,PROD-039,Books,5,21.64,Credit Card,Cancelled,Mobile Web
+WEB-11069,2026-05-16,CUST-208,Patricia Hurley,UK,PROD-021,Electronics,2,755.32,Credit Card,Cancelled,Desktop Web
+WEB-11070,2026-01-21,CUST-218,Timothy Lee,DE,PROD-059,Books,2,36.35,Credit Card,Cancelled,Desktop Web
+WEB-11071,2025-11-21,CUST-159,Paula Andersen,AU,PROD-086,Electronics,4,372.42,Credit Card,Cancelled,Mobile App
+WEB-11072,2026-06-06,CUST-264,Michelle Rivers,FR,PROD-006,Electronics,2,786.34,UPI,Returned,Desktop Web
+WEB-11073,2026-01-20,CUST-131,Terri Kirby,US,PROD-032,Clothing,2,21.82,Debit Card,Completed,Desktop Web
+WEB-11074,2026-05-05,CUST-208,William Williams Jr.,CA,PROD-005,Sports,2,216.79,PayPal,Returned,Mobile Web
+WEB-11075,2026-11-07,CUST-272,Andrew Crawford,IN,PROD-079,Books,2,18.45,UPI,Returned,Mobile App
+WEB-11076,2025-11-14,CUST-276,Adriana Smith,IN,PROD-053,Home,4,33.3,Credit Card,Completed,Mobile Web
+WEB-11077,2026-03-27,CUST-143,Jesse Jordan,FR,PROD-062,Clothing,4,89.06,UPI,Returned,Desktop Web
+WEB-11078,2026-02-22,CUST-183,Brenda Torres,IN,PROD-008,Home,2,87.01,PayPal,Returned,Mobile Web
+WEB-11079,2026-03-14,CUST-254,Jessica Johnson,FR,PROD-029,Books,4,41.49,Debit Card,Completed,Mobile Web
+WEB-11080,2025-12-16,CUST-388,Richard Harvey,US,PROD-031,Electronics,1,97.1,UPI,Returned,Mobile App
+WEB-11081,2026-09-06,CUST-127,Steve Williams,FR,PROD-012,Clothing,1,79.76,Debit Card,Returned,Mobile App
+WEB-11082,2026-08-25,CUST-386,Gregg Gordon,IN,PROD-039,Books,3,19.02,UPI,Returned,Desktop Web
+WEB-11083,2026-01-19,CUST-153,Anthony Perez,AU,PROD-036,Electronics,1,63.72,UPI,Cancelled,Mobile Web
+WEB-11084,2026-06-03,CUST-234,Kristen Mitchell,IN,PROD-066,Electronics,4,737.12,Credit Card,Returned,Mobile App
+WEB-11085,2026-08-27,CUST-191,George Garcia,FR,PROD-098,Home,3,167.56,Credit Card,Completed,Mobile App
+WEB-11086,2026-08-05,CUST-191,Elizabeth Stone,DE,PROD-033,Home,1,141.54,PayPal,Cancelled,Desktop Web
+WEB-11087,2026-03-11,CUST-331,Kimberly Thomas,UK,PROD-022,Clothing,1,26.86,UPI,Cancelled,Mobile App
+WEB-11088,2026-05-25,CUST-238,Leah Warner,AU,PROD-004,Books,2,41.42,Debit Card,Returned,Mobile App
+WEB-11089,2026-02-04,CUST-186,Julie Torres,FR,PROD-045,Sports,4,150.84,PayPal,Returned,Mobile Web
+WEB-11090,2025-12-14,CUST-226,Tiffany Holden,CA,PROD-032,Clothing,3,83.09,Credit Card,Returned,Mobile App
+WEB-11091,2026-01-09,CUST-196,Timothy Trujillo,IN,PROD-054,Books,4,15.33,Credit Card,Returned,Desktop Web
+WEB-11092,2025-09-26,CUST-289,Phillip Green,AU,PROD-096,Electronics,3,666.64,UPI,Returned,Desktop Web
+WEB-11093,2026-08-07,CUST-391,Morgan Larson,FR,PROD-034,Books,4,13.43,UPI,Completed,Mobile App
+WEB-11094,2025-09-28,CUST-387,Robert Payne,DE,PROD-043,Home,3,68.87,Debit Card,Cancelled,Mobile App
+WEB-11095,2025-09-16,CUST-240,Alexandra Stark,CA,PROD-093,Home,1,180.65,PayPal,Completed,Mobile Web
+WEB-11096,2026-01-31,CUST-271,Brittany Sanders,AU,PROD-050,Sports,5,40.25,Debit Card,Returned,Mobile Web
+WEB-11097,2026-02-19,CUST-150,Martha Hernandez,AU,PROD-009,Books,5,25.15,PayPal,Completed,Desktop Web
+WEB-11098,2026-03-22,CUST-115,Joseph Webb,CA,PROD-017,Clothing,3,-92.52,Debit Card,Completed,Mobile Web
+WEB-11099,2025-10-23,CUST-132,Reginald Williams,CA,PROD-082,Clothing,2,75.05,PayPal,Cancelled,Mobile Web
+WEB-11100,2026-08-19,CUST-253,Stephen Keller,UK,PROD-034,Books,1,15.33,Credit Card,Cancelled,Mobile App
+WEB-11101,2026-04-25,CUST-251,James Evans,DE,PROD-095,Sports,2,106.1,PayPal,Completed,Mobile App
+WEB-11102,2026-05-25,CUST-311,Sarah Shields MD,AU,PROD-057,Clothing,4,46.21,PayPal,Returned,Desktop Web
+WEB-11103,2026-04-10,CUST-202,Kenneth Hall,AU,PROD-013,Home,4,25.8,UPI,Returned,Mobile Web
+WEB-11104,2026-03-03,CUST-238,Anthony Myers,UNKNOWN,PROD-061,Electronics,5,193.15,PayPal,Cancelled,Desktop Web
+WEB-11105,2025-09-24,CUST-117,Robert Newman,AU,PROD-078,Home,2,136.96,PayPal,Returned,Mobile Web
+WEB-11106,2026-04-27,CUST-162,Kelly Smith,IN,PROD-011,Electronics,3,134.04,UPI,Returned,Mobile Web
+WEB-11107,2025-11-08,CUST-314,Timothy Martin,DE,PROD-078,Home,2,229.25,UPI,Returned,Mobile App
+WEB-11108,2026-03-21,,Michael Reid,IN,PROD-005,Sports,1,126.4,Credit Card,Completed,Mobile Web
+WEB-11109,2026-05-11,CUST-262,Erik Thomas,AU,PROD-022,Clothing,2,90.92,PayPal,Cancelled,Mobile App
+WEB-11110,2026-07-31,CUST-268,Claudia Jones DDS,IN,PROD-042,Clothing,3,95.76,Credit Card,Completed,Mobile Web
+WEB-11111,2026-06-01,CUST-251,Joseph Kennedy,FR,PROD-031,Electronics,4,56.65,Debit Card,Completed,Mobile App
+WEB-11112,2026-08-13,CUST-278,Andrea Wood,AU,PROD-081,Electronics,5,178.12,Credit Card,Returned,Mobile Web
+WEB-11113,2026-06-17,CUST-246,Kenneth Wilson,UK,PROD-065,Sports,4,159.17,Debit Card,Returned,Mobile Web
+WEB-11114,2026-04-11,CUST-253,Monique Stephens,IN,PROD-024,Books,2,41.24,UPI,Cancelled,Mobile App
+WEB-11115,2026-07-07,CUST-160,Dakota Smith,IN,PROD-050,Sports,3,124.48,Debit Card,Cancelled,Desktop Web
+WEB-11116,2026-06-18,CUST-124,Shannon Johnson,US,PROD-082,Clothing,4,78.95,Credit Card,Returned,Mobile Web
+WEB-11117,2026-02-17,CUST-241,Courtney Cross,UK,PROD-046,Electronics,4,662.78,UPI,Cancelled,Mobile App
+WEB-11118,2025-09-22,CUST-247,Sheri Thompson,US,PROD-090,Sports,2,259.59,Debit Card,Completed,Mobile App
+WEB-11119,2026-03-22,CUST-288,Lance Morrow,UK,PROD-032,Clothing,5,43.58,Debit Card,Cancelled,Desktop Web
+WEB-11120,2025-10-20,CUST-104,Stephanie May MD,UK,PROD-083,Home,3,173.65,PayPal,Completed,Mobile Web
+WEB-11121,2026-07-10,CUST-359,Patrick Gilbert,DE,PROD-054,Books,5,15.61,PayPal,Cancelled,Mobile App
+WEB-11122,2026-03-18,CUST-372,Katherine Walker,FR,PROD-024,Books,4,44.21,Credit Card,Completed,Mobile App
+WEB-11123,2025-11-18,CUST-383,Timothy Petty,US,PROD-078,Home,-5,238.0,PayPal,Completed,Mobile App
+WEB-11124,2026-01-19,CUST-358,Dean Cross,US,PROD-011,Electronics,2,789.33,UPI,Completed,Desktop Web
+WEB-11125,2025-11-29,CUST-286,Matthew Friedman,US,PROD-048,Home,5,206.99,Credit Card,Cancelled,Mobile Web
+WEB-10001,2026-08-11,CUST-119,Sarah Schmidt,UK,PROD-049,Books,3,18.21,UPI,Cancelled,Mobile Web
+WEB-11127,2026-07-27,,Amanda Williams,UK,PROD-072,Clothing,4,109.16,PayPal,Cancelled,Mobile App
+WEB-11128,2026-04-28,CUST-236,Gary Green,IN,PROD-034,Books,1,19.15,UPI,Completed,Mobile App
+WEB-11129,2025-12-07,CUST-244,Joshua Scott,US,PROD-084,Books,5,18.21,UPI,Completed,Desktop Web
+WEB-11130,2026-01-03,CUST-186,Gary Faulkner,DE,PROD-034,Books,1,8.39,Credit Card,Returned,Desktop Web
+WEB-10001,2025-09-26,CUST-120,Miguel Davis,IN,PROD-087,Clothing,2,72.65,Debit Card,Cancelled,Desktop Web
+WEB-11132,2025-12-27,CUST-135,Jenna Horton,FR,PROD-093,Home,5,47.15,PayPal,Cancelled,Mobile App
+WEB-11133,2026-03-16,CUST-370,Lisa Caldwell,FR,PROD-086,Electronics,1,778.52,UPI,Cancelled,Mobile App
+WEB-11134,2026-06-08,CUST-119,Jonathan Cross,US,PROD-027,Clothing,3,39.9,Debit Card,Cancelled,Desktop Web
+WEB-11135,2026-09-05,CUST-102,Jason Johnson,UK,PROD-089,Books,3,24.55,Credit Card,Completed,Desktop Web
+WEB-11136,2026-03-22,CUST-259,Lisa Johnson,CA,PROD-082,Clothing,3,60.03,PayPal,Completed,Mobile Web
+WEB-11137,2026-04-25,CUST-123,Erica Weber,CA,PROD-028,Home,2,129.44,Credit Card,Cancelled,Mobile App
+WEB-11138,2026-05-20,CUST-210,Kimberly Davis,DE,PROD-088,Home,2,140.8,UPI,Completed,Desktop Web
+WEB-11139,2026-06-04,CUST-385,Amanda Wright,IN,PROD-014,Books,1,43.01,UPI,Completed,Mobile Web
+WEB-11140,2025-11-05,CUST-315,Craig Brown,IN,PROD-084,Books,1,32.98,UPI,Completed,Mobile App
+WEB-11141,2026-02-03,CUST-238,Jonathan Gates,FR,PROD-027,Clothing,3,15.95,PayPal,Completed,Mobile App
+WEB-11142,2026-01-06,CUST-131,Barbara Charles,CA,PROD-048,Home,5,47.55,Debit Card,Cancelled,Mobile App
+WEB-11143,2025-12-21,,Adam Evans,AU,PROD-087,Clothing,2,49.87,Debit Card,Cancelled,Desktop Web
+WEB-11144,2026-08-08,CUST-176,Jessica Saunders,AU,PROD-039,Books,2,29.22,Debit Card,Returned,Mobile Web
+WEB-11145,2026-02-01,CUST-325,David Mills,UK,PROD-004,Books,4,42.3,UPI,Cancelled,Mobile App
+WEB-11146,2026-02-07,CUST-270,Kelly Robinson,CA,PROD-057,Clothing,1,48.1,Debit Card,Completed,Mobile App
+WEB-11147,2026-02-09,CUST-202,Christopher Tran,AU,PROD-083,Home,2,50.93,Debit Card,Completed,Mobile Web
+WEB-11148,2025-12-24,CUST-215,Christina Kelly,CA,PROD-032,Clothing,4,70.54,Debit Card,Completed,Desktop Web
+WEB-11149,2026-01-09,CUST-329,Jennifer Martin,DE,PROD-012,Clothing,2,18.52,Credit Card,Returned,Desktop Web
+WEB-11150,2025-09-30,CUST-239,Danielle Foster,DE,PROD-025,Sports,1,172.19,PayPal,Cancelled,Desktop Web
+WEB-11151,2025-11-08,CUST-301,Brett Snyder,FR,PROD-053,Home,5,23.06,Debit Card,Returned,Mobile Web
+WEB-11152,2026-02-22,CUST-178,Christina Clarke,FR,PROD-041,Electronics,5,503.42,Debit Card,Returned,Mobile App
+WEB-11153,2025-12-05,CUST-301,Kristen Smith,AU,PROD-007,Clothing,3,106.78,Debit Card,Completed,Desktop Web
+WEB-11154,2026-03-16,CUST-150,Deborah Underwood,US,PROD-060,Sports,3,106.24,Debit Card,Cancelled,Mobile App
+WEB-11155,2025-12-30,CUST-177,Katherine Pruitt,US,PROD-040,Sports,3,190.29,Credit Card,Cancelled,Desktop Web
+WEB-11156,2025-12-29,CUST-263,Michelle Wilson,UNKNOWN,PROD-046,Electronics,2,132.23,UPI,Completed,Mobile App
+WEB-11157,2025-11-12,CUST-250,Miguel Brown,DE,PROD-048,Home,4,138.46,Debit Card,Completed,Mobile App
+WEB-11158,2026-03-18,CUST-114,Nicholas Long,UK,PROD-053,Home,2,143.82,Credit Card,Returned,Desktop Web
+WEB-11159,2026-09-04,CUST-263,Ryan Williams,IN,PROD-025,Sports,2,218.54,PayPal,Cancelled,Desktop Web
+WEB-11160,2026-04-06,CUST-141,Adam Diaz,DE,PROD-047,Clothing,3,43.57,UPI,Completed,Mobile Web
+WEB-11161,2025-11-23,CUST-395,Julia Dorsey,US,PROD-068,Home,5,102.03,PayPal,Completed,Mobile App
+WEB-11162,2025-11-24,CUST-369,Glenn Cox,DE,PROD-054,Books,4,28.53,Credit Card,Completed,Mobile App
+WEB-11163,2025-09-25,CUST-206,Sara Singh,CA,PROD-075,Sports,1,184.39,Credit Card,Cancelled,Mobile Web
+WEB-11164,2026-07-29,CUST-370,Keith Peck,UNKNOWN,PROD-058,Home,2,28.33,PayPal,Returned,Mobile Web
+WEB-11165,2026-07-19,CUST-105,Michael Edwards,US,PROD-040,Sports,2,181.49,PayPal,Completed,Mobile App
+WEB-11166,2026-04-26,CUST-232,Peter Williams,AU,PROD-012,Clothing,1,99.71,PayPal,Returned,Desktop Web
+WEB-11167,2026-03-11,CUST-368,Theresa Neal,FR,PROD-026,Electronics,2,449.37,Debit Card,Cancelled,Mobile Web
+WEB-11168,2025-10-24,CUST-283,Christopher Gillespie,DE,PROD-035,Sports,4,229.02,PayPal,Cancelled,Mobile App
+WEB-11169,2026-03-02,CUST-144,James Cole,DE,PROD-074,Books,1,12.66,PayPal,Cancelled,Desktop Web
+WEB-11170,2026-01-27,CUST-159,John Russell,DE,PROD-050,Sports,5,67.51,UPI,Cancelled,Mobile Web
+WEB-11171,2026-09-13,CUST-259,Christopher Miller,FR,PROD-058,Home,5,166.04,UPI,Completed,Desktop Web
+WEB-11172,2026-02-10,CUST-322,Joseph Miller,FR,PROD-018,Home,4,246.27,PayPal,Completed,Mobile Web
+WEB-11173,2026-05-12,CUST-285,Jennifer Campbell,IN,PROD-075,Sports,1,295.39,Credit Card,Returned,Mobile App
+WEB-11174,2026-07-17,CUST-324,John Palmer,FR,PROD-048,Home,-4,232.03,PayPal,Completed,Mobile Web
+WEB-11175,2026-09-14,CUST-228,Tracy Jones,AU,PROD-033,Home,4,162.52,PayPal,Completed,Mobile App
+WEB-11176,2026-07-16,CUST-226,Mary Kent,IN,PROD-071,Electronics,3,765.99,Debit Card,Completed,Desktop Web
+WEB-11177,2025-09-29,CUST-287,Louis Richards,AU,PROD-093,Home,1,126.7,PayPal,Completed,Mobile App
+WEB-11178,2025-11-20,CUST-158,Amanda Shaw,CA,PROD-077,Clothing,2,54.71,UPI,Returned,Desktop Web
+WEB-11179,2026-03-09,CUST-298,Kelli Berry,AU,PROD-005,Sports,1,282.88,Debit Card,Cancelled,Mobile App
+WEB-11180,2026-07-15,CUST-129,Patrick Nguyen,IN,PROD-016,Electronics,1,563.75,Debit Card,Cancelled,Desktop Web
+WEB-11181,2025-11-04,CUST-335,Mr. Christopher Stanley,CA,PROD-027,Clothing,4,77.37,PayPal,Cancelled,Desktop Web
+WEB-11182,2025-11-01,CUST-180,Craig Murray,UK,PROD-093,Home,4,31.75,UPI,Cancelled,Mobile App
+WEB-11183,2026-05-19,CUST-197,Mark Hansen,US,PROD-089,Books,3,38.56,UPI,Returned,Desktop Web
+WEB-11184,2025-12-07,CUST-209,Dean Knight,AU,PROD-009,Books,5,32.51,Credit Card,Completed,Mobile Web
+WEB-11185,2026-01-14,,Rebecca Wyatt,FR,PROD-028,Home,3,220.5,PayPal,Cancelled,Mobile Web
+WEB-11186,2026-02-12,CUST-387,Deanna Ortega,UK,PROD-035,Sports,1,122.83,UPI,Completed,Mobile App
+WEB-10001,2026-01-07,CUST-371,Sean Robbins,AU,PROD-003,Home,1,166.34,Debit Card,Returned,Desktop Web
+WEB-11188,2026-07-19,CUST-360,Destiny Sloan,US,PROD-026,Electronics,4,342.19,Credit Card,Cancelled,Mobile App
+WEB-11189,2026-05-02,CUST-117,Benjamin Scott,CA,PROD-019,Books,1,15.01,UPI,Cancelled,Desktop Web
+WEB-11190,2026-02-24,CUST-206,Holly Chandler,IN,PROD-099,Books,5,18.73,Debit Card,Returned,Mobile App
+WEB-10001,2025-09-14,CUST-119,Shannon Jenkins,IN,PROD-027,Clothing,3,40.81,PayPal,Completed,Desktop Web
+WEB-11192,2025-11-19,CUST-142,Julia Roberts,US,PROD-024,Books,2,15.91,Debit Card,Completed,Desktop Web
+WEB-11193,2025-11-03,CUST-134,Brittany Glover,UK,PROD-061,Electronics,5,146.49,Credit Card,Cancelled,Mobile App
+WEB-11194,2026-03-29,CUST-110,Judy Adams,UK,PROD-088,Home,4,212.97,Debit Card,Cancelled,Mobile Web
+WEB-11195,2025-10-17,CUST-242,Jonathan Martin,CA,PROD-004,Books,1,41.61,PayPal,Cancelled,Mobile App
+WEB-11196,2026-06-06,CUST-360,Chad Hunt,FR,PROD-073,Home,4,157.86,UPI,Returned,Mobile App
+WEB-11197,2026-09-01,CUST-106,Courtney Barton,FR,PROD-054,Books,2,16.53,Debit Card,Cancelled,Mobile Web
+WEB-11198,2025-11-27,CUST-264,Caitlin Garner,FR,PROD-049,Books,2,36.15,Credit Card,Completed,Mobile App
+WEB-11199,2026-02-12,CUST-295,Katie Cruz,AU,PROD-068,Home,4,21.75,UPI,Cancelled,Desktop Web
+WEB-11200,2026-07-02,CUST-246,Maria Jackson,CA,PROD-002,Clothing,4,99.7,PayPal,Completed,Mobile App

@@ -1,0 +1,1001 @@
+receipt_no,sale_datetime,loyalty_card_no,store_location,country,item_code,department,qty,item_price,tender_type,register_no,cashier_id
+POS-50001,2026-05-03 08:10:11,,Paris - Champs-Elysees,FR,PROD-032,Apparel & Fashion,3,106.15,Cash,REG-02,EMP-104
+POS-50002,2025-11-18 10:36:46,MEM-332,Paris - Champs-Elysees,FR,PROD-012,Apparel & Fashion,3,71.76,Card,REG-02,EMP-120
+POS-50003,2026-03-18 21:52:23,MEM-338,Paris - Champs-Elysees,FR,PROD-083,Home & Living,4,205.22,Card,REG-03,EMP-107
+POS-50004,2026-05-18 06:33:13,MEM-139,Berlin - Mitte,DE,PROD-044,Books & Media,4,26.62,Card,REG-06,EMP-103
+POS-50005,2026-09-10 19:07:24,MEM-138,Toronto - Downtown,CA,PROD-031,Consumer Electronics,4,226.21,Cash,REG-02,EMP-106
+POS-50006,2026-05-12 17:03:59,MEM-246,New York - 5th Ave,US,PROD-056,Consumer Electronics,1,662.88,Card,REG-06,EMP-106
+POS-50007,2025-10-24 02:41:14,,Sydney - George St,AU,PROD-075,Sporting Goods,1,235.04,Cash,REG-01,EMP-119
+POS-50008,2026-06-02 22:25:40,MEM-282,Mumbai - Bandra,IN,PROD-005,Sporting Goods,4,30.54,Cash,REG-04,EMP-105
+POS-50009,2025-11-13 04:39:03,MEM-394,Paris - Champs-Elysees,FR,PROD-062,Apparel & Fashion,3,25.03,Card,REG-04,EMP-101
+POS-50010,2026-04-30 10:31:10,MEM-134,London - Oxford St,UK,PROD-060,Sporting Goods,4,177.1,Card,REG-03,EMP-114
+POS-50011,2026-09-10 05:41:53,MEM-247,Paris - Champs-Elysees,FR,PROD-058,Home & Living,1,88.12,Contactless,REG-06,EMP-122
+POS-50012,2026-03-14 23:56:43,MEM-369,Berlin - Mitte,DE,PROD-082,Apparel & Fashion,4,35.29,Contactless,REG-04,EMP-105
+POS-50013,2025-10-26 18:03:08,MEM-289,Sydney - George St,AU,PROD-041,Consumer Electronics,4,341.13,Cash,REG-04,EMP-107
+POS-50014,2026-03-16 17:42:05,MEM-298,Mumbai - Bandra,IN,PROD-088,Home & Living,2,224.52,Contactless,REG-02,EMP-129
+POS-50015,2026-05-18 03:20:39,MEM-387,London - Oxford St,UK,PROD-052,Apparel & Fashion,4,79.69,Contactless,REG-01,EMP-127
+POS-50016,2026-08-27 16:02:45,MEM-307,New York - 5th Ave,US,PROD-036,Consumer Electronics,4,98.91,Card,REG-03,EMP-101
+POS-50017,2026-01-18 17:43:40,,New York - 5th Ave,US,PROD-008,Home & Living,1,129.22,Card,REG-04,EMP-128
+POS-50018,2025-11-07 13:03:32,MEM-230,London - Oxford St,UK,PROD-029,Books & Media,3,39.58,Contactless,REG-02,EMP-125
+POS-50019,2026-06-28 22:51:32,,Mumbai - Bandra,IN,PROD-049,Books & Media,2,19.35,Contactless,REG-01,EMP-111
+POS-50020,2025-11-05 17:37:27,MEM-314,London - Oxford St,UK,PROD-073,Home & Living,3,248.49,Card,REG-04,EMP-129
+POS-50021,2026-04-10 05:47:32,MEM-198,London - Oxford St,UK,PROD-067,Apparel & Fashion,-3,86.68,Card,REG-05,EMP-117
+POS-50022,2026-05-11 22:13:23,MEM-350,London - Oxford St,UK,PROD-068,Home & Living,3,147.4,Card,REG-02,EMP-110
+POS-50023,2026-04-08 17:52:12,MEM-171,Paris - Champs-Elysees,FR,PROD-050,Sporting Goods,4,248.31,Contactless,REG-03,EMP-128
+POS-50024,2026-09-02 14:20:39,,London - Oxford St,UK,PROD-094,Books & Media,3,43.81,Contactless,REG-05,EMP-101
+POS-50025,2026-05-07 18:03:42,MEM-190,Sydney - George St,AU,PROD-048,Home & Living,3,116.65,Contactless,REG-02,EMP-120
+POS-50026,2025-09-23 15:39:18,,Mumbai - Bandra,IN,PROD-048,Home & Living,2,234.11,Card,REG-06,EMP-120
+POS-50027,2026-04-20 07:43:54,,Mumbai - Bandra,IN,PROD-030,Sporting Goods,1,231.24,Contactless,REG-05,EMP-127
+POS-50028,2026-02-21 12:57:48,MEM-319,Berlin - Mitte,DE,PROD-093,Home & Living,3,205.07,Card,REG-01,EMP-120
+POS-50029,2026-05-17 00:01:26,MEM-254,Mumbai - Bandra,IN,PROD-046,Consumer Electronics,1,644.93,Contactless,REG-05,EMP-119
+POS-50030,2025-11-26 18:36:46,MEM-399,Berlin - Mitte,DE,PROD-059,Books & Media,2,16.72,Cash,REG-03,EMP-123
+POS-50031,2026-07-30 14:53:42,MEM-212,Paris - Champs-Elysees,FR,PROD-002,Apparel & Fashion,1,53.7,Cash,REG-04,EMP-117
+POS-50032,2026-02-05 08:04:26,MEM-199,Mumbai - Bandra,IN,PROD-099,Books & Media,3,21.32,Cash,REG-06,EMP-118
+POS-50033,2025-11-02 05:38:56,MEM-282,London - Oxford St,UK,PROD-067,Apparel & Fashion,2,94.25,Cash,REG-04,EMP-117
+POS-50034,2025-10-05 18:08:03,,New York - 5th Ave,US,PROD-078,Home & Living,1,37.27,Card,REG-03,EMP-116
+POS-50035,2026-06-21 22:19:58,MEM-284,Toronto - Downtown,CA,PROD-006,Consumer Electronics,1,253.19,Cash,REG-06,EMP-110
+POS-50036,2026-01-06 02:20:10,,Toronto - Downtown,CA,PROD-091,Consumer Electronics,1,65.78,Cash,REG-06,EMP-114
+POS-50037,2026-08-01 11:03:00,,Paris - Champs-Elysees,FR,PROD-072,Apparel & Fashion,1,92.45,Card,REG-01,EMP-107
+POS-50038,2026-09-14 07:18:36,MEM-332,London - Oxford St,UK,PROD-024,Books & Media,1,37.32,Contactless,REG-04,EMP-115
+POS-50039,2026-06-13 07:17:56,,London - Oxford St,UK,PROD-042,Apparel & Fashion,3,73.0,Contactless,REG-06,EMP-107
+POS-50040,2026-08-05 13:06:28,MEM-368,Sydney - George St,AU,PROD-019,Books & Media,3,33.81,Contactless,REG-06,EMP-109
+POS-50041,2026-01-05 01:19:02,MEM-301,Mumbai - Bandra,IN,PROD-083,Home & Living,4,216.4,Cash,REG-03,EMP-105
+POS-50042,2026-01-15 15:56:29,MEM-194,London - Oxford St,UK,PROD-039,Books & Media,2,25.17,Contactless,REG-06,EMP-117
+POS-50043,2026-05-17 06:54:37,MEM-252,Berlin - Mitte,DE,PROD-095,Sporting Goods,1,214.77,Contactless,REG-02,EMP-111
+POS-50044,2026-02-17 00:19:26,MEM-360,Mumbai - Bandra,IN,PROD-029,Books & Media,3,14.15,Cash,REG-06,EMP-109
+POS-50045,2026-03-22 03:05:30,,London - Oxford St,UK,PROD-029,Books & Media,3,17.03,Contactless,REG-04,EMP-124
+POS-50046,2026-04-26 08:43:14,MEM-360,London - Oxford St,UK,PROD-086,Consumer Electronics,3,301.97,Contactless,REG-03,EMP-119
+POS-50047,2025-11-06 22:06:12,,Paris - Champs-Elysees,FR,PROD-091,Consumer Electronics,4,748.09,Cash,REG-06,EMP-118
+POS-50048,2026-09-04 21:51:24,,Toronto - Downtown,CA,PROD-028,Home & Living,2,76.94,Cash,REG-06,EMP-107
+POS-50049,2026-02-02 23:56:52,,London - Oxford St,UK,PROD-022,Apparel & Fashion,1,39.39,Card,REG-04,EMP-125
+POS-50050,2026-07-11 17:22:26,MEM-378,Mumbai - Bandra,IN,PROD-050,Sporting Goods,1,50.37,Cash,REG-06,EMP-117
+POS-50051,2026-08-27 05:16:38,MEM-199,London - Oxford St,UK,PROD-001,Consumer Electronics,1,51.57,Card,REG-01,EMP-115
+POS-50052,2026-07-23 09:28:11,MEM-336,Mumbai - Bandra,IN,PROD-033,Home & Living,1,164.35,Card,REG-03,EMP-101
+POS-50053,2026-08-14 21:11:53,MEM-115,New York - 5th Ave,US,PROD-050,Sporting Goods,4,73.81,Contactless,REG-01,EMP-113
+POS-50054,2025-11-15 21:48:21,,Paris - Champs-Elysees,FR,PROD-031,Consumer Electronics,3,647.04,Card,REG-05,EMP-122
+POS-50055,2026-06-06 12:51:18,,Toronto - Downtown,CA,PROD-098,Home & Living,4,87.75,Card,REG-04,EMP-112
+POS-50056,2026-08-22 19:49:27,,Berlin - Mitte,DE,PROD-100,Sporting Goods,1,284.18,Cash,REG-05,EMP-120
+POS-50001,2025-10-12 00:34:43,MEM-100,Toronto - Downtown,CA,PROD-003,Home & Living,3,44.19,Cash,REG-02,EMP-121
+POS-50058,2026-03-05 05:01:41,,Mumbai - Bandra,IN,PROD-094,Books & Media,2,31.09,Card,REG-06,EMP-106
+POS-50059,2026-06-29 09:49:18,MEM-142,Sydney - George St,AU,PROD-100,Sporting Goods,1,142.82,Contactless,REG-02,EMP-118
+POS-50060,2025-10-24 13:09:56,MEM-107,Sydney - George St,AU,PROD-023,Home & Living,4,231.52,Cash,REG-04,EMP-115
+POS-50061,2026-04-27 11:55:05,MEM-110,New York - 5th Ave,US,PROD-004,Books & Media,2,20.83,Card,REG-05,EMP-110
+POS-50062,2026-04-24 17:17:01,MEM-229,Paris - Champs-Elysees,FR,PROD-044,Books & Media,3,35.06,Cash,REG-06,EMP-113
+POS-50063,2025-12-20 10:38:51,MEM-254,Sydney - George St,AU,PROD-013,Home & Living,1,248.73,Card,REG-06,EMP-111
+POS-50064,2026-06-26 09:27:09,MEM-210,Toronto - Downtown,CA,PROD-051,Consumer Electronics,2,236.9,Card,REG-04,EMP-101
+POS-50065,2026-09-03 23:33:40,,Berlin - Mitte,DE,PROD-034,Books & Media,1,40.07,Contactless,REG-06,EMP-115
+POS-50066,2025-10-26 22:42:17,,Mumbai - Bandra,IN,PROD-035,Sporting Goods,2,244.78,Contactless,REG-05,EMP-124
+POS-50067,2025-12-22 15:43:35,MEM-399,Mumbai - Bandra,IN,PROD-062,Apparel & Fashion,2,100.81,Cash,REG-04,EMP-125
+POS-50068,2025-10-06 09:43:19,,Sydney - George St,AU,PROD-066,Consumer Electronics,1,759.09,Cash,REG-06,EMP-123
+POS-50069,2026-01-04 02:05:37,MEM-261,London - Oxford St,UK,PROD-004,Books & Media,3,25.01,Contactless,REG-02,EMP-113
+POS-50070,2026-06-15 22:32:32,MEM-164,New York - 5th Ave,US,PROD-017,Apparel & Fashion,4,113.41,Cash,REG-01,EMP-115
+POS-50071,2026-08-25 09:46:14,MEM-273,New York - 5th Ave,US,PROD-095,Sporting Goods,4,244.94,Cash,REG-04,EMP-111
+POS-50072,2026-08-28 13:16:42,,New York - 5th Ave,US,PROD-009,Books & Media,1,17.42,Card,REG-03,EMP-102
+POS-50073,2026-01-17 10:53:56,MEM-102,Toronto - Downtown,CA,PROD-042,Apparel & Fashion,4,92.51,Cash,REG-03,EMP-118
+POS-50074,2026-10-02 06:38:12,,Berlin - Mitte,DE,PROD-078,Home & Living,1,176.01,Cash,REG-04,EMP-122
+POS-50075,2026-08-24 07:49:29,MEM-161,Sydney - George St,AU,PROD-025,Sporting Goods,4,125.72,Card,REG-05,EMP-125
+POS-50076,2025-11-20 06:27:20,,London - Oxford St,UK,PROD-083,Home & Living,2,194.51,Card,REG-06,EMP-120
+POS-50077,2026-04-09 00:13:00,,Mumbai - Bandra,IN,PROD-088,Home & Living,4,121.31,Contactless,REG-04,EMP-127
+POS-50078,2026-08-06 00:31:57,MEM-190,Berlin - Mitte,DE,PROD-090,Sporting Goods,2,173.82,Card,REG-02,EMP-130
+POS-50079,2025-10-17 03:29:25,,Mumbai - Bandra,IN,PROD-010,Sporting Goods,1,148.47,Card,REG-05,EMP-124
+POS-50080,2026-05-09 07:05:43,MEM-251,Berlin - Mitte,DE,PROD-026,Consumer Electronics,2,687.54,Cash,REG-03,EMP-105
+POS-50081,2026-07-19 16:39:11,,Sydney - George St,AU,PROD-006,Consumer Electronics,1,509.64,Contactless,REG-02,EMP-121
+POS-50082,2026-08-20 21:39:40,MEM-304,Toronto - Downtown,CA,PROD-085,Sporting Goods,3,27.01,Card,REG-02,EMP-104
+POS-50083,2026-08-11 14:22:58,,Mumbai - Bandra,IN,PROD-030,Sporting Goods,-2,100.46,Card,REG-04,EMP-110
+POS-50084,2025-12-29 01:01:04,MEM-153,Mumbai - Bandra,IN,PROD-031,Consumer Electronics,3,231.87,Contactless,REG-04,EMP-104
+POS-50085,2026-04-21 13:45:38,,Berlin - Mitte,DE,PROD-072,Apparel & Fashion,2,53.07,Contactless,REG-02,EMP-130
+POS-50086,2025-11-24 02:02:04,MEM-308,Mumbai - Bandra,IN,PROD-094,Books & Media,1,10.02,Cash,REG-02,EMP-109
+POS-50087,2025-09-25 02:13:08,,Paris - Champs-Elysees,FR,PROD-055,Sporting Goods,3,68.87,Card,REG-05,EMP-113
+POS-50088,2025-11-16 18:18:47,MEM-170,Paris - Champs-Elysees,FR,PROD-020,Sporting Goods,4,212.22,Cash,REG-05,EMP-103
+POS-50089,2026-06-11 22:33:28,,Berlin - Mitte,DE,PROD-037,Apparel & Fashion,1,24.11,Contactless,REG-02,EMP-118
+POS-50090,2026-08-09 14:39:50,,Mumbai - Bandra,IN,PROD-016,Consumer Electronics,4,382.14,Cash,REG-05,EMP-122
+POS-50091,2026-01-16 00:53:30,,Sydney - George St,AU,PROD-075,Sporting Goods,2,28.46,Cash,REG-02,EMP-117
+POS-50092,2025-10-22 03:39:48,,Berlin - Mitte,DE,PROD-084,Books & Media,1,10.19,Cash,REG-06,EMP-118
+POS-50093,2026-05-01 14:25:45,MEM-323,Sydney - George St,AU,PROD-012,Apparel & Fashion,4,49.68,Card,REG-02,EMP-113
+POS-50001,2026-04-07 06:45:41,,New York - 5th Ave,US,PROD-053,Home & Living,1,200.21,Cash,REG-03,EMP-108
+POS-50095,2026-04-19 20:50:24,MEM-101,Berlin - Mitte,DE,PROD-020,Sporting Goods,1,113.14,Contactless,REG-03,EMP-108
+POS-50001,2025-09-28 00:39:17,MEM-166,Mumbai - Bandra,IN,PROD-016,Consumer Electronics,-1,271.98,Card,REG-01,EMP-117
+POS-50097,2026-07-09 09:44:48,MEM-264,Sydney - George St,AU,PROD-028,Home & Living,2,75.96,Card,REG-01,EMP-118
+POS-50098,2026-08-31 02:56:18,MEM-126,Mumbai - Bandra,IN,PROD-059,Books & Media,3,19.23,Card,REG-06,EMP-102
+POS-50099,2026-03-24 18:25:34,MEM-333,Paris - Champs-Elysees,FR,PROD-060,Sporting Goods,1,157.62,Card,REG-05,EMP-111
+POS-50100,2026-02-27 09:48:22,MEM-329,Toronto - Downtown,XX,PROD-005,Sporting Goods,4,147.31,Card,REG-01,EMP-114
+POS-50101,2025-11-26 20:36:19,,Paris - Champs-Elysees,FR,PROD-092,Apparel & Fashion,3,40.42,Contactless,REG-02,EMP-129
+POS-50102,2025-10-22 13:10:13,MEM-371,Paris - Champs-Elysees,FR,PROD-025,Sporting Goods,3,99.4,Cash,REG-06,EMP-105
+POS-50103,2026-05-23 23:32:44,MEM-366,Paris - Champs-Elysees,FR,PROD-004,Books & Media,2,29.15,Cash,REG-06,EMP-101
+POS-50104,2026-07-01 06:03:50,,New York - 5th Ave,US,PROD-049,Books & Media,1,13.41,Cash,REG-05,EMP-126
+POS-50105,2026-04-13 18:21:05,,Mumbai - Bandra,IN,PROD-044,Books & Media,4,13.28,Cash,REG-06,EMP-107
+POS-50106,2026-05-24 22:09:14,MEM-356,Toronto - Downtown,CA,PROD-003,Home & Living,2,43.8,Cash,REG-06,EMP-110
+POS-50107,2025-11-25 03:24:34,,Berlin - Mitte,DE,PROD-094,Books & Media,4,23.46,Card,REG-02,EMP-122
+POS-50108,2026-04-01 00:56:49,MEM-210,Mumbai - Bandra,IN,PROD-005,Sporting Goods,4,194.52,Contactless,REG-03,EMP-101
+POS-50109,2026-04-30 03:49:27,,Toronto - Downtown,CA,PROD-025,Sporting Goods,2,181.95,Contactless,REG-01,EMP-112
+POS-50110,2025-10-04 11:20:00,MEM-284,Mumbai - Bandra,IN,PROD-016,Consumer Electronics,4,98.02,Card,REG-05,EMP-121
+POS-50111,2025-12-16 08:14:06,MEM-259,Mumbai - Bandra,IN,PROD-048,Home & Living,2,138.94,Contactless,REG-06,EMP-107
+POS-50112,2026-03-24 06:26:11,MEM-204,Berlin - Mitte,DE,PROD-069,Books & Media,1,24.09,Contactless,REG-05,EMP-102
+POS-50113,2025-12-15 14:40:53,MEM-253,Toronto - Downtown,CA,PROD-020,Sporting Goods,2,153.17,Contactless,REG-03,EMP-111
+POS-50114,2026-07-17 12:32:05,MEM-366,Paris - Champs-Elysees,FR,PROD-055,Sporting Goods,2,279.01,Card,REG-03,EMP-117
+POS-50115,2026-08-21 21:56:11,MEM-204,Berlin - Mitte,DE,PROD-040,Sporting Goods,3,215.14,Cash,REG-01,EMP-129
+POS-50116,2026-08-29 15:17:32,MEM-236,Mumbai - Bandra,IN,PROD-099,Books & Media,4,42.71,Card,REG-05,EMP-113
+POS-50117,2025-09-26 02:50:49,MEM-201,Toronto - Downtown,CA,PROD-077,Apparel & Fashion,1,51.75,Card,REG-01,EMP-127
+POS-50118,2025-11-05 22:43:05,,Paris - Champs-Elysees,FR,PROD-005,Sporting Goods,4,104.06,Cash,REG-03,EMP-129
+POS-50119,2026-02-06 09:58:20,MEM-191,Sydney - George St,AU,PROD-045,Sporting Goods,2,175.84,Cash,REG-04,EMP-128
+POS-50120,2026-02-07 21:08:12,,London - Oxford St,UK,PROD-079,Books & Media,1,8.57,Cash,REG-03,EMP-114
+POS-50121,2026-06-18 22:51:17,MEM-213,Berlin - Mitte,DE,PROD-012,Apparel & Fashion,1,68.41,Card,REG-05,EMP-101
+POS-50122,2026-09-06 01:10:18,MEM-236,London - Oxford St,UK,PROD-015,Sporting Goods,1,36.91,Card,REG-01,EMP-111
+POS-50123,2026-08-04 21:30:37,MEM-395,Paris - Champs-Elysees,FR,PROD-056,Consumer Electronics,3,511.96,Contactless,REG-03,EMP-105
+POS-50124,2026-07-31 19:58:17,MEM-160,Paris - Champs-Elysees,FR,PROD-056,Consumer Electronics,4,305.56,Contactless,REG-05,EMP-116
+POS-50125,2026-05-04 19:10:43,MEM-210,Sydney - George St,AU,PROD-046,Consumer Electronics,4,438.65,Cash,REG-01,EMP-105
+POS-50126,2026-04-20 12:54:13,,New York - 5th Ave,US,PROD-006,Consumer Electronics,4,55.58,Cash,REG-04,EMP-115
+POS-50127,2026-06-15 22:32:23,,Sydney - George St,AU,PROD-005,Sporting Goods,2,93.65,Cash,REG-03,EMP-119
+POS-50128,2026-08-07 09:21:06,MEM-153,Berlin - Mitte,DE,PROD-034,Books & Media,2,40.5,Card,REG-01,EMP-116
+POS-50129,2026-02-28 08:35:20,MEM-276,Mumbai - Bandra,IN,PROD-051,Consumer Electronics,2,285.98,Card,REG-04,EMP-110
+POS-50130,2026-02-18 08:48:27,,Paris - Champs-Elysees,FR,PROD-093,Home & Living,1,159.41,Card,REG-02,EMP-111
+POS-50131,2025-11-01 11:00:39,,Berlin - Mitte,DE,PROD-096,Consumer Electronics,1,228.21,Cash,REG-02,EMP-118
+POS-50132,2026-06-29 18:05:55,MEM-299,Sydney - George St,AU,PROD-013,Home & Living,3,67.09,Card,REG-02,EMP-124
+POS-50133,2026-05-04 00:24:42,,Paris - Champs-Elysees,FR,PROD-042,Apparel & Fashion,3,25.43,Card,REG-01,EMP-125
+POS-50134,2026-08-02 02:55:17,MEM-324,Toronto - Downtown,CA,PROD-006,Consumer Electronics,3,557.89,Cash,REG-05,EMP-129
+POS-50135,2026-06-20 05:19:00,MEM-254,Sydney - George St,AU,PROD-013,Home & Living,4,43.68,Cash,REG-05,EMP-120
+POS-50136,2026-08-23 00:33:41,MEM-265,London - Oxford St,UK,PROD-023,Home & Living,3,76.54,Cash,REG-04,EMP-108
+POS-50137,2026-03-24 00:05:31,,Toronto - Downtown,CA,PROD-087,Apparel & Fashion,2,56.25,Contactless,REG-06,EMP-120
+POS-50138,2026-04-06 18:51:22,,New York - 5th Ave,US,PROD-010,Sporting Goods,2,199.55,Card,REG-04,EMP-104
+POS-50139,2025-11-16 18:08:33,MEM-129,Paris - Champs-Elysees,FR,PROD-048,Home & Living,-3,207.93,Cash,REG-03,EMP-122
+POS-50140,2026-06-06 06:25:00,,Mumbai - Bandra,IN,PROD-037,Apparel & Fashion,1,84.12,Card,REG-02,EMP-115
+POS-50141,2025-11-05 04:48:11,,Toronto - Downtown,CA,PROD-064,Books & Media,3,37.5,Contactless,REG-06,EMP-109
+POS-50142,2026-08-14 04:05:31,,Mumbai - Bandra,IN,PROD-002,Apparel & Fashion,1,45.38,Cash,REG-02,EMP-112
+POS-50143,2025-10-23 16:57:24,MEM-128,Mumbai - Bandra,IN,PROD-063,Home & Living,3,34.35,Cash,REG-06,EMP-119
+POS-50144,2026-05-12 06:43:21,,Paris - Champs-Elysees,FR,PROD-095,Sporting Goods,4,253.02,Cash,REG-02,EMP-101
+POS-50145,2026-01-03 12:14:57,,Mumbai - Bandra,IN,PROD-003,Home & Living,4,26.36,Contactless,REG-03,EMP-123
+POS-50146,2026-07-23 23:40:30,MEM-129,New York - 5th Ave,US,PROD-025,Sporting Goods,1,195.83,Contactless,REG-03,EMP-125
+POS-50147,2025-11-30 00:20:58,MEM-242,Mumbai - Bandra,IN,PROD-055,Sporting Goods,1,211.04,Contactless,REG-01,EMP-121
+POS-50148,2026-07-12 20:21:59,,New York - 5th Ave,US,PROD-017,Apparel & Fashion,4,91.93,Contactless,REG-03,EMP-102
+POS-50149,2026-08-28 19:14:48,,Sydney - George St,AU,PROD-080,Sporting Goods,2,146.51,Contactless,REG-03,EMP-107
+POS-50150,2025-10-16 14:23:04,MEM-386,Mumbai - Bandra,IN,PROD-093,Home & Living,4,65.94,Cash,REG-05,EMP-103
+POS-50151,2026-08-28 22:26:36,MEM-173,Mumbai - Bandra,IN,PROD-035,Sporting Goods,4,281.37,Cash,REG-03,EMP-123
+POS-50152,2026-07-09 18:32:31,,London - Oxford St,UK,PROD-045,Sporting Goods,2,259.92,Cash,REG-03,EMP-102
+POS-50153,2026-09-12 09:06:25,,Paris - Champs-Elysees,FR,PROD-079,Books & Media,2,40.6,Contactless,REG-06,EMP-121
+POS-50154,2025-10-29 01:27:05,MEM-148,New York - 5th Ave,US,PROD-042,Apparel & Fashion,4,62.05,Contactless,REG-02,EMP-116
+POS-50155,2026-08-22 12:33:27,MEM-200,Berlin - Mitte,DE,PROD-046,Consumer Electronics,4,78.16,Cash,REG-01,EMP-129
+POS-50156,2025-09-21 17:30:34,,London - Oxford St,UK,PROD-091,Consumer Electronics,2,275.5,Contactless,REG-04,EMP-114
+POS-50157,2026-05-21 13:36:05,MEM-145,New York - 5th Ave,US,PROD-085,Sporting Goods,1,100.37,Contactless,REG-01,EMP-118
+POS-50158,2025-09-19 06:04:41,MEM-113,Toronto - Downtown,CA,PROD-004,Books & Media,4,34.21,Card,REG-06,EMP-112
+POS-50159,2025-12-26 04:45:20,,London - Oxford St,UK,PROD-012,Apparel & Fashion,2,74.14,Contactless,REG-04,EMP-120
+POS-50160,2026-02-12 13:22:47,,Berlin - Mitte,DE,PROD-002,Apparel & Fashion,3,22.57,Cash,REG-04,EMP-123
+POS-50161,2026-05-06 05:27:49,,Toronto - Downtown,CA,PROD-052,Apparel & Fashion,1,55.92,Card,REG-01,EMP-107
+POS-50162,2026-02-10 03:58:12,,New York - 5th Ave,US,PROD-013,Home & Living,1,37.54,Card,REG-02,EMP-105
+POS-50163,2025-11-03 03:21:40,,Paris - Champs-Elysees,FR,PROD-023,Home & Living,2,220.76,Contactless,REG-05,EMP-114
+POS-50164,2026-03-02 01:46:08,,London - Oxford St,UK,PROD-044,Books & Media,4,18.3,Card,REG-05,EMP-115
+POS-50165,2026-08-02 22:34:34,MEM-260,Sydney - George St,AU,PROD-082,Apparel & Fashion,1,54.07,Card,REG-04,EMP-125
+POS-50166,2025-11-03 06:00:47,,Paris - Champs-Elysees,FR,PROD-014,Books & Media,2,16.63,Contactless,REG-01,EMP-120
+POS-50167,2026-06-27 04:44:14,MEM-162,Toronto - Downtown,CA,PROD-069,Books & Media,1,20.55,Card,REG-06,EMP-112
+POS-50168,2026-04-25 07:38:25,,New York - 5th Ave,US,PROD-046,Consumer Electronics,3,518.62,Contactless,REG-01,EMP-104
+POS-50169,2026-03-25 23:05:08,MEM-282,Berlin - Mitte,DE,PROD-089,Books & Media,3,34.28,Contactless,REG-06,EMP-104
+POS-50170,2025-11-11 10:29:16,,Sydney - George St,AU,PROD-027,Apparel & Fashion,-1,91.48,Card,REG-05,EMP-103
+POS-50171,2025-11-18 11:14:59,,Mumbai - Bandra,IN,PROD-036,Consumer Electronics,4,210.72,Card,REG-05,EMP-110
+POS-50172,2026-01-21 05:25:07,,Toronto - Downtown,CA,PROD-073,Home & Living,4,55.85,Card,REG-05,EMP-108
+POS-50173,2026-05-23 03:43:56,,Paris - Champs-Elysees,FR,PROD-088,Home & Living,1,157.53,Card,REG-06,EMP-121
+POS-50174,2026-01-18 04:48:20,,Berlin - Mitte,DE,PROD-088,Home & Living,4,41.19,Cash,REG-04,EMP-122
+POS-50175,2025-11-06 08:47:05,MEM-346,Berlin - Mitte,DE,PROD-038,Home & Living,3,55.7,Cash,REG-03,EMP-128
+POS-50176,2026-05-24 19:35:02,MEM-274,Paris - Champs-Elysees,FR,PROD-059,Books & Media,1,40.5,Card,REG-05,EMP-124
+POS-50177,2025-10-30 07:30:59,MEM-147,Paris - Champs-Elysees,FR,PROD-001,Consumer Electronics,2,570.42,Cash,REG-03,EMP-129
+POS-50178,2025-11-05 22:21:56,MEM-163,Mumbai - Bandra,IN,PROD-077,Apparel & Fashion,2,80.65,Cash,REG-02,EMP-128
+POS-50179,2026-07-28 09:38:53,MEM-290,London - Oxford St,UK,PROD-092,Apparel & Fashion,3,81.9,Cash,REG-03,EMP-113
+POS-50180,2025-10-14 10:26:57,MEM-214,Mumbai - Bandra,IN,PROD-030,Sporting Goods,4,57.12,Cash,REG-02,EMP-108
+POS-50181,2025-09-17 21:47:29,,London - Oxford St,UK,PROD-051,Consumer Electronics,1,463.41,Card,REG-04,EMP-109
+POS-50182,2026-08-29 10:45:18,,Berlin - Mitte,DE,PROD-070,Sporting Goods,2,80.27,Contactless,REG-01,EMP-106
+POS-50183,2026-06-01 21:36:46,MEM-388,Mumbai - Bandra,IN,PROD-097,Apparel & Fashion,4,91.53,Card,REG-03,EMP-129
+POS-50184,2025-11-16 16:11:24,,Berlin - Mitte,DE,PROD-083,Home & Living,2,179.72,Cash,REG-05,EMP-106
+POS-50185,2026-07-26 05:27:26,MEM-115,Mumbai - Bandra,IN,PROD-064,Books & Media,1,26.72,Card,REG-03,EMP-108
+POS-50186,2026-07-13 17:51:55,MEM-229,Berlin - Mitte,DE,PROD-014,Books & Media,1,11.51,Card,REG-04,EMP-115
+POS-50187,2025-10-15 09:11:33,MEM-330,Berlin - Mitte,DE,PROD-097,Apparel & Fashion,2,30.16,Cash,REG-05,EMP-119
+POS-50188,2026-04-30 22:55:42,,Berlin - Mitte,DE,PROD-075,Sporting Goods,4,58.14,Cash,REG-02,EMP-127
+POS-50189,2025-11-08 04:54:38,MEM-380,London - Oxford St,XX,PROD-018,Home & Living,2,82.3,Card,REG-02,EMP-128
+POS-50190,2026-09-08 02:21:41,,Sydney - George St,AU,PROD-033,Home & Living,2,106.55,Cash,REG-05,EMP-117
+POS-50191,2026-01-04 20:53:41,,New York - 5th Ave,US,PROD-047,Apparel & Fashion,4,25.02,Contactless,REG-02,EMP-128
+POS-50192,2025-11-21 21:20:42,MEM-202,New York - 5th Ave,US,PROD-029,Books & Media,1,16.98,Cash,REG-01,EMP-105
+POS-50193,2026-04-26 11:12:47,,London - Oxford St,UK,PROD-001,Consumer Electronics,4,475.71,Contactless,REG-04,EMP-108
+POS-50194,2026-08-03 11:02:04,,Toronto - Downtown,CA,PROD-015,Sporting Goods,3,289.57,Card,REG-01,EMP-105
+POS-50195,2026-01-19 14:57:02,MEM-148,Mumbai - Bandra,IN,PROD-027,Apparel & Fashion,4,42.9,Card,REG-03,EMP-130
+POS-50196,2025-09-30 14:44:49,MEM-133,Toronto - Downtown,CA,PROD-020,Sporting Goods,4,52.03,Cash,REG-05,EMP-105
+POS-50197,2026-10-12 06:38:12,MEM-351,Paris - Champs-Elysees,FR,PROD-095,Sporting Goods,4,122.07,Contactless,REG-03,EMP-119
+POS-50198,2026-02-03 01:00:53,,London - Oxford St,UK,PROD-092,Apparel & Fashion,2,101.05,Contactless,REG-04,EMP-104
+POS-50199,2026-07-11 00:30:57,,Sydney - George St,AU,PROD-035,Sporting Goods,2,254.82,Contactless,REG-03,EMP-117
+POS-50200,2026-09-14 10:42:39,,London - Oxford St,UK,PROD-027,Apparel & Fashion,2,96.49,Contactless,REG-02,EMP-109
+POS-50201,2025-11-06 13:12:15,,Paris - Champs-Elysees,FR,PROD-073,Home & Living,4,90.67,Card,REG-02,EMP-122
+POS-50202,2026-07-15 09:12:13,,London - Oxford St,UK,PROD-024,Books & Media,3,14.27,Cash,REG-02,EMP-130
+POS-50203,2026-04-22 01:02:37,,Sydney - George St,AU,PROD-048,Home & Living,1,141.17,Contactless,REG-06,EMP-119
+POS-50204,2025-11-18 14:46:09,,New York - 5th Ave,US,PROD-001,Consumer Electronics,3,655.26,Card,REG-06,EMP-111
+POS-50205,2025-10-19 23:10:19,,Toronto - Downtown,CA,PROD-058,Home & Living,2,167.51,Cash,REG-02,EMP-106
+POS-50206,2026-03-27 15:15:56,MEM-378,Toronto - Downtown,CA,PROD-039,Books & Media,3,38.97,Contactless,REG-03,EMP-114
+POS-50207,2026-07-19 15:37:08,,London - Oxford St,UK,PROD-087,Apparel & Fashion,4,45.28,Contactless,REG-01,EMP-110
+POS-50208,2025-11-14 11:46:25,MEM-359,Toronto - Downtown,CA,PROD-052,Apparel & Fashion,1,89.2,Contactless,REG-06,EMP-127
+POS-50209,2026-08-24 03:18:31,MEM-116,Berlin - Mitte,DE,PROD-006,Consumer Electronics,3,659.39,Contactless,REG-05,EMP-120
+POS-50210,2026-07-30 08:27:30,,Paris - Champs-Elysees,FR,PROD-060,Sporting Goods,4,276.47,Card,REG-03,EMP-125
+POS-50211,2025-12-27 05:26:46,MEM-188,Toronto - Downtown,CA,PROD-097,Apparel & Fashion,3,84.9,Cash,REG-04,EMP-129
+POS-50212,2026-03-24 17:01:46,,Berlin - Mitte,DE,PROD-057,Apparel & Fashion,2,114.53,Cash,REG-02,EMP-122
+POS-50213,2026-07-19 08:52:27,MEM-271,Berlin - Mitte,DE,PROD-081,Consumer Electronics,2,378.83,Cash,REG-04,EMP-110
+POS-50214,2026-07-14 08:41:10,,Mumbai - Bandra,IN,PROD-085,Sporting Goods,-2,260.02,Card,REG-04,EMP-122
+POS-50215,2026-06-19 09:36:36,,New York - 5th Ave,US,PROD-070,Sporting Goods,4,195.98,Contactless,REG-04,EMP-104
+POS-50216,2026-09-01 11:56:12,MEM-123,New York - 5th Ave,US,PROD-032,Apparel & Fashion,2,52.23,Cash,REG-01,EMP-103
+POS-50217,2026-06-20 07:59:12,MEM-280,London - Oxford St,UK,PROD-026,Consumer Electronics,1,90.99,Card,REG-06,EMP-123
+POS-50218,2026-04-04 14:47:37,MEM-268,Berlin - Mitte,DE,PROD-039,Books & Media,2,34.06,Contactless,REG-03,EMP-113
+POS-50219,2026-09-05 23:59:05,,New York - 5th Ave,US,PROD-052,Apparel & Fashion,4,32.61,Cash,REG-06,EMP-110
+POS-50220,2026-03-18 15:05:35,MEM-241,Berlin - Mitte,DE,PROD-066,Consumer Electronics,1,429.1,Cash,REG-05,EMP-106
+POS-50221,2026-01-18 21:31:53,MEM-310,Mumbai - Bandra,IN,PROD-063,Home & Living,2,229.71,Cash,REG-05,EMP-115
+POS-50222,2025-10-04 19:37:43,MEM-293,Paris - Champs-Elysees,FR,PROD-011,Consumer Electronics,4,649.08,Cash,REG-01,EMP-118
+POS-50223,2026-08-13 21:02:32,,New York - 5th Ave,US,PROD-089,Books & Media,4,12.93,Card,REG-01,EMP-129
+POS-50224,2026-04-25 09:52:06,MEM-244,New York - 5th Ave,US,PROD-075,Sporting Goods,1,277.2,Cash,REG-01,EMP-124
+POS-50225,2026-02-03 03:24:36,MEM-152,Berlin - Mitte,DE,PROD-097,Apparel & Fashion,1,68.93,Contactless,REG-06,EMP-117
+POS-50226,2025-10-02 13:01:35,,Mumbai - Bandra,IN,PROD-093,Home & Living,2,89.02,Card,REG-03,EMP-119
+POS-50227,2026-01-10 12:45:10,,London - Oxford St,UK,PROD-021,Consumer Electronics,3,162.43,Cash,REG-06,EMP-120
+POS-50228,2026-01-11 15:55:12,,Sydney - George St,AU,PROD-046,Consumer Electronics,4,415.19,Contactless,REG-05,EMP-108
+POS-50229,2026-07-22 12:22:50,MEM-373,Mumbai - Bandra,IN,PROD-067,Apparel & Fashion,1,104.2,Card,REG-01,EMP-106
+POS-50230,2026-07-09 05:56:17,MEM-339,Mumbai - Bandra,IN,PROD-035,Sporting Goods,1,69.36,Card,REG-04,EMP-107
+POS-50231,2026-08-22 07:32:35,,Toronto - Downtown,CA,PROD-069,Books & Media,1,25.5,Card,REG-04,EMP-124
+POS-50232,2025-11-16 10:14:08,MEM-191,London - Oxford St,UK,PROD-096,Consumer Electronics,2,771.46,Contactless,REG-02,EMP-114
+POS-50233,2026-06-12 10:50:21,,New York - 5th Ave,US,PROD-023,Home & Living,1,25.67,Card,REG-04,EMP-118
+POS-50234,2026-02-18 15:37:45,,New York - 5th Ave,US,PROD-046,Consumer Electronics,3,586.18,Contactless,REG-06,EMP-124
+POS-50235,2026-07-27 05:30:30,MEM-391,Sydney - George St,AU,PROD-030,Sporting Goods,2,194.1,Cash,REG-03,EMP-113
+POS-50236,2025-11-01 06:18:20,MEM-204,Toronto - Downtown,CA,PROD-017,Apparel & Fashion,2,41.0,Card,REG-02,EMP-122
+POS-50237,2026-02-21 03:13:27,MEM-250,London - Oxford St,UK,PROD-008,Home & Living,3,87.97,Contactless,REG-04,EMP-124
+POS-50238,2026-04-12 15:32:52,MEM-345,Mumbai - Bandra,IN,PROD-009,Books & Media,2,26.99,Card,REG-02,EMP-111
+POS-50239,2026-03-28 21:30:07,MEM-206,Berlin - Mitte,DE,PROD-021,Consumer Electronics,4,161.53,Contactless,REG-06,EMP-113
+POS-50240,2025-09-23 18:14:03,MEM-248,London - Oxford St,UK,PROD-031,Consumer Electronics,4,410.05,Contactless,REG-04,EMP-102
+POS-50241,2026-08-15 07:06:26,,Berlin - Mitte,DE,PROD-089,Books & Media,2,9.88,Contactless,REG-02,EMP-123
+POS-50242,2026-08-28 16:17:27,MEM-183,Berlin - Mitte,DE,PROD-011,Consumer Electronics,4,0.0,Contactless,REG-06,EMP-109
+POS-50243,2026-03-15 10:05:32,MEM-383,Mumbai - Bandra,IN,PROD-070,Sporting Goods,1,223.72,Card,REG-04,EMP-118
+POS-50244,2026-06-12 01:34:54,,Paris - Champs-Elysees,FR,PROD-026,Consumer Electronics,2,764.7,Contactless,REG-01,EMP-102
+POS-50245,2026-07-17 23:40:28,,Sydney - George St,AU,PROD-043,Home & Living,3,61.17,Cash,REG-06,EMP-120
+POS-50246,2026-04-27 13:42:15,MEM-110,Sydney - George St,AU,PROD-077,Apparel & Fashion,3,110.4,Cash,REG-05,EMP-103
+POS-50001,2025-12-22 17:08:35,,Berlin - Mitte,DE,PROD-059,Books & Media,1,13.27,Cash,REG-01,EMP-122
+POS-50248,2026-04-09 21:10:50,,Mumbai - Bandra,IN,PROD-018,Home & Living,1,135.71,Cash,REG-02,EMP-125
+POS-50249,2026-02-18 15:22:55,MEM-220,Berlin - Mitte,DE,PROD-017,Apparel & Fashion,1,104.82,Cash,REG-05,EMP-115
+POS-50250,2026-08-25 16:32:40,,New York - 5th Ave,US,PROD-039,Books & Media,2,40.66,Cash,REG-05,EMP-118
+POS-50251,2026-06-16 10:19:35,,Berlin - Mitte,DE,PROD-011,Consumer Electronics,1,250.37,Contactless,REG-06,EMP-102
+POS-50252,2025-10-18 15:05:53,,Toronto - Downtown,CA,PROD-004,Books & Media,4,10.35,Cash,REG-01,EMP-124
+POS-50253,2026-04-27 06:48:05,,Mumbai - Bandra,IN,PROD-040,Sporting Goods,4,230.65,Contactless,REG-03,EMP-126
+POS-50254,2025-11-03 20:55:54,MEM-294,Paris - Champs-Elysees,FR,PROD-023,Home & Living,1,143.86,Contactless,REG-01,EMP-129
+POS-50255,2026-07-10 06:04:07,MEM-120,Mumbai - Bandra,IN,PROD-091,Consumer Electronics,4,534.91,Contactless,REG-02,EMP-102
+POS-50256,2026-07-22 12:16:01,,London - Oxford St,UK,PROD-032,Apparel & Fashion,2,86.33,Card,REG-06,EMP-121
+POS-50257,2025-10-22 21:18:58,,New York - 5th Ave,US,PROD-096,Consumer Electronics,3,119.39,Cash,REG-06,EMP-120
+POS-50258,2026-09-10 07:45:27,,London - Oxford St,UK,PROD-095,Sporting Goods,4,252.64,Card,REG-03,EMP-123
+POS-50259,2026-06-08 16:04:38,MEM-235,New York - 5th Ave,US,PROD-074,Books & Media,4,12.73,Cash,REG-01,EMP-119
+POS-50260,2026-05-29 15:14:59,MEM-145,London - Oxford St,UK,PROD-025,Sporting Goods,1,169.1,Cash,REG-02,EMP-104
+POS-50261,2026-02-26 01:20:33,MEM-368,London - Oxford St,UK,PROD-051,Consumer Electronics,3,328.78,Contactless,REG-02,EMP-112
+POS-50262,2025-09-30 03:29:16,MEM-343,Mumbai - Bandra,IN,PROD-075,Sporting Goods,1,187.41,Contactless,REG-01,EMP-102
+POS-50263,2026-04-24 15:04:06,MEM-238,Sydney - George St,AU,PROD-003,Home & Living,4,114.36,Card,REG-05,EMP-127
+POS-50264,2026-04-14 14:18:03,,Mumbai - Bandra,IN,PROD-089,Books & Media,1,41.46,Card,REG-06,EMP-102
+POS-50265,2026-08-27 15:03:04,,Berlin - Mitte,DE,PROD-097,Apparel & Fashion,2,26.63,Card,REG-01,EMP-124
+POS-50266,2026-03-27 01:21:46,MEM-198,New York - 5th Ave,US,PROD-009,Books & Media,1,36.07,Contactless,REG-04,EMP-125
+POS-50267,2026-04-26 01:08:42,,Paris - Champs-Elysees,FR,PROD-039,Books & Media,3,10.46,Cash,REG-04,EMP-123
+POS-50268,2026-05-16 13:01:36,MEM-178,Sydney - George St,AU,PROD-045,Sporting Goods,2,214.29,Card,REG-04,EMP-102
+POS-50269,2026-03-06 03:19:13,MEM-264,London - Oxford St,UK,PROD-009,Books & Media,3,40.08,Card,REG-06,EMP-121
+POS-50270,2026-01-02 00:14:11,,Paris - Champs-Elysees,FR,PROD-046,Consumer Electronics,4,155.29,Card,REG-05,EMP-109
+POS-50271,2026-06-16 05:28:04,MEM-122,New York - 5th Ave,US,PROD-037,Apparel & Fashion,1,117.57,Contactless,REG-01,EMP-119
+POS-50272,2025-12-09 00:48:39,MEM-295,Berlin - Mitte,DE,PROD-029,Books & Media,1,27.01,Contactless,REG-05,EMP-114
+POS-50273,2026-07-04 18:21:52,,London - Oxford St,UK,PROD-072,Apparel & Fashion,1,55.9,Card,REG-02,EMP-125
+POS-50274,2025-11-30 12:26:43,,London - Oxford St,UK,PROD-078,Home & Living,1,139.47,Contactless,REG-03,EMP-104
+POS-50275,2025-10-14 16:11:27,MEM-358,Berlin - Mitte,DE,PROD-082,Apparel & Fashion,1,78.65,Contactless,REG-06,EMP-116
+POS-50276,2026-09-01 15:59:13,MEM-166,Mumbai - Bandra,IN,PROD-036,Consumer Electronics,1,608.27,Contactless,REG-02,EMP-124
+POS-50277,2026-02-02 20:49:11,MEM-229,Mumbai - Bandra,IN,PROD-065,Sporting Goods,3,165.62,Contactless,REG-05,EMP-110
+POS-50278,2026-01-23 14:10:55,MEM-114,Sydney - George St,AU,PROD-029,Books & Media,2,43.2,Contactless,REG-03,EMP-120
+POS-50279,2025-11-27 03:18:52,,Paris - Champs-Elysees,FR,PROD-079,Books & Media,2,36.64,Cash,REG-03,EMP-114
+POS-50280,2026-06-11 09:16:13,,Toronto - Downtown,CA,PROD-064,Books & Media,4,35.84,Card,REG-04,EMP-130
+POS-50281,2026-02-01 14:49:03,,Paris - Champs-Elysees,FR,PROD-064,Books & Media,3,11.05,Cash,REG-01,EMP-128
+POS-50282,2026-01-05 18:59:27,MEM-366,Toronto - Downtown,CA,PROD-084,Books & Media,3,8.65,Card,REG-03,EMP-115
+POS-50283,2025-11-22 00:31:01,,London - Oxford St,UK,PROD-084,Books & Media,3,13.21,Card,REG-06,EMP-107
+POS-50284,2026-01-01 08:04:47,MEM-126,Paris - Champs-Elysees,FR,PROD-079,Books & Media,1,32.3,Card,REG-06,EMP-107
+POS-50285,2026-03-10 17:38:02,MEM-203,Paris - Champs-Elysees,FR,PROD-055,Sporting Goods,3,286.85,Card,REG-05,EMP-111
+POS-50286,2026-02-15 08:18:11,,London - Oxford St,UK,PROD-099,Books & Media,4,11.23,Card,REG-03,EMP-124
+POS-50287,2026-07-03 11:01:26,MEM-362,Toronto - Downtown,CA,PROD-039,Books & Media,3,23.42,Contactless,REG-01,EMP-101
+POS-50288,2026-05-16 19:29:59,MEM-382,Toronto - Downtown,CA,PROD-036,Consumer Electronics,4,442.63,Contactless,REG-03,EMP-115
+POS-50289,2025-11-02 05:02:27,,Paris - Champs-Elysees,FR,PROD-041,Consumer Electronics,2,320.64,Contactless,REG-05,EMP-123
+POS-50290,2026-05-26 15:50:02,,Berlin - Mitte,DE,PROD-047,Apparel & Fashion,3,46.06,Contactless,REG-03,EMP-104
+POS-50291,2026-03-27 16:01:06,,Berlin - Mitte,DE,PROD-044,Books & Media,2,13.08,Card,REG-01,EMP-125
+POS-50292,2026-08-18 03:19:41,,Paris - Champs-Elysees,FR,PROD-082,Apparel & Fashion,4,27.04,Contactless,REG-04,EMP-123
+POS-50293,2026-01-17 07:02:15,MEM-266,Toronto - Downtown,CA,PROD-097,Apparel & Fashion,2,119.38,Cash,REG-01,EMP-115
+POS-50294,2026-07-31 01:51:21,,Toronto - Downtown,CA,PROD-009,Books & Media,2,32.13,Cash,REG-05,EMP-110
+POS-50295,2026-03-01 02:11:02,MEM-106,Mumbai - Bandra,IN,PROD-040,Sporting Goods,4,258.77,Cash,REG-03,EMP-109
+POS-50296,2026-08-23 22:12:07,,Sydney - George St,AU,PROD-023,Home & Living,4,161.08,Card,REG-04,EMP-124
+POS-50297,2025-12-02 08:07:51,MEM-362,Mumbai - Bandra,IN,PROD-054,Books & Media,3,19.46,Contactless,REG-04,EMP-104
+POS-50298,2026-02-14 05:51:56,MEM-381,New York - 5th Ave,US,PROD-078,Home & Living,4,209.24,Cash,REG-01,EMP-118
+POS-50299,2025-11-23 07:18:27,MEM-349,Paris - Champs-Elysees,FR,PROD-086,Consumer Electronics,2,380.1,Cash,REG-04,EMP-108
+POS-50300,2026-04-10 08:06:45,MEM-327,New York - 5th Ave,US,PROD-052,Apparel & Fashion,3,16.35,Cash,REG-04,EMP-103
+POS-50301,2026-06-30 03:31:25,,Berlin - Mitte,DE,PROD-082,Apparel & Fashion,4,93.9,Cash,REG-03,EMP-122
+POS-50001,2026-07-03 03:52:09,MEM-143,Paris - Champs-Elysees,FR,PROD-029,Books & Media,2,40.0,Contactless,REG-05,EMP-105
+POS-50303,2026-05-02 05:03:40,,Berlin - Mitte,DE,PROD-033,Home & Living,1,121.26,Card,REG-03,EMP-104
+POS-50304,2026-05-13 04:38:17,MEM-298,Toronto - Downtown,CA,PROD-099,Books & Media,1,34.8,Contactless,REG-04,EMP-130
+POS-50305,2025-10-04 09:21:07,,Paris - Champs-Elysees,FR,PROD-081,Consumer Electronics,4,152.81,Card,REG-01,EMP-124
+POS-50306,2025-09-21 01:23:39,,New York - 5th Ave,US,PROD-020,Sporting Goods,1,49.05,Cash,REG-01,EMP-106
+POS-50307,2026-03-27 02:58:00,MEM-170,Berlin - Mitte,DE,PROD-031,Consumer Electronics,2,546.82,Cash,REG-03,EMP-118
+POS-50308,2026-04-14 13:34:00,,Mumbai - Bandra,IN,PROD-039,Books & Media,1,14.51,Contactless,REG-06,EMP-125
+POS-50309,2025-12-15 09:03:07,,Berlin - Mitte,DE,PROD-045,Sporting Goods,2,217.4,Cash,REG-02,EMP-109
+POS-50310,2026-08-01 03:38:28,MEM-214,Mumbai - Bandra,IN,PROD-019,Books & Media,1,11.41,Contactless,REG-05,EMP-112
+POS-50311,2026-07-25 20:14:32,,Mumbai - Bandra,IN,PROD-096,Consumer Electronics,3,192.47,Contactless,REG-02,EMP-124
+POS-50312,2026-01-18 22:28:13,MEM-322,New York - 5th Ave,US,PROD-045,Sporting Goods,2,62.4,Card,REG-05,EMP-127
+POS-50313,2026-02-14 11:17:00,MEM-110,Berlin - Mitte,DE,PROD-060,Sporting Goods,2,125.14,Card,REG-06,EMP-102
+POS-50314,2025-10-11 06:56:03,,Toronto - Downtown,CA,PROD-019,Books & Media,3,42.09,Card,REG-05,EMP-117
+POS-50315,2026-02-18 17:35:11,MEM-156,Mumbai - Bandra,IN,PROD-024,Books & Media,4,22.38,Contactless,REG-05,EMP-117
+POS-50316,2025-10-08 07:52:08,MEM-159,Sydney - George St,AU,PROD-089,Books & Media,4,8.29,Card,REG-06,EMP-121
+POS-50317,2026-03-10 15:25:18,,Mumbai - Bandra,IN,PROD-048,Home & Living,2,238.0,Card,REG-01,EMP-106
+POS-50318,2026-01-24 14:35:44,MEM-127,Berlin - Mitte,XX,PROD-093,Home & Living,2,83.0,Card,REG-02,EMP-108
+POS-50319,2025-10-11 09:53:51,MEM-253,Toronto - Downtown,CA,PROD-030,Sporting Goods,3,294.92,Contactless,REG-03,EMP-123
+POS-50320,2026-01-23 12:21:32,MEM-296,Paris - Champs-Elysees,FR,PROD-100,Sporting Goods,1,233.99,Cash,REG-01,EMP-104
+POS-50321,2025-10-16 04:14:38,MEM-202,London - Oxford St,UK,PROD-034,Books & Media,3,31.56,Cash,REG-03,EMP-108
+POS-50322,2025-12-19 02:48:53,,New York - 5th Ave,US,PROD-097,Apparel & Fashion,1,33.61,Cash,REG-04,EMP-129
+POS-50323,2025-10-05 20:31:12,,Berlin - Mitte,DE,PROD-003,Home & Living,3,52.29,Cash,REG-02,EMP-113
+POS-50324,2025-11-22 01:18:30,,Berlin - Mitte,DE,PROD-089,Books & Media,1,35.3,Contactless,REG-04,EMP-108
+POS-50325,2025-12-07 21:01:13,MEM-371,Mumbai - Bandra,IN,PROD-044,Books & Media,1,10.43,Cash,REG-02,EMP-118
+POS-50326,2026-06-11 21:33:42,,New York - 5th Ave,US,PROD-090,Sporting Goods,4,269.61,Card,REG-04,EMP-127
+POS-50327,2025-12-19 15:52:59,MEM-314,New York - 5th Ave,US,PROD-016,Consumer Electronics,4,235.55,Contactless,REG-03,EMP-124
+POS-50328,2026-09-03 00:37:45,MEM-271,London - Oxford St,UK,PROD-019,Books & Media,3,23.56,Cash,REG-04,EMP-111
+POS-50329,2025-10-24 22:59:51,MEM-370,Toronto - Downtown,CA,PROD-057,Apparel & Fashion,3,117.05,Contactless,REG-05,EMP-107
+POS-50330,2025-09-17 11:12:22,MEM-234,New York - 5th Ave,US,PROD-076,Consumer Electronics,2,206.57,Contactless,REG-05,EMP-129
+POS-50331,2026-04-09 08:21:18,MEM-308,Paris - Champs-Elysees,FR,PROD-014,Books & Media,3,33.21,Contactless,REG-02,EMP-123
+POS-50332,2026-06-12 11:10:35,,Mumbai - Bandra,IN,PROD-040,Sporting Goods,3,247.66,Card,REG-06,EMP-122
+POS-50333,2026-02-20 09:09:44,MEM-376,New York - 5th Ave,US,PROD-025,Sporting Goods,1,94.66,Card,REG-02,EMP-103
+POS-50334,2026-08-20 00:41:04,MEM-193,London - Oxford St,UK,PROD-007,Apparel & Fashion,2,76.26,Cash,REG-06,EMP-128
+POS-50335,2026-08-16 23:53:36,,London - Oxford St,UK,PROD-055,Sporting Goods,1,294.29,Contactless,REG-06,EMP-128
+POS-50336,2025-12-17 04:48:08,MEM-314,London - Oxford St,UK,PROD-098,Home & Living,4,126.81,Card,REG-06,EMP-120
+POS-50337,2026-09-07 12:45:28,,New York - 5th Ave,US,PROD-053,Home & Living,3,162.56,Card,REG-06,EMP-119
+POS-50338,2026-03-20 04:06:13,MEM-184,Toronto - Downtown,CA,PROD-032,Apparel & Fashion,3,117.2,Cash,REG-06,EMP-102
+POS-50339,2025-11-01 01:11:37,MEM-357,Mumbai - Bandra,IN,PROD-049,Books & Media,3,20.6,Card,REG-01,EMP-105
+POS-50340,2026-08-06 13:17:16,,London - Oxford St,XX,PROD-047,Apparel & Fashion,2,56.25,Card,REG-02,EMP-120
+POS-50341,2025-09-27 03:22:08,MEM-352,New York - 5th Ave,US,PROD-096,Consumer Electronics,4,270.6,Card,REG-06,EMP-118
+POS-50342,2026-08-24 00:40:14,,Berlin - Mitte,DE,PROD-044,Books & Media,1,17.33,Contactless,REG-01,EMP-117
+POS-50343,2026-05-09 11:13:15,,New York - 5th Ave,US,PROD-084,Books & Media,2,41.62,Cash,REG-01,EMP-101
+POS-50344,2026-05-06 17:46:51,MEM-180,London - Oxford St,UK,PROD-084,Books & Media,1,14.56,Cash,REG-06,EMP-110
+POS-50345,2025-12-02 09:05:15,MEM-152,Sydney - George St,AU,PROD-023,Home & Living,2,53.82,Cash,REG-04,EMP-101
+POS-50346,2026-07-20 16:31:43,MEM-277,New York - 5th Ave,US,PROD-087,Apparel & Fashion,2,56.44,Contactless,REG-03,EMP-121
+POS-50347,2025-11-07 03:25:16,,Paris - Champs-Elysees,FR,PROD-077,Apparel & Fashion,2,30.84,Card,REG-04,EMP-107
+POS-50348,2026-02-19 22:08:01,,Sydney - George St,AU,PROD-028,Home & Living,1,187.35,Contactless,REG-05,EMP-108
+POS-50349,2026-05-27 16:29:38,MEM-145,London - Oxford St,UK,PROD-047,Apparel & Fashion,3,96.69,Cash,REG-03,EMP-122
+POS-50350,2026-06-01 08:40:00,,Paris - Champs-Elysees,FR,PROD-054,Books & Media,1,9.58,Contactless,REG-06,EMP-125
+POS-50351,2026-06-10 09:47:01,MEM-382,Mumbai - Bandra,IN,PROD-033,Home & Living,1,185.92,Card,REG-03,EMP-127
+POS-50352,2025-09-18 13:32:30,,Mumbai - Bandra,IN,PROD-048,Home & Living,4,46.42,Cash,REG-01,EMP-128
+POS-50353,2026-09-08 23:57:36,MEM-167,Toronto - Downtown,CA,PROD-087,Apparel & Fashion,3,91.16,Contactless,REG-05,EMP-104
+POS-50354,2026-09-04 02:58:04,MEM-235,Berlin - Mitte,DE,PROD-048,Home & Living,3,129.14,Contactless,REG-06,EMP-107
+POS-50355,2025-09-15 15:11:57,,Paris - Champs-Elysees,FR,PROD-074,Books & Media,3,27.58,Contactless,REG-05,EMP-105
+POS-50356,2026-07-14 22:04:39,MEM-121,Paris - Champs-Elysees,FR,PROD-078,Home & Living,1,148.53,Cash,REG-05,EMP-103
+POS-50357,2026-03-25 12:09:20,,Sydney - George St,AU,PROD-089,Books & Media,1,9.42,Contactless,REG-02,EMP-116
+POS-50358,2026-09-07 02:14:50,,Berlin - Mitte,DE,PROD-037,Apparel & Fashion,4,59.93,Cash,REG-05,EMP-121
+POS-50359,2026-05-04 12:41:56,,London - Oxford St,UK,PROD-070,Sporting Goods,3,194.34,Card,REG-04,EMP-120
+POS-50360,2026-07-08 04:35:54,MEM-259,London - Oxford St,UK,PROD-074,Books & Media,2,22.61,Card,REG-02,EMP-115
+POS-50361,2026-06-17 03:24:52,MEM-177,Paris - Champs-Elysees,FR,PROD-026,Consumer Electronics,4,223.44,Cash,REG-04,EMP-128
+POS-50362,2025-10-02 07:06:26,,Sydney - George St,AU,PROD-017,Apparel & Fashion,3,48.82,Contactless,REG-06,EMP-130
+POS-50363,2026-04-23 07:08:33,,Sydney - George St,AU,PROD-034,Books & Media,2,12.86,Card,REG-03,EMP-108
+POS-50364,2026-02-01 12:51:15,,New York - 5th Ave,US,PROD-071,Consumer Electronics,-1,570.62,Cash,REG-06,EMP-126
+POS-50365,2026-08-05 11:00:30,,Berlin - Mitte,DE,PROD-043,Home & Living,1,61.61,Cash,REG-03,EMP-129
+POS-50001,2025-11-06 18:35:54,MEM-255,London - Oxford St,UK,PROD-066,Consumer Electronics,4,303.47,Card,REG-05,EMP-119
+POS-50367,2025-12-28 15:05:02,,Paris - Champs-Elysees,FR,PROD-042,Apparel & Fashion,4,79.6,Card,REG-01,EMP-123
+POS-50368,2026-02-23 17:44:31,MEM-161,Sydney - George St,AU,PROD-014,Books & Media,4,23.82,Card,REG-03,EMP-113
+POS-50369,2025-10-04 16:31:40,,London - Oxford St,UK,PROD-032,Apparel & Fashion,1,23.04,Cash,REG-01,EMP-122
+POS-50370,2025-11-01 06:14:56,MEM-393,Toronto - Downtown,CA,PROD-034,Books & Media,1,17.13,Cash,REG-04,EMP-125
+POS-50371,2025-10-31 10:39:41,MEM-285,New York - 5th Ave,US,PROD-001,Consumer Electronics,4,736.52,Contactless,REG-06,EMP-118
+POS-50372,2026-08-12 23:36:42,MEM-123,Sydney - George St,AU,PROD-051,Consumer Electronics,4,466.27,Contactless,REG-02,EMP-115
+POS-50373,2026-03-17 22:40:23,MEM-390,Toronto - Downtown,CA,PROD-043,Home & Living,2,136.56,Contactless,REG-03,EMP-102
+POS-50374,2026-06-19 18:57:49,,Toronto - Downtown,CA,PROD-093,Home & Living,2,239.02,Cash,REG-05,EMP-127
+POS-50375,2025-11-09 20:50:09,,Sydney - George St,AU,PROD-079,Books & Media,4,15.1,Card,REG-03,EMP-112
+POS-50376,2025-12-26 14:22:25,MEM-266,New York - 5th Ave,US,PROD-100,Sporting Goods,4,251.19,Cash,REG-01,EMP-128
+POS-50377,2026-08-01 17:30:38,MEM-126,New York - 5th Ave,US,PROD-030,Sporting Goods,1,160.88,Cash,REG-02,EMP-115
+POS-50378,2026-04-12 16:10:24,MEM-362,Paris - Champs-Elysees,FR,PROD-036,Consumer Electronics,3,520.26,Cash,REG-04,EMP-112
+POS-50379,2026-02-07 10:00:45,,Mumbai - Bandra,IN,PROD-019,Books & Media,1,14.73,Cash,REG-03,EMP-109
+POS-50380,2026-04-17 18:04:26,,Toronto - Downtown,CA,PROD-092,Apparel & Fashion,3,44.44,Contactless,REG-04,EMP-130
+POS-50381,2025-12-05 08:13:27,,Paris - Champs-Elysees,FR,PROD-087,Apparel & Fashion,2,80.25,Contactless,REG-06,EMP-115
+POS-50382,2026-02-10 10:29:53,MEM-371,Sydney - George St,AU,PROD-040,Sporting Goods,4,95.14,Contactless,REG-02,EMP-105
+POS-50383,2026-07-10 19:55:43,MEM-203,London - Oxford St,UK,PROD-099,Books & Media,3,37.92,Card,REG-05,EMP-124
+POS-50384,2025-10-01 07:28:22,MEM-340,Paris - Champs-Elysees,FR,PROD-053,Home & Living,2,181.42,Contactless,REG-05,EMP-109
+POS-50385,2026-04-02 10:36:17,MEM-115,Berlin - Mitte,XX,PROD-091,Consumer Electronics,1,281.14,Contactless,REG-05,EMP-122
+POS-50386,2026-02-06 15:58:06,,London - Oxford St,XX,PROD-006,Consumer Electronics,2,365.75,Cash,REG-05,EMP-129
+POS-50387,2026-09-07 07:52:00,MEM-363,New York - 5th Ave,US,PROD-081,Consumer Electronics,1,493.83,Contactless,REG-01,EMP-107
+POS-50388,2025-10-18 11:48:18,MEM-188,Berlin - Mitte,DE,PROD-088,Home & Living,1,117.61,Contactless,REG-01,EMP-126
+POS-50389,2026-08-21 15:50:31,MEM-146,Paris - Champs-Elysees,FR,PROD-069,Books & Media,1,43.29,Card,REG-05,EMP-104
+POS-50390,2025-10-15 03:22:53,MEM-218,New York - 5th Ave,US,PROD-018,Home & Living,3,110.35,Card,REG-05,EMP-122
+POS-50391,2026-02-03 04:21:29,MEM-145,Mumbai - Bandra,IN,PROD-035,Sporting Goods,2,206.43,Contactless,REG-02,EMP-128
+POS-50392,2025-11-25 12:02:09,MEM-346,London - Oxford St,UK,PROD-034,Books & Media,2,25.31,Contactless,REG-05,EMP-120
+POS-50001,2026-07-22 15:04:55,MEM-359,Berlin - Mitte,DE,PROD-078,Home & Living,2,207.14,Contactless,REG-02,EMP-118
+POS-50394,2026-08-04 23:14:46,MEM-315,London - Oxford St,UK,PROD-066,Consumer Electronics,3,126.85,Cash,REG-01,EMP-104
+POS-50395,2026-01-19 22:14:38,,Berlin - Mitte,DE,PROD-095,Sporting Goods,4,250.35,Cash,REG-01,EMP-103
+POS-50396,2026-01-10 16:55:38,,Berlin - Mitte,DE,PROD-067,Apparel & Fashion,4,72.2,Card,REG-02,EMP-112
+POS-50397,2026-05-14 21:27:28,MEM-107,London - Oxford St,UK,PROD-065,Sporting Goods,1,136.57,Card,REG-01,EMP-125
+POS-50398,2025-12-07 07:19:42,MEM-364,Sydney - George St,AU,PROD-090,Sporting Goods,4,88.21,Card,REG-03,EMP-128
+POS-50399,2026-05-07 02:58:36,MEM-210,Sydney - George St,AU,PROD-059,Books & Media,2,30.56,Card,REG-02,EMP-104
+POS-50400,2025-12-28 15:18:45,,Sydney - George St,AU,PROD-050,Sporting Goods,1,202.7,Card,REG-02,EMP-126
+POS-50401,2026-07-28 00:59:28,MEM-318,Sydney - George St,AU,PROD-078,Home & Living,2,178.99,Card,REG-05,EMP-119
+POS-50402,2026-03-04 07:56:56,,Sydney - George St,AU,PROD-087,Apparel & Fashion,3,100.1,Cash,REG-01,EMP-122
+POS-50403,2026-05-17 05:34:06,,Sydney - George St,AU,PROD-062,Apparel & Fashion,1,110.92,Card,REG-03,EMP-106
+POS-50404,2025-11-02 00:33:04,,Mumbai - Bandra,IN,PROD-015,Sporting Goods,2,41.68,Contactless,REG-01,EMP-102
+POS-50405,2025-10-13 14:51:23,MEM-127,Toronto - Downtown,CA,PROD-065,Sporting Goods,3,251.9,Cash,REG-05,EMP-126
+POS-50406,2026-02-10 02:42:36,MEM-113,Toronto - Downtown,CA,PROD-065,Sporting Goods,2,70.81,Contactless,REG-06,EMP-102
+POS-50407,2026-04-28 00:17:41,MEM-347,Toronto - Downtown,CA,PROD-087,Apparel & Fashion,2,114.29,Card,REG-04,EMP-121
+POS-50408,2025-12-13 03:17:31,MEM-381,Paris - Champs-Elysees,FR,PROD-056,Consumer Electronics,1,164.5,Cash,REG-03,EMP-130
+POS-50409,2026-05-01 06:59:45,,Toronto - Downtown,XX,PROD-013,Home & Living,2,69.41,Cash,REG-06,EMP-120
+POS-50410,2026-09-05 15:06:07,,New York - 5th Ave,US,PROD-033,Home & Living,1,206.56,Card,REG-05,EMP-106
+POS-50411,2026-03-10 09:38:08,,Paris - Champs-Elysees,FR,PROD-024,Books & Media,1,32.28,Contactless,REG-01,EMP-130
+POS-50412,2026-05-04 23:41:55,MEM-305,New York - 5th Ave,US,PROD-100,Sporting Goods,1,148.48,Card,REG-02,EMP-102
+POS-50413,2026-03-01 02:11:55,MEM-203,London - Oxford St,UK,PROD-045,Sporting Goods,1,247.43,Contactless,REG-01,EMP-124
+POS-50414,2026-08-18 19:34:18,,Berlin - Mitte,DE,PROD-081,Consumer Electronics,3,702.78,Contactless,REG-05,EMP-116
+POS-50415,2026-02-25 03:48:47,,London - Oxford St,UK,PROD-068,Home & Living,3,29.23,Card,REG-05,EMP-126
+POS-50416,2026-02-02 14:58:05,MEM-268,Sydney - George St,AU,PROD-087,Apparel & Fashion,2,72.39,Contactless,REG-03,EMP-103
+POS-50417,2026-01-06 14:17:06,,Sydney - George St,AU,PROD-090,Sporting Goods,4,213.69,Card,REG-02,EMP-104
+POS-50418,2026-06-19 13:00:11,MEM-211,Mumbai - Bandra,IN,PROD-009,Books & Media,4,38.47,Card,REG-03,EMP-109
+POS-50419,2025-10-02 08:40:25,MEM-101,Berlin - Mitte,DE,PROD-054,Books & Media,3,22.14,Card,REG-02,EMP-126
+POS-50420,2026-02-17 17:46:26,,Toronto - Downtown,CA,PROD-028,Home & Living,1,156.67,Card,REG-06,EMP-101
+POS-50421,2025-12-16 15:10:34,MEM-236,Berlin - Mitte,DE,PROD-039,Books & Media,4,44.44,Cash,REG-01,EMP-101
+POS-50422,2026-08-03 02:04:47,,Mumbai - Bandra,IN,PROD-028,Home & Living,3,183.57,Cash,REG-04,EMP-125
+POS-50423,2026-07-28 02:23:12,,New York - 5th Ave,US,PROD-055,Sporting Goods,3,63.29,Contactless,REG-05,EMP-106
+POS-50424,2026-05-07 06:33:41,,London - Oxford St,UK,PROD-042,Apparel & Fashion,4,92.28,Card,REG-03,EMP-124
+POS-50425,2026-06-25 06:55:27,MEM-241,Mumbai - Bandra,IN,PROD-019,Books & Media,4,37.79,Card,REG-06,EMP-129
+POS-50426,2026-05-16 17:56:17,MEM-343,Berlin - Mitte,DE,PROD-072,Apparel & Fashion,1,21.52,Cash,REG-05,EMP-122
+POS-50427,2026-04-24 21:38:17,,New York - 5th Ave,US,PROD-049,Books & Media,2,15.37,Contactless,REG-01,EMP-127
+POS-50428,2026-01-07 15:45:45,MEM-261,Paris - Champs-Elysees,FR,PROD-009,Books & Media,2,9.26,Contactless,REG-04,EMP-107
+POS-50429,2026-01-08 22:41:57,,New York - 5th Ave,US,PROD-076,Consumer Electronics,1,142.53,Cash,REG-06,EMP-101
+POS-50430,2025-12-10 10:09:26,,New York - 5th Ave,US,PROD-086,Consumer Electronics,-1,542.09,Card,REG-04,EMP-125
+POS-50431,2026-03-03 07:01:10,,Mumbai - Bandra,IN,PROD-027,Apparel & Fashion,2,74.73,Contactless,REG-03,EMP-127
+POS-50432,2026-03-14 14:32:12,,Toronto - Downtown,CA,PROD-009,Books & Media,4,36.11,Contactless,REG-03,EMP-119
+POS-50433,2025-11-23 09:40:58,MEM-362,Sydney - George St,AU,PROD-037,Apparel & Fashion,2,102.01,Card,REG-03,EMP-111
+POS-50434,2025-11-27 06:15:28,MEM-260,Toronto - Downtown,CA,PROD-038,Home & Living,3,36.51,Contactless,REG-03,EMP-123
+POS-50435,2026-05-23 00:25:55,,Berlin - Mitte,DE,PROD-086,Consumer Electronics,3,770.99,Cash,REG-02,EMP-123
+POS-50436,2026-03-01 21:36:54,MEM-280,London - Oxford St,UK,PROD-098,Home & Living,3,166.42,Contactless,REG-04,EMP-104
+POS-50437,2026-07-31 23:28:03,MEM-360,London - Oxford St,UK,PROD-065,Sporting Goods,2,79.75,Contactless,REG-04,EMP-123
+POS-50438,2026-01-16 18:33:25,,Paris - Champs-Elysees,FR,PROD-031,Consumer Electronics,3,425.16,Card,REG-03,EMP-114
+POS-50439,2026-07-07 07:05:29,MEM-166,New York - 5th Ave,US,PROD-053,Home & Living,3,160.12,Card,REG-03,EMP-130
+POS-50440,2026-05-03 17:38:41,MEM-193,Mumbai - Bandra,IN,PROD-016,Consumer Electronics,3,413.26,Contactless,REG-03,EMP-128
+POS-50441,2026-07-04 09:22:26,MEM-278,New York - 5th Ave,US,PROD-095,Sporting Goods,2,196.05,Cash,REG-06,EMP-107
+POS-50442,2026-03-13 22:21:31,MEM-237,New York - 5th Ave,US,PROD-012,Apparel & Fashion,3,31.94,Card,REG-06,EMP-122
+POS-50443,2026-07-27 03:12:28,,Mumbai - Bandra,IN,PROD-073,Home & Living,2,218.81,Card,REG-02,EMP-105
+POS-50444,2026-09-14 07:43:50,,Mumbai - Bandra,IN,PROD-067,Apparel & Fashion,3,18.59,Contactless,REG-01,EMP-118
+POS-50445,2026-02-13 19:03:18,MEM-104,Sydney - George St,AU,PROD-045,Sporting Goods,4,273.65,Card,REG-01,EMP-125
+POS-50446,2025-10-17 14:23:01,MEM-219,Toronto - Downtown,CA,PROD-022,Apparel & Fashion,1,101.82,Card,REG-06,EMP-122
+POS-50447,2026-03-27 04:35:35,,Berlin - Mitte,DE,PROD-027,Apparel & Fashion,4,31.7,Contactless,REG-05,EMP-111
+POS-50001,2025-11-20 18:30:03,MEM-367,Mumbai - Bandra,IN,PROD-054,Books & Media,4,23.53,Contactless,REG-01,EMP-126
+POS-50449,2026-01-28 02:03:55,MEM-320,Mumbai - Bandra,IN,PROD-093,Home & Living,4,83.29,Card,REG-03,EMP-125
+POS-50450,2025-10-24 04:49:07,MEM-341,Mumbai - Bandra,IN,PROD-065,Sporting Goods,4,143.99,Cash,REG-02,EMP-126
+POS-50451,2026-02-21 15:48:56,,Sydney - George St,AU,PROD-022,Apparel & Fashion,3,112.36,Card,REG-04,EMP-121
+POS-50452,2026-05-12 15:59:38,MEM-340,Mumbai - Bandra,IN,PROD-052,Apparel & Fashion,1,76.57,Cash,REG-01,EMP-128
+POS-50453,2026-03-30 06:24:53,,Mumbai - Bandra,IN,PROD-029,Books & Media,4,42.12,Card,REG-05,EMP-117
+POS-50454,2026-07-12 17:17:30,,London - Oxford St,UK,PROD-013,Home & Living,4,80.18,Card,REG-04,EMP-107
+POS-50455,2026-08-04 20:02:55,MEM-394,Paris - Champs-Elysees,FR,PROD-064,Books & Media,4,36.75,Contactless,REG-01,EMP-123
+POS-50456,2026-02-03 23:54:47,MEM-216,London - Oxford St,UK,PROD-021,Consumer Electronics,3,321.72,Cash,REG-03,EMP-112
+POS-50457,2026-01-26 22:43:20,MEM-288,London - Oxford St,UK,PROD-090,Sporting Goods,2,207.61,Contactless,REG-02,EMP-104
+POS-50458,2026-01-23 05:39:48,MEM-371,Toronto - Downtown,CA,PROD-100,Sporting Goods,1,30.2,Cash,REG-02,EMP-125
+POS-50459,2026-09-07 08:30:12,,Toronto - Downtown,CA,PROD-002,Apparel & Fashion,3,99.6,Contactless,REG-03,EMP-128
+POS-50460,2026-10-14 06:38:12,,Paris - Champs-Elysees,FR,PROD-088,Home & Living,4,138.42,Card,REG-05,EMP-127
+POS-50461,2026-04-01 16:06:59,MEM-175,New York - 5th Ave,US,PROD-046,Consumer Electronics,1,184.08,Contactless,REG-04,EMP-119
+POS-50462,2026-09-14 09:47:22,MEM-383,Berlin - Mitte,DE,PROD-068,Home & Living,2,204.3,Card,REG-03,EMP-102
+POS-50463,2026-09-14 11:50:08,MEM-335,Mumbai - Bandra,IN,PROD-053,Home & Living,3,169.73,Card,REG-04,EMP-105
+POS-50001,2026-08-12 19:50:38,MEM-303,Berlin - Mitte,DE,PROD-014,Books & Media,1,11.83,Card,REG-05,EMP-121
+POS-50465,2026-04-02 16:46:25,MEM-253,Mumbai - Bandra,IN,PROD-053,Home & Living,1,63.22,Card,REG-05,EMP-118
+POS-50466,2026-01-23 10:25:24,MEM-194,Toronto - Downtown,CA,PROD-082,Apparel & Fashion,3,104.88,Card,REG-01,EMP-102
+POS-50467,2026-07-16 16:18:13,MEM-216,Toronto - Downtown,CA,PROD-033,Home & Living,2,227.05,Cash,REG-05,EMP-102
+POS-50468,2026-03-05 22:01:55,,Sydney - George St,AU,PROD-003,Home & Living,2,67.88,Contactless,REG-06,EMP-114
+POS-50469,2026-03-01 08:31:50,MEM-144,Toronto - Downtown,CA,PROD-007,Apparel & Fashion,1,22.45,Contactless,REG-06,EMP-126
+POS-50470,2026-07-21 11:00:33,MEM-182,Sydney - George St,AU,PROD-007,Apparel & Fashion,1,101.95,Cash,REG-03,EMP-127
+POS-50471,2026-05-26 12:33:51,MEM-181,Mumbai - Bandra,IN,PROD-019,Books & Media,3,20.78,Cash,REG-01,EMP-129
+POS-50472,2026-05-25 23:05:34,,Paris - Champs-Elysees,FR,PROD-012,Apparel & Fashion,1,16.99,Cash,REG-02,EMP-123
+POS-50473,2026-05-20 06:22:21,MEM-141,Toronto - Downtown,CA,PROD-079,Books & Media,2,15.15,Cash,REG-04,EMP-118
+POS-50474,2026-10-14 06:38:12,MEM-340,Mumbai - Bandra,IN,PROD-049,Books & Media,2,29.81,Card,REG-03,EMP-111
+POS-50475,2025-11-03 16:30:16,,New York - 5th Ave,US,PROD-015,Sporting Goods,4,44.44,Contactless,REG-04,EMP-105
+POS-50476,2025-12-08 08:59:28,,London - Oxford St,UK,PROD-037,Apparel & Fashion,4,25.73,Cash,REG-01,EMP-113
+POS-50477,2026-07-12 07:29:03,,Berlin - Mitte,DE,PROD-016,Consumer Electronics,4,700.21,Contactless,REG-05,EMP-109
+POS-50478,2026-03-19 08:12:34,,New York - 5th Ave,US,PROD-090,Sporting Goods,3,109.26,Contactless,REG-06,EMP-130
+POS-50479,2026-08-17 10:05:33,MEM-369,Berlin - Mitte,DE,PROD-077,Apparel & Fashion,2,88.59,Contactless,REG-01,EMP-112
+POS-50480,2026-06-12 00:23:16,,New York - 5th Ave,US,PROD-045,Sporting Goods,4,36.83,Cash,REG-04,EMP-129
+POS-50481,2026-04-11 06:08:01,,Paris - Champs-Elysees,FR,PROD-061,Consumer Electronics,1,76.76,Contactless,REG-01,EMP-116
+POS-50482,2026-08-22 20:41:52,MEM-207,London - Oxford St,UK,PROD-038,Home & Living,3,199.1,Cash,REG-02,EMP-108
+POS-50483,2026-06-02 19:19:36,,Mumbai - Bandra,IN,PROD-054,Books & Media,4,15.13,Card,REG-04,EMP-127
+POS-50484,2026-01-20 14:19:46,MEM-152,London - Oxford St,UK,PROD-052,Apparel & Fashion,1,0.0,Contactless,REG-01,EMP-101
+POS-50485,2025-09-22 13:57:12,,Mumbai - Bandra,IN,PROD-045,Sporting Goods,4,77.51,Contactless,REG-01,EMP-127
+POS-50486,2025-09-21 07:18:42,MEM-280,Sydney - George St,AU,PROD-059,Books & Media,4,24.82,Cash,REG-03,EMP-122
+POS-50487,2026-02-24 13:20:24,MEM-354,Berlin - Mitte,DE,PROD-063,Home & Living,3,173.49,Card,REG-06,EMP-112
+POS-50488,2026-06-08 01:36:24,MEM-296,London - Oxford St,UK,PROD-023,Home & Living,1,97.18,Cash,REG-04,EMP-117
+POS-50489,2025-11-23 14:06:23,,Toronto - Downtown,CA,PROD-084,Books & Media,2,23.02,Card,REG-04,EMP-130
+POS-50490,2026-03-23 22:44:43,MEM-161,Toronto - Downtown,CA,PROD-015,Sporting Goods,3,109.04,Contactless,REG-03,EMP-127
+POS-50491,2026-05-22 01:59:28,,Berlin - Mitte,DE,PROD-097,Apparel & Fashion,4,79.9,Contactless,REG-05,EMP-117
+POS-50492,2026-01-09 16:31:37,,New York - 5th Ave,US,PROD-083,Home & Living,2,166.24,Card,REG-01,EMP-117
+POS-50493,2025-12-10 05:47:58,MEM-104,Paris - Champs-Elysees,FR,PROD-037,Apparel & Fashion,2,112.68,Contactless,REG-04,EMP-109
+POS-50494,2026-04-28 09:09:12,MEM-102,London - Oxford St,UK,PROD-068,Home & Living,1,83.12,Cash,REG-01,EMP-106
+POS-50495,2026-08-22 12:48:33,MEM-218,Sydney - George St,AU,PROD-050,Sporting Goods,3,297.83,Card,REG-04,EMP-106
+POS-50496,2025-12-10 09:02:54,MEM-286,London - Oxford St,UK,PROD-017,Apparel & Fashion,1,110.47,Contactless,REG-01,EMP-123
+POS-50497,2026-04-17 15:44:35,MEM-254,Sydney - George St,AU,PROD-004,Books & Media,2,9.47,Contactless,REG-06,EMP-113
+POS-50498,2026-04-30 09:46:56,MEM-199,Paris - Champs-Elysees,FR,PROD-032,Apparel & Fashion,2,24.04,Card,REG-01,EMP-128
+POS-50499,2026-03-02 07:54:45,MEM-121,Berlin - Mitte,DE,PROD-002,Apparel & Fashion,3,43.23,Card,REG-04,EMP-104
+POS-50500,2026-07-01 01:57:07,,Berlin - Mitte,DE,PROD-029,Books & Media,3,35.3,Card,REG-01,EMP-117
+POS-50501,2025-12-06 10:10:29,,London - Oxford St,UK,PROD-012,Apparel & Fashion,1,118.35,Card,REG-02,EMP-108
+POS-50502,2026-08-21 13:00:57,,London - Oxford St,UK,PROD-065,Sporting Goods,3,138.33,Contactless,REG-04,EMP-103
+POS-50503,2026-04-04 04:56:18,MEM-228,Paris - Champs-Elysees,FR,PROD-055,Sporting Goods,3,292.82,Card,REG-03,EMP-112
+POS-50504,2025-10-26 08:11:51,MEM-100,Mumbai - Bandra,IN,PROD-053,Home & Living,3,139.24,Cash,REG-06,EMP-124
+POS-50505,2025-12-23 08:54:04,MEM-325,Sydney - George St,AU,PROD-067,Apparel & Fashion,1,27.47,Contactless,REG-05,EMP-128
+POS-50506,2026-06-09 05:50:16,MEM-324,Berlin - Mitte,DE,PROD-076,Consumer Electronics,2,522.2,Card,REG-01,EMP-115
+POS-50507,2025-12-14 00:47:38,,New York - 5th Ave,US,PROD-004,Books & Media,4,16.98,Contactless,REG-05,EMP-130
+POS-50508,2026-08-02 14:20:37,,London - Oxford St,UK,PROD-097,Apparel & Fashion,1,23.11,Cash,REG-06,EMP-123
+POS-50509,2025-09-16 07:37:52,,Paris - Champs-Elysees,FR,PROD-089,Books & Media,1,34.11,Contactless,REG-03,EMP-105
+POS-50510,2026-08-17 00:59:54,MEM-304,London - Oxford St,UK,PROD-084,Books & Media,2,32.31,Card,REG-02,EMP-108
+POS-50511,2026-04-04 10:41:09,MEM-323,New York - 5th Ave,US,PROD-078,Home & Living,3,206.81,Card,REG-06,EMP-128
+POS-50512,2026-03-01 20:30:02,MEM-212,London - Oxford St,UK,PROD-047,Apparel & Fashion,1,32.76,Card,REG-06,EMP-106
+POS-50513,2026-07-12 07:10:41,,Berlin - Mitte,DE,PROD-025,Sporting Goods,1,163.98,Cash,REG-05,EMP-115
+POS-50514,2026-05-22 15:17:27,MEM-163,Berlin - Mitte,DE,PROD-034,Books & Media,2,28.83,Card,REG-02,EMP-119
+POS-50515,2025-10-20 23:22:17,MEM-172,Paris - Champs-Elysees,FR,PROD-018,Home & Living,3,107.24,Card,REG-03,EMP-115
+POS-50516,2026-07-19 16:54:13,,Berlin - Mitte,DE,PROD-035,Sporting Goods,1,132.17,Card,REG-01,EMP-109
+POS-50517,2026-08-15 09:50:02,MEM-259,New York - 5th Ave,US,PROD-071,Consumer Electronics,2,155.98,Cash,REG-03,EMP-111
+POS-50518,2025-09-19 21:48:46,,Toronto - Downtown,CA,PROD-023,Home & Living,3,181.0,Card,REG-02,EMP-124
+POS-50519,2025-11-18 17:10:23,MEM-190,Toronto - Downtown,CA,PROD-080,Sporting Goods,3,256.1,Card,REG-02,EMP-127
+POS-50520,2026-04-18 09:54:21,MEM-216,Berlin - Mitte,DE,PROD-073,Home & Living,1,73.97,Contactless,REG-05,EMP-128
+POS-50521,2026-05-26 07:17:44,MEM-236,New York - 5th Ave,US,PROD-056,Consumer Electronics,2,685.0,Cash,REG-02,EMP-105
+POS-50522,2026-02-07 23:10:02,,Mumbai - Bandra,IN,PROD-005,Sporting Goods,1,72.85,Cash,REG-02,EMP-111
+POS-50523,2026-08-07 03:05:17,,London - Oxford St,UK,PROD-012,Apparel & Fashion,4,101.6,Card,REG-02,EMP-117
+POS-50524,2026-04-03 02:37:08,MEM-349,Toronto - Downtown,CA,PROD-092,Apparel & Fashion,3,87.58,Cash,REG-01,EMP-109
+POS-50525,2026-02-10 06:50:32,,London - Oxford St,UK,PROD-008,Home & Living,1,192.3,Cash,REG-05,EMP-106
+POS-50526,2026-05-24 20:30:41,MEM-223,Berlin - Mitte,DE,PROD-053,Home & Living,-2,71.19,Cash,REG-05,EMP-111
+POS-50527,2025-11-12 03:19:49,MEM-172,Paris - Champs-Elysees,FR,PROD-029,Books & Media,2,38.04,Cash,REG-05,EMP-114
+POS-50528,2026-09-10 02:44:18,,Berlin - Mitte,DE,PROD-020,Sporting Goods,3,102.44,Contactless,REG-06,EMP-127
+POS-50529,2025-09-28 09:09:25,MEM-212,London - Oxford St,UK,PROD-086,Consumer Electronics,4,601.26,Cash,REG-01,EMP-108
+POS-50530,2026-03-26 04:00:20,,Toronto - Downtown,CA,PROD-049,Books & Media,2,16.37,Card,REG-04,EMP-127
+POS-50531,2026-02-19 06:25:07,MEM-303,Berlin - Mitte,DE,PROD-056,Consumer Electronics,2,653.77,Card,REG-05,EMP-119
+POS-50532,2025-10-07 20:50:18,MEM-352,Mumbai - Bandra,IN,PROD-068,Home & Living,4,105.31,Cash,REG-05,EMP-115
+POS-50533,2026-01-26 12:20:59,,Toronto - Downtown,CA,PROD-031,Consumer Electronics,3,558.86,Cash,REG-04,EMP-126
+POS-50534,2026-04-17 20:19:30,MEM-353,Mumbai - Bandra,IN,PROD-031,Consumer Electronics,4,529.85,Cash,REG-06,EMP-119
+POS-50535,2026-01-17 06:31:21,MEM-202,Berlin - Mitte,DE,PROD-093,Home & Living,3,35.91,Card,REG-02,EMP-128
+POS-50536,2026-07-06 23:57:00,,New York - 5th Ave,US,PROD-053,Home & Living,3,39.68,Card,REG-02,EMP-108
+POS-50537,2026-06-26 13:32:38,,Toronto - Downtown,CA,PROD-097,Apparel & Fashion,3,108.2,Cash,REG-06,EMP-109
+POS-50538,2026-08-16 22:00:55,MEM-158,Sydney - George St,AU,PROD-059,Books & Media,1,30.27,Cash,REG-02,EMP-130
+POS-50539,2025-11-16 11:28:35,MEM-360,Toronto - Downtown,CA,PROD-085,Sporting Goods,2,191.06,Card,REG-03,EMP-123
+POS-50540,2025-10-27 14:15:33,MEM-137,London - Oxford St,UK,PROD-011,Consumer Electronics,2,326.55,Contactless,REG-02,EMP-107
+POS-50541,2025-10-07 11:16:04,MEM-161,Berlin - Mitte,DE,PROD-082,Apparel & Fashion,4,90.25,Card,REG-01,EMP-106
+POS-50542,2026-07-14 13:23:46,,Toronto - Downtown,CA,PROD-033,Home & Living,2,41.88,Contactless,REG-06,EMP-126
+POS-50543,2026-01-01 22:40:58,,New York - 5th Ave,US,PROD-061,Consumer Electronics,3,277.46,Contactless,REG-02,EMP-125
+POS-50544,2026-01-23 01:35:17,,Berlin - Mitte,DE,PROD-030,Sporting Goods,1,73.14,Cash,REG-03,EMP-130
+POS-50545,2025-09-21 20:47:51,MEM-180,Sydney - George St,AU,PROD-084,Books & Media,4,30.59,Cash,REG-06,EMP-128
+POS-50546,2026-01-21 03:45:20,MEM-363,Toronto - Downtown,CA,PROD-010,Sporting Goods,4,272.76,Contactless,REG-03,EMP-113
+POS-50547,2026-08-14 18:11:24,,Toronto - Downtown,CA,PROD-082,Apparel & Fashion,3,78.28,Contactless,REG-03,EMP-111
+POS-50548,2026-01-24 16:46:21,,Paris - Champs-Elysees,FR,PROD-053,Home & Living,4,36.01,Card,REG-05,EMP-113
+POS-50549,2025-11-06 22:19:16,MEM-185,Berlin - Mitte,DE,PROD-010,Sporting Goods,4,44.2,Card,REG-03,EMP-108
+POS-50550,2026-06-14 07:50:28,MEM-117,Paris - Champs-Elysees,FR,PROD-062,Apparel & Fashion,3,98.2,Contactless,REG-01,EMP-126
+POS-50551,2025-11-24 14:27:17,MEM-210,New York - 5th Ave,US,PROD-015,Sporting Goods,1,293.88,Contactless,REG-05,EMP-114
+POS-50552,2025-12-01 16:41:37,MEM-367,Berlin - Mitte,DE,PROD-039,Books & Media,3,27.3,Cash,REG-03,EMP-111
+POS-50553,2026-05-02 08:23:01,MEM-324,New York - 5th Ave,US,PROD-050,Sporting Goods,3,60.26,Cash,REG-01,EMP-106
+POS-50554,2026-04-10 22:27:45,,Sydney - George St,AU,PROD-018,Home & Living,4,114.05,Card,REG-01,EMP-128
+POS-50555,2026-06-07 10:14:58,,Mumbai - Bandra,IN,PROD-061,Consumer Electronics,1,349.18,Cash,REG-02,EMP-113
+POS-50556,2026-05-02 18:43:56,MEM-353,Toronto - Downtown,CA,PROD-069,Books & Media,3,27.38,Card,REG-05,EMP-130
+POS-50557,2026-04-05 02:12:09,,Mumbai - Bandra,IN,PROD-027,Apparel & Fashion,1,78.65,Cash,REG-02,EMP-128
+POS-50558,2025-10-13 04:05:40,,Toronto - Downtown,CA,PROD-096,Consumer Electronics,4,635.55,Cash,REG-05,EMP-125
+POS-50559,2026-09-09 15:28:07,,Mumbai - Bandra,IN,PROD-044,Books & Media,2,28.43,Card,REG-01,EMP-118
+POS-50560,2026-06-19 15:10:48,,New York - 5th Ave,US,PROD-034,Books & Media,3,21.52,Card,REG-06,EMP-115
+POS-50561,2026-07-24 08:18:35,,Toronto - Downtown,CA,PROD-026,Consumer Electronics,2,468.52,Cash,REG-06,EMP-106
+POS-50562,2026-01-20 22:01:02,MEM-357,Berlin - Mitte,DE,PROD-078,Home & Living,4,30.88,Cash,REG-01,EMP-129
+POS-50563,2025-10-04 14:00:04,MEM-197,Sydney - George St,AU,PROD-073,Home & Living,2,72.17,Card,REG-01,EMP-123
+POS-50564,2026-10-09 06:38:12,MEM-174,London - Oxford St,UK,PROD-045,Sporting Goods,3,60.41,Contactless,REG-01,EMP-120
+POS-50565,2026-01-07 21:55:09,,Paris - Champs-Elysees,FR,PROD-066,Consumer Electronics,1,640.34,Contactless,REG-02,EMP-101
+POS-50566,2026-03-27 19:43:56,MEM-264,Sydney - George St,AU,PROD-094,Books & Media,2,12.09,Card,REG-05,EMP-124
+POS-50001,2026-05-05 23:08:33,MEM-347,London - Oxford St,UK,PROD-089,Books & Media,3,30.44,Cash,REG-04,EMP-103
+POS-50568,2026-08-11 13:52:17,MEM-139,Berlin - Mitte,DE,PROD-011,Consumer Electronics,3,309.94,Contactless,REG-04,EMP-113
+POS-50569,2025-10-12 03:37:49,MEM-183,Sydney - George St,AU,PROD-054,Books & Media,2,31.52,Cash,REG-02,EMP-124
+POS-50570,2026-01-01 08:57:45,MEM-117,Sydney - George St,AU,PROD-096,Consumer Electronics,3,123.2,Contactless,REG-04,EMP-127
+POS-50571,2026-05-02 11:53:58,MEM-161,New York - 5th Ave,US,PROD-093,Home & Living,3,154.2,Contactless,REG-06,EMP-127
+POS-50572,2026-08-04 10:32:18,MEM-341,Paris - Champs-Elysees,FR,PROD-010,Sporting Goods,1,124.47,Card,REG-01,EMP-112
+POS-50573,2025-10-11 04:13:14,MEM-124,Toronto - Downtown,CA,PROD-073,Home & Living,1,117.59,Contactless,REG-01,EMP-119
+POS-50574,2026-06-04 21:36:32,MEM-373,New York - 5th Ave,US,PROD-071,Consumer Electronics,2,668.5,Cash,REG-01,EMP-115
+POS-50575,2025-11-18 20:51:42,MEM-129,Toronto - Downtown,CA,PROD-084,Books & Media,3,33.99,Cash,REG-06,EMP-128
+POS-50576,2026-04-25 07:28:09,MEM-158,Paris - Champs-Elysees,XX,PROD-065,Sporting Goods,2,40.11,Contactless,REG-04,EMP-110
+POS-50577,2026-01-07 08:45:40,MEM-395,Berlin - Mitte,DE,PROD-094,Books & Media,4,28.6,Card,REG-02,EMP-122
+POS-50578,2025-12-16 17:20:05,MEM-165,London - Oxford St,UK,PROD-023,Home & Living,1,41.6,Contactless,REG-05,EMP-122
+POS-50579,2026-06-19 13:47:50,,Paris - Champs-Elysees,FR,PROD-035,Sporting Goods,4,106.07,Card,REG-04,EMP-130
+POS-50580,2026-02-27 09:43:04,,Toronto - Downtown,CA,PROD-053,Home & Living,3,87.73,Cash,REG-03,EMP-118
+POS-50581,2025-09-24 23:24:55,MEM-162,London - Oxford St,UK,PROD-071,Consumer Electronics,2,209.94,Contactless,REG-05,EMP-104
+POS-50582,2026-02-25 12:54:43,MEM-398,New York - 5th Ave,US,PROD-005,Sporting Goods,2,269.52,Contactless,REG-02,EMP-127
+POS-50583,2026-03-24 08:06:39,,Berlin - Mitte,DE,PROD-031,Consumer Electronics,1,558.68,Cash,REG-05,EMP-103
+POS-50584,2026-02-06 07:39:24,MEM-139,London - Oxford St,UK,PROD-040,Sporting Goods,1,55.54,Contactless,REG-02,EMP-118
+POS-50585,2026-03-22 18:56:25,MEM-225,Mumbai - Bandra,IN,PROD-049,Books & Media,2,22.29,Card,REG-06,EMP-106
+POS-50586,2026-03-08 21:28:09,,Sydney - George St,AU,PROD-003,Home & Living,3,0.0,Card,REG-04,EMP-117
+POS-50587,2025-09-25 13:59:50,MEM-278,New York - 5th Ave,US,PROD-069,Books & Media,2,10.86,Contactless,REG-05,EMP-111
+POS-50588,2026-05-24 10:22:30,,Berlin - Mitte,DE,PROD-072,Apparel & Fashion,1,73.41,Card,REG-03,EMP-110
+POS-50589,2026-06-18 20:07:20,MEM-293,Berlin - Mitte,DE,PROD-060,Sporting Goods,2,179.73,Card,REG-01,EMP-126
+POS-50590,2026-08-27 18:41:51,MEM-372,New York - 5th Ave,US,PROD-078,Home & Living,1,0.0,Contactless,REG-05,EMP-113
+POS-50591,2026-05-18 07:21:48,,Paris - Champs-Elysees,FR,PROD-068,Home & Living,3,38.75,Cash,REG-04,EMP-125
+POS-50592,2026-08-31 00:49:40,,London - Oxford St,UK,PROD-062,Apparel & Fashion,1,21.79,Cash,REG-01,EMP-112
+POS-50593,2026-05-12 10:47:57,MEM-115,New York - 5th Ave,US,PROD-063,Home & Living,4,182.63,Contactless,REG-05,EMP-125
+POS-50594,2025-12-26 13:32:56,,New York - 5th Ave,US,PROD-062,Apparel & Fashion,2,82.11,Card,REG-04,EMP-129
+POS-50001,2025-11-04 13:44:49,MEM-249,London - Oxford St,UK,PROD-014,Books & Media,4,40.05,Cash,REG-04,EMP-107
+POS-50596,2026-07-30 18:27:56,MEM-384,Sydney - George St,AU,PROD-077,Apparel & Fashion,1,95.3,Card,REG-01,EMP-103
+POS-50597,2025-11-04 19:26:33,MEM-200,London - Oxford St,UK,PROD-040,Sporting Goods,3,248.84,Card,REG-01,EMP-105
+POS-50598,2026-07-04 03:59:13,MEM-120,Toronto - Downtown,CA,PROD-089,Books & Media,2,23.62,Contactless,REG-02,EMP-122
+POS-50599,2025-10-28 07:46:27,,New York - 5th Ave,US,PROD-066,Consumer Electronics,1,360.32,Card,REG-02,EMP-105
+POS-50600,2026-01-17 21:17:56,,Paris - Champs-Elysees,FR,PROD-064,Books & Media,3,8.08,Card,REG-01,EMP-112
+POS-50601,2026-01-21 17:26:37,,Sydney - George St,AU,PROD-085,Sporting Goods,3,85.88,Contactless,REG-01,EMP-130
+POS-50602,2025-10-11 21:17:17,MEM-287,Berlin - Mitte,DE,PROD-091,Consumer Electronics,4,130.81,Card,REG-03,EMP-115
+POS-50603,2025-10-03 13:17:14,,Sydney - George St,AU,PROD-046,Consumer Electronics,4,191.6,Cash,REG-04,EMP-128
+POS-50604,2026-08-28 09:47:03,MEM-377,London - Oxford St,UK,PROD-093,Home & Living,2,159.31,Cash,REG-01,EMP-125
+POS-50605,2026-03-13 12:27:57,,Sydney - George St,AU,PROD-050,Sporting Goods,1,165.56,Card,REG-04,EMP-110
+POS-50606,2026-06-22 07:02:57,MEM-160,New York - 5th Ave,US,PROD-038,Home & Living,2,105.94,Cash,REG-05,EMP-125
+POS-50607,2026-01-12 22:46:16,,Mumbai - Bandra,IN,PROD-023,Home & Living,3,93.99,Contactless,REG-06,EMP-114
+POS-50608,2025-11-02 16:44:06,MEM-372,New York - 5th Ave,US,PROD-025,Sporting Goods,3,118.16,Cash,REG-05,EMP-120
+POS-50609,2025-12-17 17:22:02,,New York - 5th Ave,XX,PROD-022,Apparel & Fashion,2,29.96,Card,REG-05,EMP-109
+POS-50610,2026-04-02 13:16:03,,Sydney - George St,AU,PROD-099,Books & Media,2,32.64,Contactless,REG-05,EMP-122
+POS-50611,2026-06-27 06:50:32,MEM-224,New York - 5th Ave,US,PROD-056,Consumer Electronics,1,586.11,Cash,REG-03,EMP-116
+POS-50612,2026-06-04 06:37:08,,Mumbai - Bandra,IN,PROD-027,Apparel & Fashion,2,55.73,Card,REG-06,EMP-127
+POS-50613,2026-03-28 20:56:04,MEM-150,New York - 5th Ave,US,PROD-055,Sporting Goods,2,151.04,Contactless,REG-03,EMP-104
+POS-50614,2026-04-16 21:20:32,MEM-291,Toronto - Downtown,CA,PROD-051,Consumer Electronics,4,754.85,Contactless,REG-02,EMP-109
+POS-50615,2026-08-01 16:52:33,,Berlin - Mitte,DE,PROD-096,Consumer Electronics,2,623.85,Cash,REG-05,EMP-130
+POS-50616,2026-08-22 18:46:18,,London - Oxford St,UK,PROD-019,Books & Media,2,27.99,Contactless,REG-03,EMP-121
+POS-50617,2026-01-22 05:54:27,MEM-373,Mumbai - Bandra,IN,PROD-044,Books & Media,4,42.65,Cash,REG-04,EMP-120
+POS-50618,2026-05-04 16:29:57,MEM-169,New York - 5th Ave,US,PROD-009,Books & Media,1,15.95,Contactless,REG-01,EMP-122
+POS-50619,2026-05-13 18:00:16,,New York - 5th Ave,XX,PROD-086,Consumer Electronics,1,468.38,Cash,REG-06,EMP-106
+POS-50620,2026-08-11 03:00:08,,London - Oxford St,UK,PROD-029,Books & Media,3,16.22,Card,REG-06,EMP-124
+POS-50621,2025-12-12 08:17:11,MEM-267,Berlin - Mitte,DE,PROD-082,Apparel & Fashion,4,72.34,Card,REG-05,EMP-101
+POS-50622,2026-06-22 12:20:27,,Berlin - Mitte,DE,PROD-068,Home & Living,3,84.73,Contactless,REG-01,EMP-105
+POS-50623,2026-06-09 05:30:37,,Sydney - George St,XX,PROD-039,Books & Media,3,40.45,Cash,REG-01,EMP-106
+POS-50624,2026-03-30 13:29:01,MEM-206,Berlin - Mitte,DE,PROD-006,Consumer Electronics,3,289.47,Card,REG-05,EMP-118
+POS-50625,2026-01-17 12:35:08,,New York - 5th Ave,US,PROD-025,Sporting Goods,3,126.77,Card,REG-04,EMP-121
+POS-50626,2026-08-10 14:28:09,MEM-367,Toronto - Downtown,CA,PROD-046,Consumer Electronics,2,357.19,Contactless,REG-03,EMP-110
+POS-50627,2025-10-08 04:49:45,,Berlin - Mitte,DE,PROD-084,Books & Media,4,9.59,Card,REG-04,EMP-109
+POS-50628,2025-10-10 10:54:14,MEM-361,London - Oxford St,UK,PROD-051,Consumer Electronics,1,314.38,Contactless,REG-03,EMP-120
+POS-50629,2026-01-04 16:41:50,,Toronto - Downtown,CA,PROD-007,Apparel & Fashion,4,26.8,Card,REG-05,EMP-105
+POS-50630,2026-04-04 02:53:53,MEM-362,Berlin - Mitte,DE,PROD-091,Consumer Electronics,3,735.55,Cash,REG-04,EMP-115
+POS-50631,2025-12-11 09:58:33,,Toronto - Downtown,CA,PROD-066,Consumer Electronics,4,568.9,Cash,REG-01,EMP-105
+POS-50632,2025-10-13 03:07:14,,London - Oxford St,UK,PROD-063,Home & Living,1,143.98,Card,REG-01,EMP-118
+POS-50633,2026-02-23 01:13:57,MEM-323,London - Oxford St,UK,PROD-059,Books & Media,3,14.1,Cash,REG-02,EMP-110
+POS-50634,2026-03-28 01:32:21,MEM-300,London - Oxford St,UK,PROD-066,Consumer Electronics,3,180.22,Contactless,REG-05,EMP-108
+POS-50635,2026-05-19 19:46:25,MEM-195,New York - 5th Ave,US,PROD-005,Sporting Goods,1,85.94,Cash,REG-05,EMP-119
+POS-50636,2025-10-24 22:33:10,MEM-291,Paris - Champs-Elysees,FR,PROD-015,Sporting Goods,4,176.37,Cash,REG-02,EMP-118
+POS-50637,2025-11-03 12:15:10,,Mumbai - Bandra,IN,PROD-082,Apparel & Fashion,1,62.29,Cash,REG-04,EMP-115
+POS-50638,2026-09-02 14:40:48,MEM-168,London - Oxford St,UK,PROD-093,Home & Living,-1,100.16,Contactless,REG-06,EMP-116
+POS-50639,2025-12-23 19:21:22,MEM-202,London - Oxford St,UK,PROD-096,Consumer Electronics,1,194.86,Cash,REG-02,EMP-125
+POS-50640,2026-04-11 23:05:22,MEM-139,London - Oxford St,UK,PROD-099,Books & Media,4,15.78,Cash,REG-04,EMP-126
+POS-50641,2026-07-21 11:27:37,MEM-362,Toronto - Downtown,CA,PROD-083,Home & Living,4,145.53,Card,REG-06,EMP-106
+POS-50642,2026-04-30 20:46:12,,Paris - Champs-Elysees,FR,PROD-094,Books & Media,4,28.94,Contactless,REG-04,EMP-123
+POS-50643,2026-09-06 12:14:38,,Berlin - Mitte,DE,PROD-005,Sporting Goods,4,182.18,Cash,REG-04,EMP-117
+POS-50644,2026-05-23 07:26:08,MEM-339,New York - 5th Ave,US,PROD-004,Books & Media,1,34.25,Cash,REG-02,EMP-116
+POS-50645,2026-08-14 14:08:44,MEM-312,New York - 5th Ave,US,PROD-021,Consumer Electronics,1,415.27,Cash,REG-05,EMP-115
+POS-50646,2026-07-07 12:58:49,MEM-151,Paris - Champs-Elysees,FR,PROD-051,Consumer Electronics,2,88.4,Contactless,REG-06,EMP-129
+POS-50647,2026-02-16 15:54:00,,Toronto - Downtown,CA,PROD-059,Books & Media,3,34.64,Cash,REG-01,EMP-126
+POS-50648,2026-03-30 03:42:41,MEM-179,Toronto - Downtown,CA,PROD-049,Books & Media,3,39.15,Card,REG-01,EMP-107
+POS-50649,2026-02-04 04:11:39,MEM-341,Berlin - Mitte,DE,PROD-076,Consumer Electronics,2,254.49,Cash,REG-01,EMP-122
+POS-50650,2026-05-28 06:25:43,MEM-277,Mumbai - Bandra,IN,PROD-097,Apparel & Fashion,3,50.24,Cash,REG-03,EMP-116
+POS-50651,2025-12-18 06:15:05,,Berlin - Mitte,DE,PROD-038,Home & Living,2,243.15,Contactless,REG-01,EMP-122
+POS-50652,2025-11-08 22:34:25,,Berlin - Mitte,DE,PROD-046,Consumer Electronics,3,51.91,Card,REG-01,EMP-103
+POS-50653,2026-08-01 17:48:48,,Mumbai - Bandra,IN,PROD-059,Books & Media,3,34.07,Contactless,REG-01,EMP-114
+POS-50654,2025-09-30 18:11:29,,Mumbai - Bandra,IN,PROD-089,Books & Media,4,43.06,Cash,REG-06,EMP-109
+POS-50655,2026-08-26 23:34:52,MEM-155,Sydney - George St,AU,PROD-057,Apparel & Fashion,2,64.49,Cash,REG-01,EMP-111
+POS-50656,2026-01-04 00:34:21,MEM-324,Berlin - Mitte,DE,PROD-022,Apparel & Fashion,4,41.8,Card,REG-03,EMP-112
+POS-50657,2026-08-03 19:04:27,,Sydney - George St,AU,PROD-082,Apparel & Fashion,2,33.51,Contactless,REG-03,EMP-115
+POS-50658,2026-03-22 13:49:56,,Toronto - Downtown,CA,PROD-033,Home & Living,1,41.42,Contactless,REG-04,EMP-120
+POS-50659,2026-03-04 11:26:18,MEM-148,London - Oxford St,UK,PROD-076,Consumer Electronics,1,417.63,Contactless,REG-05,EMP-110
+POS-50660,2025-11-28 22:19:05,,London - Oxford St,UK,PROD-002,Apparel & Fashion,3,62.26,Card,REG-03,EMP-123
+POS-50661,2026-03-29 10:41:08,MEM-238,Sydney - George St,AU,PROD-057,Apparel & Fashion,2,93.66,Cash,REG-06,EMP-129
+POS-50662,2026-04-09 02:16:11,MEM-264,New York - 5th Ave,US,PROD-035,Sporting Goods,2,113.08,Card,REG-03,EMP-123
+POS-50663,2025-11-05 22:46:22,MEM-283,Sydney - George St,AU,PROD-089,Books & Media,3,43.2,Cash,REG-02,EMP-116
+POS-50664,2025-10-24 02:33:55,,Berlin - Mitte,DE,PROD-091,Consumer Electronics,2,81.0,Card,REG-03,EMP-111
+POS-50665,2026-03-25 00:56:22,MEM-262,Toronto - Downtown,XX,PROD-084,Books & Media,1,20.65,Cash,REG-02,EMP-115
+POS-50666,2025-12-14 10:02:37,MEM-319,London - Oxford St,UK,PROD-033,Home & Living,2,249.17,Card,REG-01,EMP-112
+POS-50667,2026-02-12 15:52:54,MEM-278,Berlin - Mitte,DE,PROD-072,Apparel & Fashion,2,64.95,Contactless,REG-03,EMP-130
+POS-50668,2026-05-19 08:02:26,,New York - 5th Ave,US,PROD-094,Books & Media,3,29.17,Contactless,REG-03,EMP-129
+POS-50669,2026-01-01 03:59:20,,New York - 5th Ave,US,PROD-020,Sporting Goods,4,38.77,Cash,REG-01,EMP-118
+POS-50670,2026-05-20 05:43:07,MEM-172,Berlin - Mitte,DE,PROD-050,Sporting Goods,3,87.69,Cash,REG-01,EMP-123
+POS-50671,2026-09-13 17:04:39,,Mumbai - Bandra,IN,PROD-061,Consumer Electronics,3,360.71,Contactless,REG-01,EMP-116
+POS-50672,2026-04-13 12:34:38,MEM-189,London - Oxford St,XX,PROD-069,Books & Media,1,41.04,Card,REG-03,EMP-101
+POS-50673,2026-03-18 20:18:14,MEM-377,Berlin - Mitte,DE,PROD-010,Sporting Goods,1,131.79,Cash,REG-04,EMP-108
+POS-50674,2026-09-04 08:42:56,MEM-169,Berlin - Mitte,DE,PROD-097,Apparel & Fashion,4,67.93,Contactless,REG-04,EMP-108
+POS-50675,2026-01-18 18:52:00,MEM-397,Sydney - George St,AU,PROD-054,Books & Media,4,15.96,Contactless,REG-03,EMP-104
+POS-50676,2025-09-29 18:56:25,,London - Oxford St,UK,PROD-015,Sporting Goods,3,293.0,Contactless,REG-03,EMP-103
+POS-50677,2026-08-22 22:03:50,MEM-116,London - Oxford St,UK,PROD-077,Apparel & Fashion,3,68.65,Card,REG-04,EMP-107
+POS-50678,2026-07-01 01:28:18,MEM-185,Sydney - George St,AU,PROD-062,Apparel & Fashion,2,48.84,Contactless,REG-01,EMP-114
+POS-50679,2025-12-23 18:18:52,MEM-398,Paris - Champs-Elysees,FR,PROD-005,Sporting Goods,2,133.15,Contactless,REG-03,EMP-130
+POS-50680,2026-05-26 17:58:30,MEM-137,London - Oxford St,UK,PROD-037,Apparel & Fashion,3,93.36,Contactless,REG-06,EMP-114
+POS-50681,2026-07-30 07:00:43,,Berlin - Mitte,XX,PROD-074,Books & Media,3,16.66,Cash,REG-03,EMP-120
+POS-50682,2026-07-20 01:56:50,,New York - 5th Ave,US,PROD-033,Home & Living,2,89.34,Contactless,REG-06,EMP-119
+POS-50683,2025-10-20 05:45:10,,Sydney - George St,AU,PROD-043,Home & Living,1,205.5,Contactless,REG-04,EMP-104
+POS-50684,2025-12-18 12:49:06,MEM-246,Mumbai - Bandra,IN,PROD-066,Consumer Electronics,2,761.2,Card,REG-06,EMP-105
+POS-50685,2026-01-10 04:53:08,MEM-219,London - Oxford St,UK,PROD-048,Home & Living,3,112.18,Contactless,REG-01,EMP-106
+POS-50686,2026-01-24 02:49:50,MEM-259,Sydney - George St,AU,PROD-043,Home & Living,1,174.33,Cash,REG-03,EMP-112
+POS-50687,2025-10-20 06:07:02,MEM-340,Berlin - Mitte,DE,PROD-097,Apparel & Fashion,3,41.82,Contactless,REG-06,EMP-118
+POS-50688,2026-02-27 00:44:42,MEM-159,New York - 5th Ave,US,PROD-094,Books & Media,3,35.71,Cash,REG-05,EMP-126
+POS-50689,2026-08-11 08:13:17,MEM-189,Berlin - Mitte,DE,PROD-072,Apparel & Fashion,3,71.84,Contactless,REG-05,EMP-125
+POS-50690,2026-08-13 11:14:57,,New York - 5th Ave,US,PROD-037,Apparel & Fashion,1,90.46,Cash,REG-01,EMP-129
+POS-50691,2026-05-27 08:19:08,MEM-290,Toronto - Downtown,CA,PROD-038,Home & Living,2,198.01,Contactless,REG-01,EMP-128
+POS-50692,2026-08-02 18:13:11,,Paris - Champs-Elysees,FR,PROD-002,Apparel & Fashion,1,104.42,Cash,REG-01,EMP-128
+POS-50693,2025-09-29 17:53:37,MEM-269,Toronto - Downtown,CA,PROD-067,Apparel & Fashion,2,108.56,Card,REG-05,EMP-105
+POS-50694,2026-07-02 19:02:01,,Toronto - Downtown,CA,PROD-033,Home & Living,1,173.7,Card,REG-01,EMP-128
+POS-50695,2026-06-08 00:02:35,MEM-199,Toronto - Downtown,CA,PROD-097,Apparel & Fashion,3,117.91,Contactless,REG-06,EMP-121
+POS-50696,2026-07-10 09:12:22,,Berlin - Mitte,DE,PROD-031,Consumer Electronics,4,67.25,Contactless,REG-03,EMP-114
+POS-50697,2025-12-22 05:26:31,,London - Oxford St,UK,PROD-088,Home & Living,3,239.66,Card,REG-04,EMP-126
+POS-50698,2026-01-26 05:35:11,MEM-266,Berlin - Mitte,DE,PROD-024,Books & Media,4,22.41,Cash,REG-06,EMP-108
+POS-50699,2026-06-27 20:26:13,,New York - 5th Ave,US,PROD-003,Home & Living,1,232.87,Contactless,REG-01,EMP-120
+POS-50700,2025-11-14 03:22:56,,Mumbai - Bandra,IN,PROD-055,Sporting Goods,2,153.89,Card,REG-02,EMP-130
+POS-50701,2026-06-19 23:37:50,,Sydney - George St,AU,PROD-094,Books & Media,1,15.74,Cash,REG-01,EMP-126
+POS-50702,2026-06-21 05:16:02,MEM-304,London - Oxford St,UK,PROD-076,Consumer Electronics,4,519.77,Card,REG-04,EMP-127
+POS-50001,2026-07-09 01:07:45,,Paris - Champs-Elysees,FR,PROD-072,Apparel & Fashion,4,55.74,Card,REG-05,EMP-105
+POS-50704,2025-11-26 15:19:41,,Mumbai - Bandra,IN,PROD-088,Home & Living,1,247.01,Contactless,REG-03,EMP-102
+POS-50705,2026-01-24 23:06:20,,Toronto - Downtown,CA,PROD-087,Apparel & Fashion,1,21.85,Contactless,REG-01,EMP-129
+POS-50706,2026-01-01 03:26:01,MEM-397,Paris - Champs-Elysees,FR,PROD-071,Consumer Electronics,2,552.42,Contactless,REG-01,EMP-122
+POS-50707,2026-03-09 23:06:26,MEM-304,London - Oxford St,UK,PROD-022,Apparel & Fashion,4,39.28,Cash,REG-01,EMP-117
+POS-50708,2026-06-03 20:22:36,,Mumbai - Bandra,IN,PROD-078,Home & Living,2,58.59,Contactless,REG-01,EMP-121
+POS-50709,2025-10-15 10:13:03,MEM-112,New York - 5th Ave,US,PROD-049,Books & Media,2,9.04,Card,REG-06,EMP-126
+POS-50710,2025-11-21 03:14:06,,Sydney - George St,AU,PROD-040,Sporting Goods,4,104.95,Card,REG-03,EMP-105
+POS-50711,2026-06-30 11:37:56,MEM-187,Mumbai - Bandra,IN,PROD-022,Apparel & Fashion,1,40.14,Cash,REG-03,EMP-124
+POS-50712,2026-08-10 15:29:40,,Paris - Champs-Elysees,FR,PROD-052,Apparel & Fashion,3,48.75,Card,REG-06,EMP-127
+POS-50713,2026-02-19 16:22:40,,London - Oxford St,UK,PROD-089,Books & Media,4,33.84,Card,REG-01,EMP-120
+POS-50714,2025-09-30 16:54:28,MEM-349,Mumbai - Bandra,IN,PROD-076,Consumer Electronics,1,716.03,Contactless,REG-02,EMP-120
+POS-50715,2025-12-20 07:27:06,,Berlin - Mitte,DE,PROD-056,Consumer Electronics,1,545.71,Cash,REG-05,EMP-129
+POS-50716,2025-11-22 18:48:22,MEM-136,London - Oxford St,UK,PROD-100,Sporting Goods,4,153.3,Contactless,REG-01,EMP-129
+POS-50717,2026-04-17 16:21:57,MEM-393,New York - 5th Ave,US,PROD-085,Sporting Goods,2,262.14,Contactless,REG-06,EMP-121
+POS-50718,2026-07-15 16:40:06,MEM-379,Toronto - Downtown,CA,PROD-030,Sporting Goods,1,284.65,Cash,REG-01,EMP-110
+POS-50719,2025-12-23 22:26:29,MEM-149,Berlin - Mitte,DE,PROD-080,Sporting Goods,4,234.97,Contactless,REG-02,EMP-124
+POS-50720,2025-10-23 20:38:20,MEM-371,Mumbai - Bandra,IN,PROD-091,Consumer Electronics,4,395.99,Contactless,REG-04,EMP-103
+POS-50721,2026-01-03 20:54:21,,Paris - Champs-Elysees,FR,PROD-042,Apparel & Fashion,1,49.15,Cash,REG-05,EMP-104
+POS-50722,2026-06-16 04:19:41,MEM-317,Toronto - Downtown,CA,PROD-025,Sporting Goods,3,260.24,Card,REG-06,EMP-102
+POS-50723,2025-09-17 20:20:21,,Berlin - Mitte,DE,PROD-007,Apparel & Fashion,4,45.93,Card,REG-01,EMP-107
+POS-50724,2026-02-08 20:49:52,,Berlin - Mitte,DE,PROD-018,Home & Living,4,158.73,Cash,REG-04,EMP-104
+POS-50725,2026-08-23 06:44:15,MEM-280,Mumbai - Bandra,IN,PROD-072,Apparel & Fashion,1,63.6,Contactless,REG-04,EMP-104
+POS-50726,2026-04-16 12:10:47,MEM-154,London - Oxford St,UK,PROD-069,Books & Media,2,37.71,Card,REG-03,EMP-115
+POS-50727,2026-05-31 15:52:28,,Sydney - George St,AU,PROD-079,Books & Media,1,22.01,Contactless,REG-04,EMP-119
+POS-50728,2025-10-17 01:45:54,MEM-220,Mumbai - Bandra,IN,PROD-085,Sporting Goods,1,202.03,Card,REG-03,EMP-112
+POS-50729,2025-10-10 01:49:57,MEM-119,Berlin - Mitte,DE,PROD-084,Books & Media,2,38.71,Card,REG-02,EMP-130
+POS-50730,2025-11-24 05:36:18,MEM-229,New York - 5th Ave,US,PROD-056,Consumer Electronics,1,428.77,Card,REG-03,EMP-121
+POS-50731,2026-04-21 13:39:27,MEM-379,Berlin - Mitte,DE,PROD-039,Books & Media,1,10.93,Cash,REG-05,EMP-104
+POS-50732,2026-04-28 21:45:33,,Berlin - Mitte,DE,PROD-085,Sporting Goods,3,292.13,Cash,REG-03,EMP-114
+POS-50733,2026-06-23 23:00:22,MEM-167,London - Oxford St,UK,PROD-002,Apparel & Fashion,4,77.08,Card,REG-04,EMP-117
+POS-50734,2026-07-24 20:55:14,MEM-199,Sydney - George St,AU,PROD-069,Books & Media,1,11.05,Contactless,REG-02,EMP-124
+POS-50735,2026-01-14 16:08:03,,Mumbai - Bandra,IN,PROD-079,Books & Media,3,27.06,Contactless,REG-04,EMP-110
+POS-50736,2026-02-06 16:01:46,MEM-339,New York - 5th Ave,US,PROD-028,Home & Living,1,71.8,Card,REG-01,EMP-114
+POS-50737,2026-03-22 16:19:37,,Sydney - George St,AU,PROD-067,Apparel & Fashion,1,77.66,Card,REG-04,EMP-103
+POS-50738,2026-05-17 17:13:13,,New York - 5th Ave,US,PROD-082,Apparel & Fashion,4,101.97,Contactless,REG-03,EMP-128
+POS-50739,2026-09-06 00:11:12,,Paris - Champs-Elysees,FR,PROD-073,Home & Living,2,145.19,Cash,REG-01,EMP-121
+POS-50740,2026-06-02 06:19:41,,Paris - Champs-Elysees,FR,PROD-091,Consumer Electronics,1,662.57,Card,REG-06,EMP-117
+POS-50741,2026-09-12 04:49:18,MEM-184,Sydney - George St,AU,PROD-088,Home & Living,1,183.72,Card,REG-06,EMP-117
+POS-50742,2026-03-07 05:16:02,,Paris - Champs-Elysees,FR,PROD-033,Home & Living,2,0.0,Card,REG-04,EMP-107
+POS-50743,2026-05-31 23:06:28,,Paris - Champs-Elysees,FR,PROD-001,Consumer Electronics,1,54.5,Cash,REG-02,EMP-114
+POS-50744,2025-11-26 15:16:58,MEM-128,Toronto - Downtown,CA,PROD-052,Apparel & Fashion,3,47.93,Card,REG-03,EMP-125
+POS-50745,2026-09-07 07:07:45,MEM-133,Sydney - George St,AU,PROD-079,Books & Media,4,16.34,Contactless,REG-04,EMP-122
+POS-50746,2026-02-20 17:06:38,,New York - 5th Ave,US,PROD-023,Home & Living,1,76.02,Contactless,REG-06,EMP-110
+POS-50747,2025-10-26 22:10:23,,Toronto - Downtown,CA,PROD-032,Apparel & Fashion,1,42.76,Contactless,REG-06,EMP-113
+POS-50748,2026-07-14 01:53:12,MEM-358,Sydney - George St,AU,PROD-033,Home & Living,1,36.24,Card,REG-01,EMP-101
+POS-50749,2025-10-18 18:51:02,MEM-245,New York - 5th Ave,US,PROD-027,Apparel & Fashion,4,94.71,Card,REG-04,EMP-114
+POS-50750,2026-02-26 21:04:31,MEM-370,Mumbai - Bandra,IN,PROD-097,Apparel & Fashion,2,80.06,Card,REG-03,EMP-114
+POS-50751,2026-08-19 08:33:31,,London - Oxford St,UK,PROD-047,Apparel & Fashion,1,105.64,Card,REG-06,EMP-104
+POS-50752,2026-05-27 11:05:30,MEM-398,Toronto - Downtown,CA,PROD-042,Apparel & Fashion,2,96.96,Cash,REG-05,EMP-116
+POS-50753,2026-10-13 06:38:12,,London - Oxford St,UK,PROD-059,Books & Media,1,28.22,Card,REG-03,EMP-116
+POS-50754,2026-07-07 19:58:07,MEM-255,Mumbai - Bandra,IN,PROD-045,Sporting Goods,1,247.04,Cash,REG-06,EMP-123
+POS-50755,2026-05-03 05:30:22,,Paris - Champs-Elysees,FR,PROD-084,Books & Media,3,14.21,Contactless,REG-02,EMP-104
+POS-50756,2026-08-21 05:53:16,MEM-348,Sydney - George St,AU,PROD-040,Sporting Goods,1,234.76,Contactless,REG-03,EMP-109
+POS-50757,2025-09-17 00:30:22,MEM-295,Toronto - Downtown,CA,PROD-010,Sporting Goods,3,90.53,Card,REG-05,EMP-105
+POS-50758,2025-10-29 17:46:00,,Mumbai - Bandra,IN,PROD-083,Home & Living,2,223.77,Cash,REG-02,EMP-105
+POS-50759,2025-11-30 02:45:13,,London - Oxford St,UK,PROD-031,Consumer Electronics,2,421.25,Card,REG-05,EMP-122
+POS-50760,2026-03-01 10:42:29,MEM-347,Berlin - Mitte,DE,PROD-044,Books & Media,3,37.04,Card,REG-02,EMP-109
+POS-50761,2025-11-27 20:08:54,MEM-319,Sydney - George St,AU,PROD-002,Apparel & Fashion,1,41.36,Contactless,REG-05,EMP-115
+POS-50762,2026-08-15 17:53:07,MEM-360,New York - 5th Ave,US,PROD-005,Sporting Goods,2,219.25,Contactless,REG-06,EMP-129
+POS-50763,2025-11-09 14:41:22,MEM-327,Toronto - Downtown,CA,PROD-040,Sporting Goods,4,71.65,Cash,REG-05,EMP-109
+POS-50764,2025-12-11 16:30:55,MEM-215,Sydney - George St,AU,PROD-024,Books & Media,4,44.28,Cash,REG-03,EMP-129
+POS-50765,2026-01-16 14:57:39,MEM-119,New York - 5th Ave,US,PROD-051,Consumer Electronics,3,405.54,Contactless,REG-06,EMP-130
+POS-50766,2025-12-31 01:48:58,,Mumbai - Bandra,IN,PROD-090,Sporting Goods,4,144.38,Cash,REG-04,EMP-117
+POS-50767,2026-07-24 08:55:24,MEM-204,London - Oxford St,UK,PROD-013,Home & Living,4,187.12,Cash,REG-03,EMP-106
+POS-50768,2026-05-10 01:21:04,,London - Oxford St,UK,PROD-078,Home & Living,1,102.57,Card,REG-05,EMP-123
+POS-50769,2026-04-05 14:02:26,MEM-257,Berlin - Mitte,DE,PROD-068,Home & Living,2,117.9,Contactless,REG-01,EMP-107
+POS-50770,2026-01-21 12:11:38,,Sydney - George St,AU,PROD-087,Apparel & Fashion,3,114.86,Contactless,REG-04,EMP-110
+POS-50771,2026-04-10 16:56:57,MEM-369,Paris - Champs-Elysees,FR,PROD-062,Apparel & Fashion,2,37.32,Contactless,REG-02,EMP-113
+POS-50772,2025-12-18 19:55:35,,Paris - Champs-Elysees,FR,PROD-090,Sporting Goods,3,244.46,Cash,REG-06,EMP-102
+POS-50773,2026-09-08 12:03:11,MEM-222,Paris - Champs-Elysees,FR,PROD-012,Apparel & Fashion,2,53.07,Cash,REG-03,EMP-126
+POS-50774,2026-03-21 09:44:14,MEM-117,Paris - Champs-Elysees,FR,PROD-057,Apparel & Fashion,2,102.79,Contactless,REG-02,EMP-121
+POS-50775,2026-04-28 17:01:28,MEM-224,Mumbai - Bandra,IN,PROD-019,Books & Media,4,37.28,Contactless,REG-01,EMP-125
+POS-50776,2025-12-27 04:41:20,,Toronto - Downtown,CA,PROD-030,Sporting Goods,2,102.15,Contactless,REG-04,EMP-117
+POS-50777,2026-03-31 06:04:48,MEM-381,Berlin - Mitte,DE,PROD-081,Consumer Electronics,3,104.76,Cash,REG-02,EMP-101
+POS-50778,2026-08-17 21:06:56,MEM-293,New York - 5th Ave,US,PROD-079,Books & Media,4,18.76,Card,REG-06,EMP-128
+POS-50779,2025-12-04 23:23:19,MEM-328,London - Oxford St,UK,PROD-046,Consumer Electronics,1,667.51,Card,REG-01,EMP-120
+POS-50780,2026-04-27 04:31:45,,New York - 5th Ave,US,PROD-086,Consumer Electronics,2,590.34,Card,REG-03,EMP-111
+POS-50781,2026-03-17 07:21:36,,New York - 5th Ave,US,PROD-086,Consumer Electronics,4,151.79,Contactless,REG-03,EMP-113
+POS-50782,2026-06-26 10:32:10,MEM-258,London - Oxford St,UK,PROD-086,Consumer Electronics,3,239.13,Contactless,REG-01,EMP-123
+POS-50783,2026-08-30 16:59:11,MEM-188,London - Oxford St,UK,PROD-041,Consumer Electronics,1,627.0,Contactless,REG-04,EMP-116
+POS-50784,2025-10-23 15:42:04,MEM-126,Toronto - Downtown,CA,PROD-077,Apparel & Fashion,2,110.17,Contactless,REG-04,EMP-110
+POS-50785,2026-07-20 05:45:40,MEM-352,New York - 5th Ave,US,PROD-036,Consumer Electronics,4,774.84,Card,REG-04,EMP-109
+POS-50786,2025-11-17 17:04:10,MEM-256,Sydney - George St,AU,PROD-078,Home & Living,3,56.58,Contactless,REG-01,EMP-125
+POS-50787,2026-07-12 01:23:18,,Paris - Champs-Elysees,FR,PROD-046,Consumer Electronics,1,146.68,Contactless,REG-05,EMP-110
+POS-50788,2026-04-25 16:43:04,,Berlin - Mitte,DE,PROD-020,Sporting Goods,1,79.6,Cash,REG-02,EMP-112
+POS-50789,2025-12-21 19:30:11,MEM-103,London - Oxford St,UK,PROD-056,Consumer Electronics,4,666.12,Contactless,REG-05,EMP-119
+POS-50790,2026-03-23 18:26:39,MEM-148,Sydney - George St,AU,PROD-021,Consumer Electronics,1,182.04,Contactless,REG-04,EMP-128
+POS-50791,2026-06-30 13:07:26,MEM-374,Toronto - Downtown,CA,PROD-035,Sporting Goods,1,157.02,Card,REG-04,EMP-126
+POS-50792,2025-11-18 19:39:02,,Sydney - George St,AU,PROD-055,Sporting Goods,3,173.0,Contactless,REG-01,EMP-121
+POS-50793,2026-04-27 13:54:22,MEM-244,Paris - Champs-Elysees,FR,PROD-006,Consumer Electronics,1,572.57,Contactless,REG-02,EMP-109
+POS-50794,2025-09-21 05:48:32,,London - Oxford St,UK,PROD-041,Consumer Electronics,1,235.57,Cash,REG-03,EMP-106
+POS-50795,2025-12-09 23:15:22,MEM-162,Toronto - Downtown,CA,PROD-043,Home & Living,1,102.07,Card,REG-02,EMP-104
+POS-50796,2026-05-21 14:53:16,MEM-362,London - Oxford St,XX,PROD-088,Home & Living,2,227.25,Cash,REG-01,EMP-120
+POS-50797,2026-08-10 22:04:39,,Paris - Champs-Elysees,FR,PROD-081,Consumer Electronics,4,324.49,Cash,REG-05,EMP-124
+POS-50798,2026-01-16 07:31:28,MEM-112,London - Oxford St,UK,PROD-072,Apparel & Fashion,3,46.66,Card,REG-02,EMP-126
+POS-50799,2025-12-26 10:19:30,,Toronto - Downtown,CA,PROD-002,Apparel & Fashion,3,112.51,Contactless,REG-03,EMP-124
+POS-50800,2026-06-14 14:19:34,MEM-351,London - Oxford St,UK,PROD-057,Apparel & Fashion,1,95.7,Contactless,REG-01,EMP-120
+POS-50801,2025-11-22 10:05:27,MEM-289,Sydney - George St,AU,PROD-001,Consumer Electronics,4,404.44,Contactless,REG-06,EMP-106
+POS-50802,2026-09-08 19:21:27,,London - Oxford St,UK,PROD-083,Home & Living,2,28.29,Card,REG-02,EMP-128
+POS-50803,2026-07-16 17:39:14,,Paris - Champs-Elysees,FR,PROD-060,Sporting Goods,3,190.76,Cash,REG-02,EMP-110
+POS-50804,2026-05-14 16:44:14,,New York - 5th Ave,US,PROD-062,Apparel & Fashion,3,46.71,Cash,REG-06,EMP-116
+POS-50805,2026-05-26 15:03:25,,Paris - Champs-Elysees,FR,PROD-024,Books & Media,4,21.55,Contactless,REG-02,EMP-109
+POS-50806,2026-07-16 22:22:35,MEM-349,New York - 5th Ave,US,PROD-038,Home & Living,1,20.37,Card,REG-03,EMP-101
+POS-50807,2025-12-05 12:56:18,MEM-252,London - Oxford St,UK,PROD-036,Consumer Electronics,2,778.55,Contactless,REG-04,EMP-103
+POS-50808,2026-06-14 03:59:14,,Toronto - Downtown,CA,PROD-063,Home & Living,4,42.42,Card,REG-05,EMP-104
+POS-50809,2026-01-01 02:52:28,MEM-113,Sydney - George St,AU,PROD-091,Consumer Electronics,-3,197.58,Cash,REG-05,EMP-109
+POS-50810,2026-05-01 01:55:32,,Toronto - Downtown,CA,PROD-002,Apparel & Fashion,3,65.55,Card,REG-06,EMP-114
+POS-50811,2026-02-05 00:12:23,MEM-179,Mumbai - Bandra,IN,PROD-098,Home & Living,3,121.17,Card,REG-01,EMP-107
+POS-50812,2026-02-07 01:05:20,,Mumbai - Bandra,IN,PROD-091,Consumer Electronics,1,269.42,Card,REG-01,EMP-124
+POS-50813,2026-02-22 02:30:59,,London - Oxford St,UK,PROD-069,Books & Media,4,41.63,Contactless,REG-05,EMP-119
+POS-50814,2026-06-23 19:24:43,MEM-163,Sydney - George St,AU,PROD-013,Home & Living,4,73.1,Cash,REG-02,EMP-102
+POS-50815,2026-02-02 22:28:44,MEM-364,Mumbai - Bandra,IN,PROD-034,Books & Media,3,14.67,Cash,REG-06,EMP-116
+POS-50816,2025-11-24 16:51:12,,Toronto - Downtown,CA,PROD-085,Sporting Goods,2,143.78,Card,REG-01,EMP-114
+POS-50817,2026-07-03 07:30:10,MEM-124,New York - 5th Ave,US,PROD-081,Consumer Electronics,3,305.24,Cash,REG-03,EMP-102
+POS-50818,2026-05-24 23:37:31,MEM-267,London - Oxford St,UK,PROD-058,Home & Living,4,195.53,Contactless,REG-04,EMP-121
+POS-50819,2026-05-22 12:24:25,MEM-303,Sydney - George St,AU,PROD-065,Sporting Goods,1,41.24,Contactless,REG-05,EMP-128
+POS-50820,2025-09-23 12:34:07,,New York - 5th Ave,US,PROD-057,Apparel & Fashion,1,57.43,Contactless,REG-02,EMP-127
+POS-50821,2025-11-01 21:42:01,,New York - 5th Ave,US,PROD-051,Consumer Electronics,4,0.0,Cash,REG-02,EMP-110
+POS-50822,2026-06-13 10:16:36,MEM-117,Toronto - Downtown,CA,PROD-046,Consumer Electronics,1,556.25,Card,REG-01,EMP-115
+POS-50823,2026-03-07 05:33:10,MEM-237,London - Oxford St,UK,PROD-073,Home & Living,4,210.63,Contactless,REG-03,EMP-128
+POS-50824,2025-11-27 03:28:21,MEM-296,London - Oxford St,UK,PROD-091,Consumer Electronics,3,626.6,Card,REG-05,EMP-102
+POS-50825,2026-01-03 22:31:34,,Sydney - George St,AU,PROD-059,Books & Media,2,44.96,Cash,REG-06,EMP-128
+POS-50826,2025-11-08 22:02:11,MEM-308,London - Oxford St,UK,PROD-080,Sporting Goods,3,74.8,Card,REG-04,EMP-124
+POS-50827,2026-08-11 02:39:48,MEM-188,Toronto - Downtown,CA,PROD-034,Books & Media,3,20.88,Card,REG-03,EMP-104
+POS-50828,2025-10-29 13:27:14,,London - Oxford St,UK,PROD-039,Books & Media,3,25.81,Card,REG-02,EMP-121
+POS-50829,2026-08-23 02:45:50,,Mumbai - Bandra,IN,PROD-068,Home & Living,1,78.84,Card,REG-03,EMP-110
+POS-50830,2026-05-17 21:26:42,MEM-316,Mumbai - Bandra,IN,PROD-030,Sporting Goods,4,229.38,Cash,REG-01,EMP-102
+POS-50831,2026-06-18 12:18:42,MEM-186,New York - 5th Ave,US,PROD-069,Books & Media,1,31.79,Contactless,REG-04,EMP-102
+POS-50832,2025-09-24 23:23:03,,Toronto - Downtown,CA,PROD-065,Sporting Goods,4,127.34,Cash,REG-01,EMP-109
+POS-50833,2026-06-18 14:30:21,MEM-168,Paris - Champs-Elysees,FR,PROD-026,Consumer Electronics,3,722.66,Card,REG-05,EMP-113
+POS-50834,2026-05-18 00:06:55,,London - Oxford St,UK,PROD-051,Consumer Electronics,4,715.79,Card,REG-05,EMP-103
+POS-50835,2025-12-24 14:01:16,,Mumbai - Bandra,IN,PROD-070,Sporting Goods,3,48.97,Contactless,REG-02,EMP-120
+POS-50836,2025-09-26 09:04:18,MEM-145,Toronto - Downtown,CA,PROD-016,Consumer Electronics,3,187.66,Cash,REG-02,EMP-109
+POS-50837,2026-05-15 18:58:40,MEM-142,Paris - Champs-Elysees,FR,PROD-048,Home & Living,3,76.14,Contactless,REG-03,EMP-114
+POS-50838,2026-04-13 16:14:23,MEM-114,London - Oxford St,UK,PROD-058,Home & Living,1,109.26,Card,REG-04,EMP-125
+POS-50839,2026-05-10 03:45:23,MEM-379,Mumbai - Bandra,XX,PROD-077,Apparel & Fashion,4,16.89,Cash,REG-03,EMP-104
+POS-50840,2025-12-13 20:04:50,,Mumbai - Bandra,IN,PROD-002,Apparel & Fashion,4,61.11,Card,REG-04,EMP-120
+POS-50841,2025-12-23 09:52:24,MEM-280,Mumbai - Bandra,IN,PROD-085,Sporting Goods,2,95.41,Card,REG-05,EMP-127
+POS-50842,2025-10-15 06:05:49,MEM-140,New York - 5th Ave,US,PROD-067,Apparel & Fashion,4,63.68,Contactless,REG-02,EMP-118
+POS-50843,2025-12-16 20:30:24,MEM-267,Toronto - Downtown,CA,PROD-011,Consumer Electronics,4,266.05,Contactless,REG-06,EMP-122
+POS-50844,2025-12-06 03:18:50,,Sydney - George St,AU,PROD-014,Books & Media,1,36.93,Card,REG-05,EMP-125
+POS-50845,2026-02-12 21:06:00,MEM-331,London - Oxford St,UK,PROD-017,Apparel & Fashion,4,112.81,Card,REG-04,EMP-104
+POS-50846,2025-10-12 09:14:32,MEM-130,Sydney - George St,AU,PROD-093,Home & Living,4,181.15,Card,REG-05,EMP-128
+POS-50847,2026-03-24 10:28:48,MEM-214,Toronto - Downtown,CA,PROD-042,Apparel & Fashion,3,90.78,Contactless,REG-04,EMP-115
+POS-50848,2026-02-10 17:25:07,MEM-241,New York - 5th Ave,US,PROD-077,Apparel & Fashion,2,79.08,Contactless,REG-04,EMP-111
+POS-50849,2026-07-13 16:48:07,MEM-230,Sydney - George St,AU,PROD-038,Home & Living,4,234.81,Card,REG-06,EMP-130
+POS-50850,2026-05-22 05:21:27,MEM-345,Mumbai - Bandra,IN,PROD-079,Books & Media,4,19.48,Cash,REG-02,EMP-111
+POS-50851,2026-03-04 07:26:23,MEM-147,Sydney - George St,AU,PROD-060,Sporting Goods,2,279.36,Cash,REG-03,EMP-129
+POS-50852,2026-02-05 22:52:33,,New York - 5th Ave,US,PROD-098,Home & Living,4,61.24,Card,REG-05,EMP-119
+POS-50853,2025-11-26 05:54:50,MEM-274,Paris - Champs-Elysees,FR,PROD-046,Consumer Electronics,2,503.73,Cash,REG-03,EMP-104
+POS-50854,2026-08-16 07:23:22,,Paris - Champs-Elysees,FR,PROD-041,Consumer Electronics,4,490.56,Cash,REG-02,EMP-106
+POS-50855,2026-08-27 05:56:23,MEM-389,Paris - Champs-Elysees,FR,PROD-094,Books & Media,2,19.25,Contactless,REG-02,EMP-123
+POS-50856,2026-03-14 16:38:24,,London - Oxford St,UK,PROD-001,Consumer Electronics,4,100.16,Card,REG-01,EMP-104
+POS-50857,2026-02-11 07:29:11,MEM-101,Berlin - Mitte,DE,PROD-017,Apparel & Fashion,4,21.16,Card,REG-02,EMP-102
+POS-50858,2025-12-19 13:56:49,MEM-284,New York - 5th Ave,US,PROD-096,Consumer Electronics,2,72.09,Contactless,REG-05,EMP-102
+POS-50859,2026-07-14 09:30:18,,Sydney - George St,AU,PROD-053,Home & Living,4,64.67,Contactless,REG-01,EMP-109
+POS-50860,2026-06-11 07:58:07,,Paris - Champs-Elysees,FR,PROD-020,Sporting Goods,2,145.18,Card,REG-04,EMP-120
+POS-50861,2025-10-21 22:39:23,,Berlin - Mitte,DE,PROD-026,Consumer Electronics,2,455.56,Cash,REG-05,EMP-106
+POS-50001,2026-01-11 16:39:31,,Toronto - Downtown,CA,PROD-092,Apparel & Fashion,1,102.67,Cash,REG-01,EMP-121
+POS-50863,2025-10-07 09:40:51,MEM-198,Mumbai - Bandra,IN,PROD-043,Home & Living,2,66.54,Contactless,REG-06,EMP-110
+POS-50864,2025-11-28 16:19:10,,Berlin - Mitte,DE,PROD-070,Sporting Goods,3,298.54,Contactless,REG-05,EMP-106
+POS-50865,2026-08-17 08:31:23,MEM-168,London - Oxford St,UK,PROD-020,Sporting Goods,4,247.51,Card,REG-01,EMP-107
+POS-50866,2026-01-02 17:52:58,MEM-220,Berlin - Mitte,DE,PROD-048,Home & Living,4,67.45,Cash,REG-01,EMP-111
+POS-50867,2026-06-04 05:05:02,MEM-322,London - Oxford St,UK,PROD-003,Home & Living,4,103.86,Card,REG-02,EMP-130
+POS-50868,2026-03-29 04:45:45,MEM-304,Toronto - Downtown,CA,PROD-092,Apparel & Fashion,4,66.69,Contactless,REG-06,EMP-128
+POS-50869,2026-01-26 07:00:50,MEM-331,London - Oxford St,UK,PROD-001,Consumer Electronics,3,394.76,Card,REG-01,EMP-105
+POS-50870,2026-08-27 00:51:32,MEM-170,New York - 5th Ave,US,PROD-083,Home & Living,4,178.46,Contactless,REG-04,EMP-107
+POS-50871,2025-12-29 20:19:18,MEM-172,Paris - Champs-Elysees,FR,PROD-055,Sporting Goods,3,256.75,Cash,REG-02,EMP-130
+POS-50872,2025-10-04 11:55:23,,London - Oxford St,UK,PROD-035,Sporting Goods,2,275.44,Card,REG-04,EMP-104
+POS-50873,2026-06-10 06:18:54,,Sydney - George St,AU,PROD-009,Books & Media,3,9.58,Cash,REG-05,EMP-104
+POS-50874,2026-06-09 22:00:04,MEM-129,London - Oxford St,UK,PROD-077,Apparel & Fashion,4,18.81,Card,REG-03,EMP-104
+POS-50875,2025-09-26 18:34:29,,Mumbai - Bandra,IN,PROD-077,Apparel & Fashion,1,97.38,Contactless,REG-06,EMP-110
+POS-50876,2026-01-19 15:31:23,,New York - 5th Ave,US,PROD-033,Home & Living,2,91.19,Contactless,REG-04,EMP-111
+POS-50877,2026-02-20 16:06:56,MEM-216,New York - 5th Ave,US,PROD-058,Home & Living,3,177.16,Card,REG-04,EMP-106
+POS-50878,2026-07-16 14:59:55,MEM-227,Mumbai - Bandra,IN,PROD-046,Consumer Electronics,4,618.44,Card,REG-01,EMP-105
+POS-50879,2025-11-07 04:10:01,MEM-273,Mumbai - Bandra,IN,PROD-049,Books & Media,2,8.97,Card,REG-06,EMP-121
+POS-50880,2026-02-10 14:26:48,MEM-282,New York - 5th Ave,US,PROD-084,Books & Media,4,30.78,Cash,REG-03,EMP-104
+POS-50881,2026-03-12 10:48:42,MEM-389,New York - 5th Ave,US,PROD-055,Sporting Goods,1,184.03,Contactless,REG-04,EMP-112
+POS-50882,2025-10-31 21:50:02,MEM-334,New York - 5th Ave,US,PROD-084,Books & Media,4,24.12,Cash,REG-06,EMP-127
+POS-50001,2026-06-21 00:32:00,,Toronto - Downtown,CA,PROD-001,Consumer Electronics,2,353.97,Cash,REG-02,EMP-108
+POS-50884,2026-02-08 09:05:13,MEM-198,Mumbai - Bandra,IN,PROD-045,Sporting Goods,1,232.73,Card,REG-04,EMP-123
+POS-50885,2025-11-05 07:00:07,MEM-157,Mumbai - Bandra,IN,PROD-093,Home & Living,3,202.11,Card,REG-02,EMP-114
+POS-50886,2025-12-28 12:24:53,MEM-262,Toronto - Downtown,CA,PROD-084,Books & Media,3,14.9,Card,REG-01,EMP-130
+POS-50887,2026-01-19 19:10:37,,Sydney - George St,AU,PROD-020,Sporting Goods,4,0.0,Contactless,REG-06,EMP-102
+POS-50888,2026-06-18 09:20:54,,Sydney - George St,AU,PROD-087,Apparel & Fashion,2,97.83,Card,REG-02,EMP-122
+POS-50889,2026-02-14 21:38:43,MEM-270,Paris - Champs-Elysees,FR,PROD-035,Sporting Goods,2,114.2,Card,REG-06,EMP-130
+POS-50890,2026-10-06 06:38:12,,Mumbai - Bandra,IN,PROD-048,Home & Living,3,168.26,Cash,REG-01,EMP-114
+POS-50891,2025-11-08 21:56:12,,Paris - Champs-Elysees,FR,PROD-094,Books & Media,2,10.29,Card,REG-01,EMP-110
+POS-50892,2026-02-20 19:29:24,,Paris - Champs-Elysees,FR,PROD-018,Home & Living,4,162.05,Cash,REG-04,EMP-127
+POS-50893,2026-08-20 05:41:50,MEM-168,Toronto - Downtown,CA,PROD-003,Home & Living,1,112.03,Cash,REG-06,EMP-130
+POS-50894,2026-09-14 15:14:33,MEM-350,New York - 5th Ave,US,PROD-090,Sporting Goods,4,266.71,Card,REG-03,EMP-112
+POS-50895,2026-02-09 19:21:29,,London - Oxford St,UK,PROD-054,Books & Media,1,10.18,Contactless,REG-04,EMP-128
+POS-50896,2026-07-16 05:26:30,MEM-159,Mumbai - Bandra,IN,PROD-003,Home & Living,2,132.88,Contactless,REG-04,EMP-112
+POS-50897,2026-03-07 22:02:02,MEM-260,New York - 5th Ave,US,PROD-040,Sporting Goods,4,264.24,Cash,REG-06,EMP-107
+POS-50898,2026-03-26 17:58:36,MEM-308,Berlin - Mitte,DE,PROD-023,Home & Living,4,64.12,Card,REG-03,EMP-117
+POS-50899,2026-08-21 22:08:14,,Toronto - Downtown,CA,PROD-096,Consumer Electronics,3,322.71,Contactless,REG-04,EMP-113
+POS-50900,2025-09-19 12:48:25,,Paris - Champs-Elysees,FR,PROD-008,Home & Living,1,178.9,Card,REG-04,EMP-107
+POS-50901,2026-08-16 19:29:04,MEM-265,Toronto - Downtown,CA,PROD-065,Sporting Goods,4,239.63,Card,REG-01,EMP-117
+POS-50902,2025-10-29 13:45:34,,London - Oxford St,UK,PROD-035,Sporting Goods,2,108.24,Contactless,REG-06,EMP-115
+POS-50903,2025-10-10 15:32:09,,Sydney - George St,AU,PROD-074,Books & Media,2,15.48,Cash,REG-03,EMP-109
+POS-50904,2025-10-23 11:18:04,MEM-346,Berlin - Mitte,DE,PROD-084,Books & Media,1,12.09,Contactless,REG-06,EMP-128
+POS-50905,2026-05-25 18:14:44,MEM-281,Paris - Champs-Elysees,FR,PROD-028,Home & Living,1,30.36,Card,REG-04,EMP-125
+POS-50906,2026-04-15 03:12:36,MEM-135,Toronto - Downtown,CA,PROD-023,Home & Living,2,22.18,Card,REG-03,EMP-118
+POS-50907,2025-12-28 16:12:31,,New York - 5th Ave,US,PROD-003,Home & Living,4,53.26,Contactless,REG-05,EMP-104
+POS-50908,2026-01-25 19:28:53,MEM-275,Toronto - Downtown,CA,PROD-054,Books & Media,2,8.1,Cash,REG-01,EMP-130
+POS-50909,2025-12-24 00:34:47,MEM-111,Toronto - Downtown,CA,PROD-018,Home & Living,4,120.75,Card,REG-02,EMP-118
+POS-50910,2025-10-15 12:48:44,,Berlin - Mitte,DE,PROD-033,Home & Living,2,166.8,Card,REG-01,EMP-124
+POS-50911,2026-02-06 19:08:07,MEM-173,Sydney - George St,AU,PROD-015,Sporting Goods,2,189.77,Contactless,REG-02,EMP-111
+POS-50912,2026-02-05 06:05:48,MEM-257,Berlin - Mitte,DE,PROD-065,Sporting Goods,2,169.8,Cash,REG-03,EMP-129
+POS-50913,2026-08-13 12:19:13,,Toronto - Downtown,CA,PROD-060,Sporting Goods,3,61.96,Cash,REG-02,EMP-112
+POS-50914,2026-06-20 18:32:34,MEM-135,Toronto - Downtown,CA,PROD-026,Consumer Electronics,3,76.34,Card,REG-04,EMP-116
+POS-50915,2026-05-13 03:22:23,MEM-126,Sydney - George St,AU,PROD-080,Sporting Goods,4,205.51,Contactless,REG-03,EMP-118
+POS-50916,2026-08-08 23:59:11,MEM-129,Toronto - Downtown,CA,PROD-091,Consumer Electronics,4,139.51,Card,REG-01,EMP-101
+POS-50917,2025-11-22 17:32:04,MEM-246,Mumbai - Bandra,IN,PROD-031,Consumer Electronics,2,188.14,Cash,REG-05,EMP-110
+POS-50918,2025-09-28 09:15:53,MEM-312,Berlin - Mitte,DE,PROD-081,Consumer Electronics,4,279.92,Card,REG-06,EMP-113
+POS-50919,2026-01-25 17:54:55,MEM-386,New York - 5th Ave,US,PROD-053,Home & Living,2,176.91,Card,REG-03,EMP-111
+POS-50920,2026-04-05 14:38:43,MEM-257,Paris - Champs-Elysees,FR,PROD-083,Home & Living,3,231.69,Contactless,REG-01,EMP-128
+POS-50921,2025-10-29 23:11:49,MEM-171,Mumbai - Bandra,IN,PROD-002,Apparel & Fashion,2,119.05,Card,REG-01,EMP-114
+POS-50922,2026-07-21 14:05:29,,New York - 5th Ave,US,PROD-056,Consumer Electronics,3,209.71,Card,REG-06,EMP-105
+POS-50923,2026-09-09 20:35:26,MEM-248,Berlin - Mitte,DE,PROD-007,Apparel & Fashion,4,102.37,Cash,REG-05,EMP-119
+POS-50924,2025-12-01 01:51:41,MEM-166,Sydney - George St,AU,PROD-020,Sporting Goods,2,64.83,Cash,REG-05,EMP-117
+POS-50925,2026-05-31 15:06:39,MEM-109,Toronto - Downtown,CA,PROD-015,Sporting Goods,4,80.28,Card,REG-03,EMP-113
+POS-50926,2025-10-14 06:27:28,,Paris - Champs-Elysees,FR,PROD-020,Sporting Goods,4,27.81,Contactless,REG-04,EMP-108
+POS-50927,2026-05-10 11:55:48,,Paris - Champs-Elysees,FR,PROD-001,Consumer Electronics,4,457.04,Cash,REG-01,EMP-123
+POS-50928,2025-12-09 22:23:24,MEM-216,Paris - Champs-Elysees,FR,PROD-093,Home & Living,3,225.07,Contactless,REG-06,EMP-113
+POS-50929,2026-08-14 19:54:33,MEM-339,Berlin - Mitte,DE,PROD-055,Sporting Goods,1,32.63,Cash,REG-01,EMP-101
+POS-50930,2026-04-15 04:19:14,MEM-335,London - Oxford St,UK,PROD-072,Apparel & Fashion,3,103.08,Cash,REG-06,EMP-124
+POS-50931,2026-05-04 04:49:45,MEM-165,Mumbai - Bandra,IN,PROD-066,Consumer Electronics,4,464.14,Card,REG-03,EMP-112
+POS-50932,2026-02-17 10:24:47,,Mumbai - Bandra,IN,PROD-099,Books & Media,2,0.0,Contactless,REG-03,EMP-102
+POS-50933,2025-10-01 05:29:03,MEM-161,Mumbai - Bandra,IN,PROD-058,Home & Living,3,159.05,Contactless,REG-05,EMP-125
+POS-50934,2026-03-09 20:01:10,,Paris - Champs-Elysees,FR,PROD-085,Sporting Goods,3,240.7,Contactless,REG-05,EMP-105
+POS-50935,2026-07-19 11:18:27,MEM-254,Paris - Champs-Elysees,FR,PROD-087,Apparel & Fashion,2,91.75,Cash,REG-04,EMP-126
+POS-50936,2026-02-01 18:46:58,MEM-139,Berlin - Mitte,DE,PROD-027,Apparel & Fashion,3,72.29,Cash,REG-04,EMP-126
+POS-50937,2026-06-17 11:23:39,MEM-370,Berlin - Mitte,DE,PROD-006,Consumer Electronics,3,268.03,Cash,REG-05,EMP-129
+POS-50938,2026-04-14 16:36:34,,Berlin - Mitte,DE,PROD-025,Sporting Goods,1,56.02,Contactless,REG-06,EMP-118
+POS-50939,2026-08-08 06:20:37,,Berlin - Mitte,DE,PROD-087,Apparel & Fashion,1,69.28,Cash,REG-02,EMP-106
+POS-50940,2025-12-05 19:06:01,MEM-146,Mumbai - Bandra,IN,PROD-027,Apparel & Fashion,4,98.32,Card,REG-04,EMP-123
+POS-50941,2025-12-13 01:33:33,,Sydney - George St,AU,PROD-020,Sporting Goods,4,265.44,Cash,REG-04,EMP-116
+POS-50942,2026-04-02 02:58:22,,Berlin - Mitte,DE,PROD-064,Books & Media,4,28.97,Card,REG-04,EMP-105
+POS-50943,2026-08-15 11:55:18,,Mumbai - Bandra,IN,PROD-037,Apparel & Fashion,1,109.99,Card,REG-02,EMP-104
+POS-50944,2026-05-01 00:10:26,MEM-224,Paris - Champs-Elysees,FR,PROD-002,Apparel & Fashion,4,66.54,Card,REG-05,EMP-128
+POS-50945,2026-09-07 21:40:05,,Mumbai - Bandra,IN,PROD-019,Books & Media,1,29.08,Contactless,REG-06,EMP-117
+POS-50946,2026-02-21 08:32:55,,Paris - Champs-Elysees,FR,PROD-025,Sporting Goods,2,296.95,Cash,REG-04,EMP-101
+POS-50947,2025-12-20 02:57:58,,Paris - Champs-Elysees,FR,PROD-032,Apparel & Fashion,1,90.97,Card,REG-02,EMP-126
+POS-50948,2026-07-09 23:57:40,,Sydney - George St,AU,PROD-044,Books & Media,-3,44.6,Card,REG-06,EMP-114
+POS-50949,2026-01-13 14:14:04,,Paris - Champs-Elysees,FR,PROD-086,Consumer Electronics,2,452.74,Cash,REG-06,EMP-109
+POS-50950,2026-05-06 10:08:25,,Paris - Champs-Elysees,XX,PROD-040,Sporting Goods,3,281.98,Card,REG-03,EMP-106
+POS-50951,2025-09-15 01:27:02,,Toronto - Downtown,CA,PROD-082,Apparel & Fashion,2,18.66,Contactless,REG-03,EMP-112
+POS-50952,2026-03-07 04:37:46,MEM-374,Paris - Champs-Elysees,FR,PROD-053,Home & Living,1,163.49,Contactless,REG-06,EMP-105
+POS-50953,2026-06-11 01:19:51,,New York - 5th Ave,US,PROD-062,Apparel & Fashion,4,25.6,Cash,REG-05,EMP-119
+POS-50954,2026-01-27 02:07:56,MEM-400,Sydney - George St,AU,PROD-081,Consumer Electronics,3,193.47,Contactless,REG-02,EMP-108
+POS-50955,2026-06-17 02:02:02,,London - Oxford St,UK,PROD-048,Home & Living,2,69.19,Contactless,REG-03,EMP-121
+POS-50956,2026-03-27 15:11:17,MEM-286,Paris - Champs-Elysees,FR,PROD-100,Sporting Goods,3,41.03,Contactless,REG-06,EMP-127
+POS-50957,2026-10-06 06:38:12,,Berlin - Mitte,DE,PROD-008,Home & Living,4,156.37,Cash,REG-05,EMP-102
+POS-50958,2025-10-09 10:05:48,MEM-287,Berlin - Mitte,DE,PROD-064,Books & Media,4,25.58,Cash,REG-04,EMP-101
+POS-50959,2026-01-26 13:40:04,MEM-327,New York - 5th Ave,US,PROD-074,Books & Media,1,26.16,Contactless,REG-04,EMP-121
+POS-50960,2026-04-24 21:36:36,MEM-120,Sydney - George St,AU,PROD-075,Sporting Goods,3,237.53,Card,REG-05,EMP-119
+POS-50961,2026-03-16 17:15:45,MEM-100,London - Oxford St,UK,PROD-025,Sporting Goods,1,239.12,Contactless,REG-06,EMP-105
+POS-50962,2026-06-24 08:20:37,,Mumbai - Bandra,IN,PROD-089,Books & Media,1,33.88,Contactless,REG-03,EMP-111
+POS-50963,2025-11-10 21:06:19,MEM-269,New York - 5th Ave,US,PROD-069,Books & Media,1,33.87,Cash,REG-01,EMP-109
+POS-50964,2025-10-11 11:30:11,,Sydney - George St,AU,PROD-069,Books & Media,1,21.9,Cash,REG-03,EMP-127
+POS-50965,2025-09-25 13:05:15,MEM-369,New York - 5th Ave,US,PROD-024,Books & Media,4,43.14,Cash,REG-06,EMP-115
+POS-50966,2026-05-09 04:37:21,MEM-204,New York - 5th Ave,US,PROD-004,Books & Media,4,14.8,Card,REG-03,EMP-109
+POS-50967,2026-01-13 06:59:07,,Toronto - Downtown,CA,PROD-004,Books & Media,3,33.02,Card,REG-05,EMP-124
+POS-50968,2026-09-08 15:17:20,MEM-309,London - Oxford St,UK,PROD-071,Consumer Electronics,3,274.31,Contactless,REG-06,EMP-103
+POS-50969,2025-12-15 18:06:14,,Sydney - George St,AU,PROD-075,Sporting Goods,4,170.28,Cash,REG-04,EMP-110
+POS-50970,2025-10-19 06:22:55,,London - Oxford St,UK,PROD-010,Sporting Goods,3,178.43,Cash,REG-05,EMP-126
+POS-50971,2026-02-02 01:02:10,MEM-300,New York - 5th Ave,US,PROD-003,Home & Living,3,126.85,Cash,REG-02,EMP-114
+POS-50972,2026-02-24 11:20:58,,Sydney - George St,AU,PROD-018,Home & Living,4,240.9,Contactless,REG-02,EMP-118
+POS-50973,2025-11-15 09:15:15,MEM-375,Paris - Champs-Elysees,FR,PROD-046,Consumer Electronics,2,360.95,Contactless,REG-05,EMP-106
+POS-50974,2026-02-13 01:03:43,MEM-137,Berlin - Mitte,DE,PROD-074,Books & Media,1,15.59,Cash,REG-05,EMP-125
+POS-50975,2026-02-21 17:02:12,,Mumbai - Bandra,IN,PROD-087,Apparel & Fashion,2,77.15,Cash,REG-04,EMP-102
+POS-50976,2025-10-05 19:49:31,MEM-152,Toronto - Downtown,CA,PROD-080,Sporting Goods,2,76.65,Card,REG-05,EMP-124
+POS-50977,2025-09-16 09:05:16,MEM-280,Paris - Champs-Elysees,FR,PROD-050,Sporting Goods,2,204.71,Contactless,REG-04,EMP-122
+POS-50978,2026-01-09 06:02:53,MEM-276,London - Oxford St,UK,PROD-037,Apparel & Fashion,1,58.57,Card,REG-05,EMP-124
+POS-50979,2026-07-01 10:54:10,,Toronto - Downtown,CA,PROD-017,Apparel & Fashion,2,106.22,Card,REG-05,EMP-117
+POS-50980,2026-01-07 04:40:08,MEM-219,Mumbai - Bandra,IN,PROD-097,Apparel & Fashion,4,34.84,Cash,REG-06,EMP-113
+POS-50981,2026-03-22 10:53:15,MEM-109,Mumbai - Bandra,IN,PROD-012,Apparel & Fashion,4,18.54,Contactless,REG-03,EMP-109
+POS-50982,2025-12-17 01:23:58,,Berlin - Mitte,DE,PROD-061,Consumer Electronics,2,512.51,Card,REG-03,EMP-106
+POS-50983,2026-08-05 23:20:13,MEM-355,London - Oxford St,UK,PROD-012,Apparel & Fashion,1,16.05,Card,REG-05,EMP-117
+POS-50984,2025-11-21 19:23:41,,London - Oxford St,UK,PROD-050,Sporting Goods,4,97.05,Cash,REG-05,EMP-129
+POS-50985,2026-10-05 06:38:12,,Toronto - Downtown,CA,PROD-041,Consumer Electronics,1,112.33,Contactless,REG-01,EMP-118
+POS-50986,2026-09-07 08:22:33,MEM-340,Sydney - George St,AU,PROD-004,Books & Media,1,25.47,Cash,REG-03,EMP-116
+POS-50987,2026-03-19 15:32:37,MEM-171,New York - 5th Ave,US,PROD-024,Books & Media,2,26.13,Card,REG-06,EMP-119
+POS-50988,2026-06-24 13:24:18,MEM-179,Toronto - Downtown,CA,PROD-010,Sporting Goods,4,185.34,Cash,REG-01,EMP-105
+POS-50989,2025-10-20 10:43:06,MEM-299,Toronto - Downtown,CA,PROD-016,Consumer Electronics,4,279.46,Card,REG-06,EMP-101
+POS-50990,2026-07-09 20:14:57,MEM-239,Berlin - Mitte,DE,PROD-093,Home & Living,1,133.36,Card,REG-06,EMP-111
+POS-50991,2026-08-15 09:16:46,,Toronto - Downtown,CA,PROD-094,Books & Media,1,29.2,Card,REG-02,EMP-116
+POS-50992,2026-06-26 04:43:21,,Toronto - Downtown,CA,PROD-056,Consumer Electronics,2,516.51,Cash,REG-04,EMP-102
+POS-50993,2026-05-31 11:34:15,MEM-300,Toronto - Downtown,CA,PROD-047,Apparel & Fashion,4,70.05,Card,REG-02,EMP-113
+POS-50994,2026-03-19 11:07:40,MEM-305,Mumbai - Bandra,IN,PROD-009,Books & Media,3,38.19,Card,REG-04,EMP-125
+POS-50995,2025-12-10 13:12:28,,Sydney - George St,AU,PROD-041,Consumer Electronics,3,368.88,Cash,REG-06,EMP-116
+POS-50996,2026-04-22 19:26:50,MEM-264,Berlin - Mitte,DE,PROD-057,Apparel & Fashion,3,81.85,Card,REG-03,EMP-109
+POS-50997,2026-02-16 08:27:55,,Mumbai - Bandra,IN,PROD-016,Consumer Electronics,1,257.3,Card,REG-02,EMP-104
+POS-50998,2026-03-03 17:41:11,MEM-399,London - Oxford St,UK,PROD-066,Consumer Electronics,2,556.16,Cash,REG-06,EMP-127
+POS-50999,2026-09-15 01:19:54,MEM-268,London - Oxford St,UK,PROD-055,Sporting Goods,2,284.77,Card,REG-01,EMP-123
+POS-51000,2026-05-27 13:45:27,,London - Oxford St,UK,PROD-077,Apparel & Fashion,4,38.81,Cash,REG-05,EMP-108

@@ -1,0 +1,16 @@
+# Example dbt profiles.yml using environment variables
+# Copy this to dbt_project/.dbt/profiles.yml or your ~/.dbt/profiles.yml
+
+e_comm:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: "{{ env_var('DBT_POSTGRES_HOST', 'localhost') }}"
+      user: "{{ env_var('DBT_POSTGRES_USER', 'abhishek') }}"
+      password: "{{ env_var('DBT_POSTGRES_PASSWORD', '') }}"
+      port: "{{ env_var('DBT_POSTGRES_PORT', '5432') | int }}"
+      dbname: "{{ env_var('DBT_POSTGRES_DB', 'e_comm') }}"
+      schema: public
+      threads: 4
+      keepalives_idle: 0
