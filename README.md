@@ -132,11 +132,4 @@ Open **`http://localhost:8080`** in your browser to inspect column definitions, 
 
 ---
 
-## 💼 Resume Bullet Points
 
-You can include this project on your resume with the following descriptions:
-
-* *Designed and deployed an end-to-end containerized ELT pipeline using **dbt Core**, **PostgreSQL**, and **Docker**, processing multi-channel transactional data (Web E-Commerce + Physical Retail POS).*
-* *Implemented a **Medallion Architecture (Bronze ➔ Silver ➔ Gold)** featuring a Kimball Star Schema with fact tables, customer RFM dimensions, and daily executive performance marts.*
-* *Engineered automated data cleansing and deduplication layers in SQL, handling anomalies such as missing customer identifiers, corrupt country codes, and non-positive prices.*
-* *Established robust data governance with **39 dbt schema & singular data quality tests**, enforcing foreign key referential integrity, domain validation, and CI/CD testing via **GitHub Actions**.*
