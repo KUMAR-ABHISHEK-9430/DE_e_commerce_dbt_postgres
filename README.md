@@ -19,7 +19,7 @@ graph TD
         P[raw_pos_sales.csv]
     end
 
-    subgraph Bronze ["Bronze Layer (Ingestion Views)"]
+    subgraph Bronze ["  Bronze Layer (Ingestion Views)"]
         BW[br_ecommerce_raw]
         BP[br_pos_raw]
     end
@@ -151,9 +151,25 @@ streamlit run dashboard/app.py
 
 ---
 
-## 💼 Resume Bullet Points
+## 📊 Analytics & BI Visualization Dashboard
 
-You can include this project on your resume with the following descriptions:
+This project includes an interactive **Streamlit + Plotly** analytical dashboard querying directly from the PostgreSQL **Gold Layer** (`fct_sales`, `dim_customers`, `gold_daily_channel_performance`).
+
+### Launch the Dashboard
+```bash
+# 1. Install dashboard dependencies
+pip install -r requirements.txt
+
+# 2. Run the interactive Streamlit dashboard
+streamlit run dashboard/app.py
+```
+
+### Dashboard Preview
+
+![Omnichannel Retail Analytics Dashboard](assets/dashboard_charts.png)
+
+---
+
 
 * *Designed and deployed an end-to-end containerized ELT pipeline using **dbt Core**, **PostgreSQL**, and **Docker**, processing multi-channel transactional data (Web E-Commerce + Physical Retail POS).*
 * *Implemented a **Medallion Architecture (Bronze ➔ Silver ➔ Gold)** featuring a Kimball Star Schema with fact tables, customer RFM dimensions, and daily executive performance marts.*
