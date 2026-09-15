@@ -151,25 +151,6 @@ streamlit run dashboard/app.py
 
 ---
 
-## 📊 Analytics & BI Visualization Dashboard
-
-This project includes an interactive **Streamlit + Plotly** analytical dashboard querying directly from the PostgreSQL **Gold Layer** (`fct_sales`, `dim_customers`, `gold_daily_channel_performance`).
-
-### Launch the Dashboard
-```bash
-# 1. Install dashboard dependencies
-pip install -r requirements.txt
-
-# 2. Run the interactive Streamlit dashboard
-streamlit run dashboard/app.py
-```
-
-### Dashboard Preview
-
-![Omnichannel Retail Analytics Dashboard](assets/dashboard_charts.png)
-
----
-
 
 * *Designed and deployed an end-to-end containerized ELT pipeline using **dbt Core**, **PostgreSQL**, and **Docker**, processing multi-channel transactional data (Web E-Commerce + Physical Retail POS).*
 * *Implemented a **Medallion Architecture (Bronze ➔ Silver ➔ Gold)** featuring a Kimball Star Schema with fact tables, customer RFM dimensions, and daily executive performance marts.*
