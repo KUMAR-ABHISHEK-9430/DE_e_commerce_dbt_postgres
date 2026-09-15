@@ -7,7 +7,7 @@ e_comm:
     dev:
       type: postgres
       host: "{{ env_var('DBT_POSTGRES_HOST', 'localhost') }}"
-      user: "{{ env_var('DBT_POSTGRES_USER', 'abhishek') }}"
+      user: "{{ env_var('DBT_POSTGRES_USER', 'any_name') }}"
       password: "{{ env_var('DBT_POSTGRES_PASSWORD', '') }}"
       port: "{{ env_var('DBT_POSTGRES_PORT', '5432') | int }}"
       dbname: "{{ env_var('DBT_POSTGRES_DB', 'e_comm') }}"
