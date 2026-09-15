@@ -126,9 +126,28 @@ Generate and view the dbt data catalog and lineage graph in your browser:
 docker compose run --rm dbt docs generate
 
 # 2. Start the documentation web server
-docker compose run -p 8080:8080 --rm dbt docs serve --port 8080
+docker compose run -p 8080:8080 --rm dbt docs serve --host 0.0.0.0 --port 8080 --no-browser
 ```
 Open **`http://localhost:8080`** in your browser to inspect column definitions, SQL source code, and interactive DAG graphs.
+
+---
+
+## 📊 Analytics & BI Visualization Dashboard
+
+This project includes an interactive **Streamlit + Plotly** analytical dashboard querying directly from the PostgreSQL **Gold Layer** (`fct_sales`, `dim_customers`, `gold_daily_channel_performance`).
+
+### Launch the Dashboard
+```bash
+# 1. Install dashboard dependencies
+pip install -r requirements.txt
+
+# 2. Run the interactive Streamlit dashboard
+streamlit run dashboard/app.py
+```
+
+### Dashboard Preview
+
+![Omnichannel Retail Analytics Dashboard](assets/dashboard_charts.png)
 
 ---
 
@@ -140,3 +159,4 @@ You can include this project on your resume with the following descriptions:
 * *Implemented a **Medallion Architecture (Bronze ➔ Silver ➔ Gold)** featuring a Kimball Star Schema with fact tables, customer RFM dimensions, and daily executive performance marts.*
 * *Engineered automated data cleansing and deduplication layers in SQL, handling anomalies such as missing customer identifiers, corrupt country codes, and non-positive prices.*
 * *Established robust data governance with **39 dbt schema & singular data quality tests**, enforcing foreign key referential integrity, domain validation, and CI/CD testing via **GitHub Actions**.*
+* *Developed an interactive **Streamlit + Plotly** analytical dashboard querying the PostgreSQL Gold layer to deliver real-time omnichannel sales KPIs and customer cohort analysis.*
