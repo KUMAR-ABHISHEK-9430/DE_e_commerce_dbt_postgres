@@ -19,7 +19,7 @@ graph TD
         P[raw_pos_sales.csv]
     end
 
-    subgraph Bronze ["Bronze Layer (Ingestion Views)"]
+    subgraph Bronze ["  Bronze Layer (Ingestion Views)"]
         BW[br_ecommerce_raw]
         BP[br_pos_raw]
     end
