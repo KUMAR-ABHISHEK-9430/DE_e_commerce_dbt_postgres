@@ -1,0 +1,94 @@
+version: 2
+
+models:
+  - name: dim_customers
+    description: "Customer dimension table with lifetime RFM metrics and tiers."
+    columns:
+      - name: customer_id
+        description: "Primary key for dim_customers."
+        tests:
+          - unique
+          - not_null
+
+      - name: customer_tier
+        description: "Customer segmentation tier."
+        tests:
+          - accepted_values:
+              values: ['VIP / High Frequency', 'Repeat Customer', 'One-Time Customer', 'Anonymous']
+
+      - name: preferred_channel
+        description: "Primary shopping channel."
+        tests:
+          - accepted_values:
+              values: ['WEB', 'POS']
+
+  - name: dim_products
+    description: "Product dimension table with aggregate sales statistics."
+    columns:
+      - name: product_id
+        description: "Primary key for dim_products."
+        tests:
+          - unique
+          - not_null
+
+      - name: category
+        tests:
+          - not_null
+
+      - name: total_revenue
+        tests:
+          - not_null
+
+  - name: fct_sales
+    description: "Central fact table storing item-level transactions from all channels."
+    columns:
+      - name: sales_key
+        description: "Surrogate primary key (MD5 hash of order_id, product_id, sales_channel)."
+        tests:
+          - unique
+          - not_null
+
+      - name: order_id
+        tests:
+          - not_null
+
+      - name: customer_id
+        tests:
+          - not_null
+
+      - name: product_id
+        description: "Foreign key referencing dim_products."
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_products')
+              field: product_id
+
+      - name: sales_channel
+        tests:
+          - accepted_values:
+              values: ['WEB', 'POS']
+
+      - name: quantity
+        tests:
+          - not_null
+
+      - name: total_amount
+        tests:
+          - not_null
+
+  - name: gold_daily_channel_performance
+    description: "Daily reporting mart comparing Web vs In-Store POS performance."
+    columns:
+      - name: order_date
+        tests:
+          - not_null
+
+      - name: sales_channel
+        tests:
+          - accepted_values:
+              values: ['WEB', 'POS']
+
+      - name: total_revenue
+        tests:
+          - not_null

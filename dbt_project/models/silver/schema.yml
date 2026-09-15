@@ -1,0 +1,84 @@
+version: 2
+
+models:
+  - name: slv_ecommerce_sales
+    description: "Cleaned and deduplicated web e-commerce transactions."
+    columns:
+      - name: order_id
+        description: "Primary key for web orders after deduplication."
+        tests:
+          - unique
+          - not_null
+
+      - name: customer_id
+        description: "Customer identifier, coalesced with CUST-GUEST if null."
+        tests:
+          - not_null
+
+      - name: sales_channel
+        tests:
+          - accepted_values:
+              values: ['WEB']
+
+      - name: quantity
+        tests:
+          - not_null
+
+      - name: unit_price
+        tests:
+          - not_null
+
+      - name: total_amount
+        tests:
+          - not_null
+
+  - name: slv_pos_sales
+    description: "Cleaned and deduplicated physical store POS transactions."
+    columns:
+      - name: order_id
+        description: "Primary key mapped from receipt_no after deduplication."
+        tests:
+          - unique
+          - not_null
+
+      - name: customer_id
+        description: "Customer loyalty number, coalesced with WALK-IN if null."
+        tests:
+          - not_null
+
+      - name: sales_channel
+        tests:
+          - accepted_values:
+              values: ['POS']
+
+      - name: quantity
+        tests:
+          - not_null
+
+      - name: unit_price
+        tests:
+          - not_null
+
+  - name: slv_conformed_sales
+    description: "Unified multi-channel sales table combining WEB and POS."
+    columns:
+      - name: order_id
+        tests:
+          - not_null
+
+      - name: customer_id
+        tests:
+          - not_null
+
+      - name: product_id
+        tests:
+          - not_null
+
+      - name: sales_channel
+        tests:
+          - accepted_values:
+              values: ['WEB', 'POS']
+
+      - name: total_amount
+        tests:
+          - not_null
